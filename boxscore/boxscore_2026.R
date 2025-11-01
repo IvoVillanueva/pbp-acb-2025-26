@@ -5,6 +5,7 @@ library(tidyverse)
 library(lubridate)
 library(httr)
 library(jsonlite)
+library(janitor)
 
 # Define headers for API requests
 headers <- c(
@@ -47,8 +48,9 @@ boxscores_matches <- function(partidos_2026) {
     mutate(abb = ifelse(is_local == FALSE, visitor_team_team_abbrev_name,
       local_team_team_abbrev_name
     )) %>%
-    select(-visitor_team_media, -local_team_media) %>%
-    janitor::clean_names()
+    select(where(~ !is.list(.))) %>%
+    clean_names() 
+    
 
   boxscores
 }

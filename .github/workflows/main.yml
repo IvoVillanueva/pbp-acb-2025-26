@@ -42,7 +42,6 @@ jobs:
           packages: tidyverse, httr, janitor, jsonlite, lubridate
           
       - name: Run R script
-        env:
         run: Rscript boxscore/boxscores_2026.R
         shell: bash
 

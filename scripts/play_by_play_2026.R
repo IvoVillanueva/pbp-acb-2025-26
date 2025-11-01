@@ -1,4 +1,5 @@
-# Description: This script retrieves and processes boxscore data for all played matches in the 2025-26 ACB season.
+# Script to extract play-by-play data for the 2025-26 ACB season
+# Description: This script retrieves and processes play-by-play data for all played matches in the 2025-26 ACB season.
 # It saves the processed data as a CSV file in a "data" directory.
 
 source("scripts/helpers.R")
@@ -22,26 +23,21 @@ partidos_2026 <- calendario %>%
 # Function to get boxscore for a single match
 boxscores_matches <- function(partidos_2026) {
   json_resids <- fromJSON(content(GET(
-    url = paste0(
-      Sys.getenv("API_URL"),
-      partidos_2026
+    url = paste0(Sys.getenv("PBP"),
+      partidos_2026, "&jvFilter=true"
     ),
     add_headers(.headers = headers)
   ), "text")) %>%
     pluck() %>%
-    unnest(
-      cols = c(competition, license, local_team, visitor_team, edition),
-      names_sep = "_"
-    ) %>%
-    mutate(abb = ifelse(is_local == FALSE, visitor_team_team_abbrev_name,
-      local_team_team_abbrev_name
-    )) %>%
-    select(where(~ !is.list(.))) %>%
-    clean_names()
+    unnest(cols = c(competition, edition, license, team, type, statistics),
+           names_sep = "_") %>%
+    select(!c(id_subphase, id_round, license_media, team_media,
+              contains("_date"))) %>%
+    tibble()
 }
 
 # Map function to get all boxscores
-stats_boxscores_df <- map_df(partidos_2026, boxscores_matches)
+pbp_df <- map_df(partidos_2026, boxscores_matches)
 
 # write dataframe to .csv in a folder called "data/"
-write.csv(stats_boxscores_df, "data/boxscores_2025_26.csv", row.names = FALSE)
+write.csv(pbp_df, "data/playbyplay_2025_26.csv", row.names = FALSE)

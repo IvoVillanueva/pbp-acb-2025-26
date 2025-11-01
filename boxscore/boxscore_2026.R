@@ -1,3 +1,6 @@
+# Description: This script retrieves and processes boxscore data for all played matches in the 2025-26 ACB season.
+# It saves the processed data as a CSV file in a "data" directory.
+# Load necessary libraries
 library(tidyverse)
 library(lubridate)
 library(httr)

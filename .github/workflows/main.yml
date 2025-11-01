@@ -17,8 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      ACB_KEY: ${{ secrets.ACB_KEY }}
+      ACB_TOKEN: ${{ secrets.ACB_TOKEN }}
+      API_URL: ${{ secrets.API_URL }}
     steps:
       - uses: actions/checkout@v3  
       

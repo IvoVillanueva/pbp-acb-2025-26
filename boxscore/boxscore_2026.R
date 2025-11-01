@@ -50,9 +50,6 @@ boxscores_matches <- function(partidos_2026) {
     )) %>%
     select(where(~ !is.list(.))) %>%
     clean_names() 
-    
-
-  boxscores
 }
 
 # Map function to get all boxscores

@@ -7,7 +7,7 @@ source("scripts/helpers.R")
 if (!dir.exists("data")) dir.create("data")
 
 # Load match calendar for the 2025-26 ACB season
-calendario <- read_csv(Sys.getenv("URL_CALENDARIO"), show_col_types = FALSE)
+calendario <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/calendario/calendario25_26.csv", show_col_types = FALSE)
 
 # Filter matches that have already been played
 partidos_2026 <- calendario %>%

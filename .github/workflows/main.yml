@@ -6,7 +6,10 @@ name: Extraer Boxscore ACB 2025-26
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 22 * * SUN-MON' 
+    # Octubre a diciembre
+    - cron: '30 22 * 10-12 0,1'  # domingos y lunes a las 00:30 hora española
+    # Enero a julio
+    - cron: '30 22 * 1-7 0,1'
 
 jobs:
   Get-Boxscore-ACB:
@@ -41,7 +44,7 @@ jobs:
       - name: Run R script
         env:
           JSON_STATS_EUROLEAGUE: ${{ secrets.JSON_STATS_EUROLEAGUE }}
-        run: Rscript boxsscore/boxscores_2026.R
+        run: Rscript boxscore/boxscores_2026.R
         shell: bash
 
       - name: Commit changes in data folder

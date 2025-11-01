@@ -1,1 +1,1 @@
-source("R/boxscores.R")
+source("scripts/boxscore_2026.R")

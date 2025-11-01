@@ -42,7 +42,7 @@ jobs:
           packages: tidyverse, httr, janitor, jsonlite, lubridate
           
       - name: Run R script
-        run: Rscript boxscore/boxscore_2026.R
+        run: Rscript scripts/main_acb_update.R
         shell: bash
 
       - name: Commit changes in data folder

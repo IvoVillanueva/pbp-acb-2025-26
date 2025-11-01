@@ -20,6 +20,7 @@ jobs:
       ACB_KEY: ${{ secrets.ACB_KEY }}
       ACB_TOKEN: ${{ secrets.ACB_TOKEN }}
       API_URL: ${{ secrets.API_URL }}
+      PBP: ${{ secrets.PBP }}
     steps:
       - uses: actions/checkout@v3  
       

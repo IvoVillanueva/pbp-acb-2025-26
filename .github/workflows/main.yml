@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
   schedule:
     # Octubre a diciembre
-    - cron: '30 22 * 10-12 SAT-SUN'  # domingos y lunes a las 00:30 hora española
+    cron: '30 23 * 10-12 6,0'  # domingos y lunes a las 00:30 hora española
     # Enero a julio
-    - cron: '30 22 * 1-7 0,1'
+    - cron: '30 22 * 1-7 6,0'
 
 jobs:
   Get-Boxscore-ACB:

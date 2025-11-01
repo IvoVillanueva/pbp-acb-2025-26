@@ -43,7 +43,6 @@ jobs:
           
       - name: Run R script
         env:
-          JSON_STATS_EUROLEAGUE: ${{ secrets.JSON_STATS_EUROLEAGUE }}
         run: Rscript boxscore/boxscores_2026.R
         shell: bash
 

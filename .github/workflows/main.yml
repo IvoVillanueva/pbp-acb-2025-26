@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     # Octubre a diciembre
-    - cron: '30 23 * 10-12 6,0'  # domingos y lunes a las 00:30 hora española
+    - cron: '30 23 * 10-12 6,0'  # sabados y domingos a las 00:30 hora española
     # Enero a julio
     - cron: '30 22 * 1-7 6,0'
 

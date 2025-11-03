@@ -1,6 +1,7 @@
-# Description: This script retrieves and processes boxscore data for all played matches in the 2025-26 ACB season.
+# Script to extract play-by-play data for the 2025-26 ACB season
+# Description: This script retrieves and processes play-by-play data
+# for all played matches in the 2025-26 ACB season.
 # It saves the processed data as a CSV file in a "data" directory.
-
 source("scripts/helpers.R")
 
 # Create data directory if it doesn't exist

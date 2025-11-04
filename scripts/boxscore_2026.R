@@ -16,7 +16,9 @@ partidos_2026 <- calendario %>%
     date = as.Date(as_datetime(date)),
     time = hms::hms(time)
   ) %>%
-  filter(date < today()) %>%
+  filter(
+  date == today() & time < Sys.time() %>% format("%H:%M:%S") %>% hms::as_hms()
+)) %>%
   pull(id)
 
 # Function to get boxscore for a single match

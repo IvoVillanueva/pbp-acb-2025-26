@@ -2,6 +2,7 @@
 # Description: This script retrieves and processes play-by-play data
 # for all played matches in the 2025-26 ACB season.
 # It saves the processed data as a CSV file in a "data" directory.
+
 source("scripts/helpers.R")
 
 # Create data directory if it doesn't exist
@@ -18,8 +19,10 @@ partidos_2026 <- calendario %>%
     time = hms::hms(time)
   ) %>%
   filter(
-  date == today() & time < Sys.time() %>% format("%H:%M:%S") %>% hms::as_hms()
-)) %>%
+    date == today() & time < Sys.time() %>%
+      format("%H:%M:%S") %>%
+      hms::as_hms()
+  ) %>%
   pull(id)
 
 # Function to get boxscore for a single match

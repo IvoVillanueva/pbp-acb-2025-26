@@ -51,7 +51,8 @@ boxscores_matches <- function(partidos_2026) {
       num_jornada = calendario %>%
         filter(id == partidos_2026) %>%
         pull(matchweek_number)
-    )
+    )%>%
+    select(where(~ !is.list(.)))
 }
 
 # Map function to get all boxscores

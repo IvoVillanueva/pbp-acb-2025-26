@@ -19,8 +19,8 @@ partidos_2026 <- calendario %>%
     time = hms::hms(time)
   ) %>%
   filter(
-    date == today() &
-      time < hms::as_hms(format(Sys.time(), "%H:%M:%S"))
+    date < today() |
+      (date == today() & time < hms::as_hms(format(Sys.time(), "%H:%M:%S")))
   ) %>%
   pull(id)
 

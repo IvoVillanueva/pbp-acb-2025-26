@@ -52,7 +52,8 @@ boxscores_matches <- function(partidos_2026) {
         filter(id == partidos_2026) %>%
         pull(matchweek_number)
     )%>%
-    select(where(~ !is.list(.)))
+    select(where(~ !is.list(.))) %>%
+    clean_names()
 }
 
 # Map function to get all boxscores

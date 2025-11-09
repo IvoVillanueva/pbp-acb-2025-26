@@ -13,10 +13,10 @@ id <- ids %>%
     date = as.Date(as_datetime(date))
   ) %>%
   filter(
-    date <= today()) %>% 
+    date <=today()) %>% 
   pull(id)
 
-
+id <- 5886
 iddf <- function(id) {
   link <- paste0("https://api2.acb.com/api/v1/openapilive/Matches/matchesbymatchweeklite?idCompetition=1&idEdition=90&idMatchweek=", id)
   res1 <- GET(url = link, add_headers(.headers = headers))

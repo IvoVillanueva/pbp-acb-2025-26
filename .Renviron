@@ -2,4 +2,4 @@ ACB_TOKEN=H4sIAAAAAAAAA32Ry3aqMBSG36iLi7qOw4oFk9PEQyohZEYilkCirIMF5OkbOmiVQUdZ+/
 ACB_KEY=0dd94928-6f57-4c08-a3bd-b1b2f092976
 API_URL=https://api2.acb.com/api/v1/openapilive/Boxscore/playermatchstatistics?idMatch=
 PBP=https://api2.acb.com/api/v1/openapilive/PlayByPlay/matchevents?idMatch=
-
+API_RESULTADOS=https://api2.acb.com/api/v1/openapilive/Matches/matchesbymatchweeklite?idCompetition=1&idEdition=90&idMatchweek=

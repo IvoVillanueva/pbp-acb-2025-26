@@ -47,6 +47,3 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-
-# Ignore generated CSV files in data folder
-data/*.csv

@@ -29,3 +29,10 @@ iddf <- function(id) {
 }
 
 resultados <- map_df(id, iddf)
+
+resultados %>%
+  select(
+       abb_local = local_team_team_abbrev_name,
+       score_local,
+       abb_visitor = visitor_team_team_abbrev_name,
+       score_visitor) 

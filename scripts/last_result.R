@@ -44,13 +44,24 @@ resultados_jornada <- resultados %>%
   filter(jornada == max(jornada)) %>%
   pivot_longer(
     cols = c(
-      abb_local, dif_local,
-      abb_visitor, dif_visitor
+      abb_local, score_local, dif_local,
+      abb_visitor, score_visitor, dif_visitor
     ),
     names_to = c(".value", "type"),
     names_pattern = "(.*)_(local|visitor)"
   ) %>%
-  select(abb, dif) %>%
-  mutate(dif = ifelse(dif > 0, paste0("W +", dif), paste0("L ", dif)))
+  mutate(id_partido = rep(1:(n() / 2), each = 2)) %>%
+  group_by(id_partido) %>%
+  mutate(
+    rival = if_else(type == "local",
+      paste0("vs. ", abb[type == "visitor"]),
+      paste0("@. ", abb[type == "local"])
+    )
+  ) %>%
+  ungroup() %>%
+  mutate(rival = ifelse(dif > 0, paste0(rival, " (W +", dif, ")"),
+    paste0(rival, " (L ", dif, ")")
+  )) %>%
+  select(abb, rival)
 
 write.csv(resultados_jornada, "data/last_result.csv", row.names = FALSE)

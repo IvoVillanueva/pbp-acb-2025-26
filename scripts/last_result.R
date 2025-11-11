@@ -52,3 +52,5 @@ resultados_jornada <- resultados %>%
   ) %>%
   select(abb, dif) %>%
   mutate(dif = ifelse(dif > 0, paste0("W +", dif), paste0("L ", dif)))
+
+write.csv(resultados_jornada, "data/last_result.csv", row.names = FALSE)

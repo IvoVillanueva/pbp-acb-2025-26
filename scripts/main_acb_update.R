@@ -2,3 +2,4 @@
 source("scripts/boxscore_2026.R")
 source("scripts/play_by_play_2026.R")
 source("scripts/resultados.R")
+source("scripts/last_result.R")

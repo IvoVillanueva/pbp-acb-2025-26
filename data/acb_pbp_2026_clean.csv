@@ -39255,16 +39255,16 @@
 104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,1,00:00:01,110,91,52249,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,19
 104527,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,110,91,52256,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
 104527,8,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,110,91,52256,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,42711,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,42711,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",178,"Salto ganado","Won jump",FALSE,1,10,0,00:10:00,0,0,43346,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39679,7 +39679,7 @@
 104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,9,4,00:09:04,57,64,48407,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
 104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,9,4,00:09:04,57,64,48407,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
 104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",94,"Canasta de 3","3-Point Shot Made",TRUE,4,8,49,00:08:49,60,64,48422,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,4
-104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,8,48,00:08:48,60,64,48422,"Kyle Kuric","Chumi Ortega","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,8,49,00:08:49,60,64,48422,"Shannon Evans","Chumi Ortega","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
 104526,8,"JOV",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,8,48,00:08:48,60,64,48432,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,8,25,00:08:25,60,64,48560,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,8,25,00:08:25,60,64,48560,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4

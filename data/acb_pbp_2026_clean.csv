@@ -38627,6 +38627,1003 @@
 104513,7,"COV",30001214,"Elias Valtonen","E. Valtonen","Valtonen",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,1,00:00:01,82,76,72133,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
 104513,7,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,82,76,72149,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 104513,7,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,82,76,72149,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,44474,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,44474,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,45063,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",179,"Salto perdido","Lost jump",FALSE,1,10,0,00:10:00,0,0,45063,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,9,51,00:09:51,0,0,45100,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,9,51,00:09:51,0,0,45100,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,9,35,00:09:35,0,0,45116,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,9,35,00:09:35,0,0,45116,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",159,"Personal no TL","Foul No FT",TRUE,1,9,24,00:09:24,0,0,45126,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",110,"Falta recibida","Foul Received",FALSE,1,9,24,00:09:24,0,0,45126,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,9,20,00:09:20,0,0,45152,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,9,20,00:09:20,0,0,45152,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,9,8,00:09:08,0,0,45165,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,0
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,9,8,00:09:08,0,0,45165,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",106,"Pérdida","Turnover",FALSE,1,8,54,00:08:54,0,0,45179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",103,"Recuperación","Steal",TRUE,1,8,54,00:08:54,0,0,45179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",100,"Mate","Dunk",TRUE,1,8,49,00:08:49,2,0,45184,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,2
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",159,"Personal no TL","Foul No FT",TRUE,1,8,37,00:08:37,2,0,45197,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",110,"Falta recibida","Foul Received",FALSE,1,8,37,00:08:37,2,0,45197,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",106,"Pérdida","Turnover",FALSE,1,8,30,00:08:30,2,0,45219,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",159,"Personal no TL","Foul No FT",FALSE,1,8,28,00:08:28,2,0,45225,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",110,"Falta recibida","Foul Received",TRUE,1,8,28,00:08:28,2,0,45225,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",93,"Canasta de 2","2-Point Shot Made",TRUE,1,8,21,00:08:21,4,0,45248,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,8,4,00:08:04,4,0,45266,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,8,4,00:08:04,4,0,45266,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",106,"Pérdida","Turnover",FALSE,1,7,59,00:07:59,4,0,45271,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",103,"Recuperación","Steal",TRUE,1,7,59,00:07:59,4,0,45271,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",162,"Personal 3TL","Foul 3FT",FALSE,1,7,57,00:07:57,4,0,45278,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",110,"Falta recibida","Foul Received",TRUE,1,7,57,00:07:57,4,0,45278,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",92,"Canasta de 1","Free Throw Made",TRUE,1,7,57,00:07:57,5,0,45300,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",92,"Canasta de 1","Free Throw Made",TRUE,1,7,57,00:07:57,6,0,45319,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",92,"Canasta de 1","Free Throw Made",TRUE,1,7,57,00:07:57,7,0,45334,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",93,"Canasta de 2","2-Point Shot Made",FALSE,1,7,44,00:07:44,7,2,45352,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,7,44,00:07:44,7,2,45352,"Melwin Pantzar","Tryggvi Hlinason","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",106,"Pérdida","Turnover",TRUE,1,7,33,00:07:33,7,2,45363,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",103,"Recuperación","Steal",FALSE,1,7,33,00:07:33,7,2,45363,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",93,"Canasta de 2","2-Point Shot Made",FALSE,1,7,24,00:07:24,7,4,45371,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",94,"Canasta de 3","3-Point Shot Made",TRUE,1,7,5,00:07:05,10,4,45391,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,7,5,00:07:05,10,4,45391,"Kobi Simmons","Hamidou Diallo","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,6,44,00:06:44,10,4,45412,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,6,44,00:06:44,10,4,45412,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",93,"Canasta de 2","2-Point Shot Made",TRUE,1,6,37,00:06:37,12,4,45419,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",94,"Canasta de 3","3-Point Shot Made",FALSE,1,6,18,00:06:18,12,7,45438,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",94,"Canasta de 3","3-Point Shot Made",TRUE,1,5,53,00:05:53,15,7,45462,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,5,53,00:05:53,15,7,45462,"Markus Howard","Hamidou Diallo","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",94,"Canasta de 3","3-Point Shot Made",FALSE,1,5,41,00:05:41,15,10,45475,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,5,41,00:05:41,15,10,45475,"Melwin Pantzar","Luke Petrasek","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",159,"Personal no TL","Foul No FT",FALSE,1,5,31,00:05:31,15,10,45485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",110,"Falta recibida","Foul Received",TRUE,1,5,31,00:05:31,15,10,45485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",115,"Sale Pista","Substitution - Out",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",115,"Sale Pista","Substitution - Out",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",115,"Sale Pista","Substitution - Out",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",115,"Sale Pista","Substitution - Out",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",115,"Sale Pista","Substitution - Out",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",112,"Entra Pista","Substitution - In",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",112,"Entra Pista","Substitution - In",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",112,"Entra Pista","Substitution - In",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",112,"Entra Pista","Substitution - In",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",112,"Entra Pista","Substitution - In",TRUE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",115,"Sale Pista","Substitution - Out",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",115,"Sale Pista","Substitution - Out",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",115,"Sale Pista","Substitution - Out",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",115,"Sale Pista","Substitution - Out",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",115,"Sale Pista","Substitution - Out",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",112,"Entra Pista","Substitution - In",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",112,"Entra Pista","Substitution - In",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",112,"Entra Pista","Substitution - In",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",112,"Entra Pista","Substitution - In",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",112,"Entra Pista","Substitution - In",FALSE,1,5,31,00:05:31,15,10,45538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",93,"Canasta de 2","2-Point Shot Made",TRUE,1,5,20,00:05:20,17,10,45599,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",159,"Personal no TL","Foul No FT",TRUE,1,5,4,00:05:04,17,10,45618,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",110,"Falta recibida","Foul Received",FALSE,1,5,4,00:05:04,17,10,45618,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",93,"Canasta de 2","2-Point Shot Made",FALSE,1,4,59,00:04:59,17,12,45647,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,4,41,00:04:41,17,12,45665,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"SBB",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,41,00:04:41,17,12,45665,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",94,"Canasta de 3","3-Point Shot Made",FALSE,1,4,28,00:04:28,17,15,45678,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,2
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,4,28,00:04:28,17,15,45678,"Harald Frey","Martin Krampelj","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,4,8,00:04:08,17,15,45698,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,8,00:04:08,17,15,45698,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",106,"Pérdida","Turnover",FALSE,1,3,54,00:03:54,17,15,45712,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",103,"Recuperación","Steal",TRUE,1,3,54,00:03:54,17,15,45712,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,3,40,00:03:40,17,15,45726,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,3,40,00:03:40,17,15,45726,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",109,"Falta en Ataque","Offensive Foul",FALSE,1,3,25,00:03:25,17,15,45746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",106,"Pérdida","Turnover",FALSE,1,3,25,00:03:25,17,15,45746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",110,"Falta recibida","Foul Received",TRUE,1,3,25,00:03:25,17,15,45746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",161,"Personal 2TL","Foul 2FT",FALSE,1,3,16,00:03:16,17,15,45779,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",110,"Falta recibida","Foul Received",TRUE,1,3,16,00:03:16,17,15,45779,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",92,"Canasta de 1","Free Throw Made",TRUE,1,3,16,00:03:16,18,15,45807,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,3
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",92,"Canasta de 1","Free Throw Made",TRUE,1,3,16,00:03:16,19,15,45828,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",106,"Pérdida","Turnover",FALSE,1,3,8,00:03:08,19,15,45841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",103,"Recuperación","Steal",TRUE,1,3,8,00:03:08,19,15,45841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",100,"Mate","Dunk",TRUE,1,3,3,00:03:03,21,15,45847,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,6
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",160,"Personal 1TL","Foul 1FT",FALSE,1,3,3,00:03:03,21,15,45850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",110,"Falta recibida","Foul Received",TRUE,1,3,3,00:03:03,21,15,45850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",92,"Canasta de 1","Free Throw Made",TRUE,1,3,3,00:03:03,22,15,45884,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",93,"Canasta de 2","2-Point Shot Made",FALSE,1,2,52,00:02:52,22,17,45900,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",106,"Pérdida","Turnover",TRUE,1,2,29,00:02:29,22,17,45923,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",106,"Pérdida","Turnover",FALSE,1,2,15,00:02:15,22,17,45945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",115,"Sale Pista","Substitution - Out",TRUE,1,2,15,00:02:15,22,17,45947,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",112,"Entra Pista","Substitution - In",TRUE,1,2,15,00:02:15,22,17,45947,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",94,"Canasta de 3","3-Point Shot Made",TRUE,1,1,59,00:01:59,25,17,45972,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,1,59,00:01:59,25,17,45972,"Timothé Luwawu-Cabarrot","Clement Frisch","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",161,"Personal 2TL","Foul 2FT",TRUE,1,1,42,00:01:42,25,17,45990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",110,"Falta recibida","Foul Received",FALSE,1,1,42,00:01:42,25,17,45990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",115,"Sale Pista","Substitution - Out",FALSE,1,1,42,00:01:42,25,17,46003,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",112,"Entra Pista","Substitution - In",FALSE,1,1,42,00:01:42,25,17,46003,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",92,"Canasta de 1","Free Throw Made",FALSE,1,1,42,00:01:42,25,18,46015,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",92,"Canasta de 1","Free Throw Made",FALSE,1,1,42,00:01:42,25,19,46032,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",115,"Sale Pista","Substitution - Out",TRUE,1,1,42,00:01:42,25,19,46034,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",112,"Entra Pista","Substitution - In",TRUE,1,1,42,00:01:42,25,19,46034,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",93,"Canasta de 2","2-Point Shot Made",TRUE,1,1,28,00:01:28,27,19,46059,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,1,28,00:01:28,27,19,46059,"Timothé Luwawu-Cabarrot","Rafael Villar","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",161,"Personal 2TL","Foul 2FT",TRUE,1,1,11,00:01:11,27,19,46078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",110,"Falta recibida","Foul Received",FALSE,1,1,11,00:01:11,27,19,46078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",119,"Asistencia Falta Recibida","Assist Foul Received",FALSE,1,1,11,00:01:11,27,19,46078,"Harald Frey","Amar Sylla","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",115,"Sale Pista","Substitution - Out",TRUE,1,1,11,00:01:11,27,19,46087,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",112,"Entra Pista","Substitution - In",TRUE,1,1,11,00:01:11,27,19,46087,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",92,"Canasta de 1","Free Throw Made",FALSE,1,1,11,00:01:11,27,20,46108,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",92,"Canasta de 1","Free Throw Made",FALSE,1,1,11,00:01:11,27,21,46121,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",115,"Sale Pista","Substitution - Out",FALSE,1,1,11,00:01:11,27,21,46123,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",112,"Entra Pista","Substitution - In",FALSE,1,1,11,00:01:11,27,21,46123,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",106,"Pérdida","Turnover",TRUE,1,1,1,00:01:01,27,21,46146,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",103,"Recuperación","Steal",FALSE,1,1,1,00:01:01,27,21,46146,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,58,00:00:58,27,23,46150,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",115,"Sale Pista","Substitution - Out",TRUE,1,0,58,00:00:58,27,23,46154,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",112,"Entra Pista","Substitution - In",TRUE,1,0,58,00:00:58,27,23,46154,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",94,"Canasta de 3","3-Point Shot Made",TRUE,1,0,43,00:00:43,30,23,46182,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",106,"Pérdida","Turnover",FALSE,1,0,25,00:00:25,30,23,46201,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",103,"Recuperación","Steal",TRUE,1,0,25,00:00:25,30,23,46201,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",94,"Canasta de 3","3-Point Shot Made",TRUE,1,0,0,00:00:00,33,23,46226,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,10
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,0,0,00:00:00,33,23,46226,"Khalifa Diop","Timothé Luwawu-Cabarrot","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104527,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,33,23,46231,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104527,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,33,23,46231,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,33,23,46339,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,33,23,46339,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,33,23,46339,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,33,23,46339,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",93,"Canasta de 2","2-Point Shot Made",FALSE,2,9,43,00:09:43,33,25,46398,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",160,"Personal 1TL","Foul 1FT",TRUE,2,9,43,00:09:43,33,25,46402,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",110,"Falta recibida","Foul Received",FALSE,2,9,43,00:09:43,33,25,46402,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",92,"Canasta de 1","Free Throw Made",FALSE,2,9,43,00:09:43,33,26,46425,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",161,"Personal 2TL","Foul 2FT",FALSE,2,9,30,00:09:30,33,26,46443,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",110,"Falta recibida","Foul Received",TRUE,2,9,30,00:09:30,33,26,46443,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,9,30,00:09:30,33,26,46471,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,7
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",92,"Canasta de 1","Free Throw Made",TRUE,2,9,30,00:09:30,34,26,46486,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,9,13,00:09:13,34,26,46507,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,9,13,00:09:13,34,26,46507,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",94,"Canasta de 3","3-Point Shot Made",TRUE,2,8,59,00:08:59,37,26,46522,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,8,59,00:08:59,37,26,46522,"Khalifa Diop","Markus Howard","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,8,43,00:08:43,37,26,46538,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,43,00:08:43,37,26,46538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,8,32,00:08:32,37,26,46549,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,32,00:08:32,37,26,46549,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",93,"Canasta de 2","2-Point Shot Made",FALSE,2,8,22,00:08:22,37,28,46560,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",160,"Personal 1TL","Foul 1FT",TRUE,2,8,22,00:08:22,37,28,46569,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",110,"Falta recibida","Foul Received",FALSE,2,8,22,00:08:22,37,28,46569,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",115,"Sale Pista","Substitution - Out",FALSE,2,8,22,00:08:22,37,28,46574,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",112,"Entra Pista","Substitution - In",FALSE,2,8,22,00:08:22,37,28,46574,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",115,"Sale Pista","Substitution - Out",FALSE,2,8,22,00:08:22,37,28,46583,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",112,"Entra Pista","Substitution - In",FALSE,2,8,22,00:08:22,37,28,46583,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,8,22,00:08:22,37,28,46601,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,9
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,8,22,00:08:22,37,28,46601,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,9
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",94,"Canasta de 3","3-Point Shot Made",FALSE,2,8,15,00:08:15,37,31,46614,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,7,54,00:07:54,37,31,46635,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"SBB",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,7,54,00:07:54,37,31,46635,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",94,"Canasta de 3","3-Point Shot Made",FALSE,2,7,33,00:07:33,37,34,46658,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,7,33,00:07:33,37,34,46658,"Harald Frey","Darrun Hilliard","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104527,8,"BKN",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,2,7,32,00:07:32,37,34,46664,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",115,"Sale Pista","Substitution - Out",TRUE,2,7,32,00:07:32,37,34,46732,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",112,"Entra Pista","Substitution - In",TRUE,2,7,32,00:07:32,37,34,46732,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",94,"Canasta de 3","3-Point Shot Made",TRUE,2,7,22,00:07:22,40,34,46775,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,7,22,00:07:22,40,34,46775,"Hamidou Diallo","Kobi Simmons","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",106,"Pérdida","Turnover",FALSE,2,7,5,00:07:05,40,34,46791,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",103,"Recuperación","Steal",TRUE,2,7,5,00:07:05,40,34,46791,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",159,"Personal no TL","Foul No FT",FALSE,2,6,58,00:06:58,40,34,46798,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",110,"Falta recibida","Foul Received",TRUE,2,6,58,00:06:58,40,34,46798,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",106,"Pérdida","Turnover",TRUE,2,6,51,00:06:51,40,34,46824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",103,"Recuperación","Steal",FALSE,2,6,51,00:06:51,40,34,46824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",106,"Pérdida","Turnover",FALSE,2,6,37,00:06:37,40,34,46841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",109,"Falta en Ataque","Offensive Foul",TRUE,2,6,32,00:06:32,40,34,46851,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",106,"Pérdida","Turnover",TRUE,2,6,32,00:06:32,40,34,46851,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",110,"Falta recibida","Foul Received",FALSE,2,6,32,00:06:32,40,34,46851,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",93,"Canasta de 2","2-Point Shot Made",FALSE,2,6,23,00:06:23,40,36,46880,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,6,10,00:06:10,40,36,46893,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",105,"Tapón Recibido","Block Received",TRUE,2,6,10,00:06:10,40,36,46893,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",102,"Tapón","Block",FALSE,2,6,10,00:06:10,40,36,46893,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,6,10,00:06:10,40,36,46893,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",106,"Pérdida","Turnover",FALSE,2,5,55,00:05:55,40,36,46907,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",103,"Recuperación","Steal",TRUE,2,5,55,00:05:55,40,36,46907,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",533,"Mate fuera","Missed Dunk",TRUE,2,5,51,00:05:51,40,36,46911,"0","0","0",0,0,1,0,0,0,0,0,0,0,1,-1,0,0,0,0,4
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,5,51,00:05:51,40,36,46911,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",93,"Canasta de 2","2-Point Shot Made",TRUE,2,5,46,00:05:46,42,36,46918,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",160,"Personal 1TL","Foul 1FT",FALSE,2,5,46,00:05:46,42,36,46921,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",110,"Falta recibida","Foul Received",TRUE,2,5,46,00:05:46,42,36,46921,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",115,"Sale Pista","Substitution - Out",TRUE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",115,"Sale Pista","Substitution - Out",TRUE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",112,"Entra Pista","Substitution - In",TRUE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",112,"Entra Pista","Substitution - In",TRUE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",115,"Sale Pista","Substitution - Out",FALSE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",115,"Sale Pista","Substitution - Out",FALSE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",112,"Entra Pista","Substitution - In",FALSE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",112,"Entra Pista","Substitution - In",FALSE,2,5,46,00:05:46,42,36,46929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",92,"Canasta de 1","Free Throw Made",TRUE,2,5,46,00:05:46,43,36,46955,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",115,"Sale Pista","Substitution - Out",TRUE,2,5,46,00:05:46,43,36,46956,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",112,"Entra Pista","Substitution - In",TRUE,2,5,46,00:05:46,43,36,46956,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",159,"Personal no TL","Foul No FT",TRUE,2,5,32,00:05:32,43,36,46986,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",110,"Falta recibida","Foul Received",FALSE,2,5,32,00:05:32,43,36,46986,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",537,"Técnica 1TL","Technical Foul 1FT",TRUE,2,5,32,00:05:32,43,36,47001,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",92,"Canasta de 1","Free Throw Made",FALSE,2,5,32,00:05:32,43,37,47028,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104527,8,"BKN",NA,NA,NA,NA,106,"Pérdida","Turnover",TRUE,2,5,32,00:05:32,43,37,47034,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",94,"Canasta de 3","3-Point Shot Made",FALSE,2,5,22,00:05:22,43,40,47058,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,5,22,00:05:22,43,40,47058,"Melwin Pantzar","Luke Petrasek","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",94,"Canasta de 3","3-Point Shot Made",TRUE,2,5,6,00:05:06,46,40,47075,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,5,6,00:05:06,46,40,47075,"Matteo Spagnolo","Timothé Luwawu-Cabarrot","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",537,"Técnica 1TL","Technical Foul 1FT",TRUE,2,5,2,00:05:02,46,40,47091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",115,"Sale Pista","Substitution - Out",TRUE,2,5,2,00:05:02,46,40,47099,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",112,"Entra Pista","Substitution - In",TRUE,2,5,2,00:05:02,46,40,47099,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",115,"Sale Pista","Substitution - Out",FALSE,2,5,2,00:05:02,46,40,47099,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",112,"Entra Pista","Substitution - In",FALSE,2,5,2,00:05:02,46,40,47099,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",92,"Canasta de 1","Free Throw Made",FALSE,2,5,2,00:05:02,46,41,47130,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104527,8,"BKN",NA,NA,NA,NA,106,"Pérdida","Turnover",TRUE,2,5,2,00:05:02,46,41,47132,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",109,"Falta en Ataque","Offensive Foul",FALSE,2,5,0,00:05:00,46,41,47157,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",106,"Pérdida","Turnover",FALSE,2,5,0,00:05:00,46,41,47157,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",110,"Falta recibida","Foul Received",TRUE,2,5,0,00:05:00,46,41,47157,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",94,"Canasta de 3","3-Point Shot Made",TRUE,2,4,57,00:04:57,49,41,47181,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,4,57,00:04:57,49,41,47181,"Matteo Spagnolo","Timothé Luwawu-Cabarrot","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",106,"Pérdida","Turnover",FALSE,2,4,34,00:04:34,49,41,47209,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",94,"Canasta de 3","3-Point Shot Made",TRUE,2,4,19,00:04:19,52,41,47236,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,4,19,00:04:19,52,41,47236,"Matteo Spagnolo","Mamadi  Diakite","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104527,8,"SBB",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,2,4,18,00:04:18,52,41,47247,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",115,"Sale Pista","Substitution - Out",FALSE,2,4,18,00:04:18,52,41,47323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",115,"Sale Pista","Substitution - Out",FALSE,2,4,18,00:04:18,52,41,47323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",112,"Entra Pista","Substitution - In",FALSE,2,4,18,00:04:18,52,41,47323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",112,"Entra Pista","Substitution - In",FALSE,2,4,18,00:04:18,52,41,47323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",106,"Pérdida","Turnover",FALSE,2,4,12,00:04:12,52,41,47362,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",103,"Recuperación","Steal",TRUE,2,4,12,00:04:12,52,41,47362,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",94,"Canasta de 3","3-Point Shot Made",TRUE,2,4,5,00:04:05,55,41,47372,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,4,5,00:04:05,55,41,47372,"Hamidou Diallo","Timothé Luwawu-Cabarrot","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",161,"Personal 2TL","Foul 2FT",FALSE,2,4,5,00:04:05,55,41,47380,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",110,"Falta recibida","Foul Received",TRUE,2,4,5,00:04:05,55,41,47380,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",115,"Sale Pista","Substitution - Out",FALSE,2,4,5,00:04:05,55,41,47394,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",112,"Entra Pista","Substitution - In",FALSE,2,4,5,00:04:05,55,41,47394,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",92,"Canasta de 1","Free Throw Made",TRUE,2,4,5,00:04:05,56,41,47425,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",92,"Canasta de 1","Free Throw Made",TRUE,2,4,5,00:04:05,57,41,47441,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,3,56,00:03:56,57,41,47457,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,3,56,00:03:56,57,41,47457,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",106,"Pérdida","Turnover",TRUE,2,3,50,00:03:50,57,41,47463,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",103,"Recuperación","Steal",FALSE,2,3,50,00:03:50,57,41,47463,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",106,"Pérdida","Turnover",FALSE,2,3,39,00:03:39,57,41,47475,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",161,"Personal 2TL","Foul 2FT",FALSE,2,3,27,00:03:27,57,41,47503,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",110,"Falta recibida","Foul Received",TRUE,2,3,27,00:03:27,57,41,47503,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,2,3,27,00:03:27,57,41,47503,"Hamidou Diallo","Mamadi  Diakite","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",115,"Sale Pista","Substitution - Out",FALSE,2,3,27,00:03:27,57,41,47516,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",115,"Sale Pista","Substitution - Out",FALSE,2,3,27,00:03:27,57,41,47516,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",112,"Entra Pista","Substitution - In",FALSE,2,3,27,00:03:27,57,41,47516,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",112,"Entra Pista","Substitution - In",FALSE,2,3,27,00:03:27,57,41,47516,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",92,"Canasta de 1","Free Throw Made",TRUE,2,3,27,00:03:27,58,41,47537,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,3,27,00:03:27,58,41,47552,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,17
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,3,27,00:03:27,58,41,47552,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,17
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,3,14,00:03:14,58,41,47566,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,17
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,3,14,00:03:14,58,41,47566,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,17
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",93,"Canasta de 2","2-Point Shot Made",FALSE,2,2,54,00:02:54,58,43,47586,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,2,44,00:02:44,58,43,47596,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,15
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,2,44,00:02:44,58,43,47596,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,15
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",115,"Sale Pista","Substitution - Out",TRUE,2,2,37,00:02:37,58,43,47605,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",115,"Sale Pista","Substitution - Out",TRUE,2,2,37,00:02:37,58,43,47605,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",112,"Entra Pista","Substitution - In",TRUE,2,2,37,00:02:37,58,43,47605,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",112,"Entra Pista","Substitution - In",TRUE,2,2,37,00:02:37,58,43,47605,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,2,37,00:02:37,58,43,47635,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,2,37,00:02:37,58,43,47635,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,15
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",161,"Personal 2TL","Foul 2FT",FALSE,2,2,25,00:02:25,58,43,47647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",110,"Falta recibida","Foul Received",TRUE,2,2,25,00:02:25,58,43,47647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",92,"Canasta de 1","Free Throw Made",TRUE,2,2,25,00:02:25,59,43,47671,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",92,"Canasta de 1","Free Throw Made",TRUE,2,2,25,00:02:25,60,43,47687,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",115,"Sale Pista","Substitution - Out",FALSE,2,2,25,00:02:25,60,43,47689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",112,"Entra Pista","Substitution - In",FALSE,2,2,25,00:02:25,60,43,47689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",93,"Canasta de 2","2-Point Shot Made",FALSE,2,2,10,00:02:10,60,45,47715,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",160,"Personal 1TL","Foul 1FT",TRUE,2,2,10,00:02:10,60,45,47717,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",110,"Falta recibida","Foul Received",FALSE,2,2,10,00:02:10,60,45,47717,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",115,"Sale Pista","Substitution - Out",TRUE,2,2,10,00:02:10,60,45,47732,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",112,"Entra Pista","Substitution - In",TRUE,2,2,10,00:02:10,60,45,47732,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",92,"Canasta de 1","Free Throw Made",FALSE,2,2,10,00:02:10,60,46,47753,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",93,"Canasta de 2","2-Point Shot Made",TRUE,2,1,54,00:01:54,62,46,47773,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,16
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,1,54,00:01:54,62,46,47773,"Mamadi  Diakite","Tadas Sedekerskis","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,1,41,00:01:41,62,46,47786,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,1,41,00:01:41,62,46,47786,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",93,"Canasta de 2","2-Point Shot Made",TRUE,2,1,27,00:01:27,64,46,47800,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,18
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,1,3,00:01:03,64,46,47945,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,18
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",105,"Tapón Recibido","Block Received",FALSE,2,1,3,00:01:03,64,46,47945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",102,"Tapón","Block",TRUE,2,1,3,00:01:03,64,46,47945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,1,3,00:01:03,64,46,47945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",100,"Mate","Dunk",TRUE,2,0,57,00:00:57,66,46,47829,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,20
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,0,57,00:00:57,66,46,47829,"Tadas Sedekerskis","Clement Frisch","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,20
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,0,36,00:00:36,66,46,47850,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",105,"Tapón Recibido","Block Received",FALSE,2,0,36,00:00:36,66,46,47850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",102,"Tapón","Block",TRUE,2,0,36,00:00:36,66,46,47850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,0,36,00:00:36,66,46,47850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",94,"Canasta de 3","3-Point Shot Made",TRUE,2,0,19,00:00:19,69,46,47867,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,23
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",106,"Pérdida","Turnover",FALSE,2,0,2,00:00:02,69,46,47890,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,23
+104527,8,"BKN",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,2,0,2,00:00:02,69,46,47894,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",115,"Sale Pista","Substitution - Out",FALSE,2,0,2,00:00:02,69,46,47969,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",112,"Entra Pista","Substitution - In",FALSE,2,0,2,00:00:02,69,46,47969,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",162,"Personal 3TL","Foul 3FT",FALSE,2,0,0,00:00:00,69,46,48000,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,23
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",110,"Falta recibida","Foul Received",TRUE,2,0,0,00:00:00,69,46,48000,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,2,0,0,00:00:00,69,46,48000,"Rafael Villar","Mamadi  Diakite","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,23
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",92,"Canasta de 1","Free Throw Made",TRUE,2,0,0,00:00:00,70,46,48023,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,24
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,0,0,00:00:00,70,46,48034,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,24
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",92,"Canasta de 1","Free Throw Made",TRUE,2,0,0,00:00:00,71,46,48045,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,25
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",115,"Sale Pista","Substitution - Out",TRUE,2,0,0,00:00:00,71,46,48047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",112,"Entra Pista","Substitution - In",TRUE,2,0,0,00:00:00,71,46,48047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,0,0,00:00:00,71,46,48062,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104527,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,71,46,48070,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,71,46,48070,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,71,46,48933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",106,"Pérdida","Turnover",TRUE,3,9,32,00:09:32,71,46,49025,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",103,"Recuperación","Steal",FALSE,3,9,32,00:09:32,71,46,49025,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",162,"Personal 3TL","Foul 3FT",TRUE,3,9,12,00:09:12,71,46,49052,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",110,"Falta recibida","Foul Received",FALSE,3,9,12,00:09:12,71,46,49052,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",92,"Canasta de 1","Free Throw Made",FALSE,3,9,12,00:09:12,71,47,49076,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,24
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",92,"Canasta de 1","Free Throw Made",FALSE,3,9,12,00:09:12,71,48,49091,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,23
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",92,"Canasta de 1","Free Throw Made",FALSE,3,9,12,00:09:12,71,49,49105,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,22
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",106,"Pérdida","Turnover",TRUE,3,9,1,00:09:01,71,49,49120,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",161,"Personal 2TL","Foul 2FT",TRUE,3,8,40,00:08:40,71,49,49153,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",110,"Falta recibida","Foul Received",FALSE,3,8,40,00:08:40,71,49,49153,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",92,"Canasta de 1","Free Throw Made",FALSE,3,8,40,00:08:40,71,50,49186,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,21
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",92,"Canasta de 1","Free Throw Made",FALSE,3,8,40,00:08:40,71,51,49198,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",93,"Canasta de 2","2-Point Shot Made",TRUE,3,8,27,00:08:27,73,51,49218,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,22
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,8,27,00:08:27,73,51,49218,"Hamidou Diallo","Rodions Kurucs","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,22
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",106,"Pérdida","Turnover",FALSE,3,8,10,00:08:10,73,51,49241,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",106,"Pérdida","Turnover",TRUE,3,7,52,00:07:52,73,51,49260,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",103,"Recuperación","Steal",FALSE,3,7,52,00:07:52,73,51,49260,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",161,"Personal 2TL","Foul 2FT",TRUE,3,7,50,00:07:50,73,51,49267,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",110,"Falta recibida","Foul Received",FALSE,3,7,50,00:07:50,73,51,49267,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",537,"Técnica 1TL","Technical Foul 1FT",FALSE,3,7,50,00:07:50,73,51,49293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"SBB",NA,NA,NA,NA,106,"Pérdida","Turnover",FALSE,3,7,50,00:07:50,73,51,49299,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",92,"Canasta de 1","Free Throw Made",TRUE,3,7,50,00:07:50,74,51,49312,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,23
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",537,"Técnica 1TL","Technical Foul 1FT",TRUE,3,7,50,00:07:50,74,51,49346,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,23
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",92,"Canasta de 1","Free Throw Made",FALSE,3,7,50,00:07:50,74,52,49362,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,22
+104527,8,"BKN",NA,NA,NA,NA,106,"Pérdida","Turnover",TRUE,3,7,50,00:07:50,74,52,49363,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"BKN",30003998,"Hamidou Diallo","H. Diallo","Diallo",115,"Sale Pista","Substitution - Out",TRUE,3,7,50,00:07:50,74,52,49367,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",112,"Entra Pista","Substitution - In",TRUE,3,7,50,00:07:50,74,52,49367,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",92,"Canasta de 1","Free Throw Made",FALSE,3,7,50,00:07:50,74,53,49385,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,21
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",92,"Canasta de 1","Free Throw Made",FALSE,3,7,50,00:07:50,74,54,49397,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,7,39,00:07:39,74,54,49414,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,7,39,00:07:39,74,54,49414,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,20
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,7,26,00:07:26,74,54,49441,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,7,26,00:07:26,74,54,49441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,7,12,00:07:12,74,54,49456,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,7,12,00:07:12,74,54,49456,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",159,"Personal no TL","Foul No FT",FALSE,3,6,56,00:06:56,74,54,49471,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",110,"Falta recibida","Foul Received",TRUE,3,6,56,00:06:56,74,54,49471,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",115,"Sale Pista","Substitution - Out",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",115,"Sale Pista","Substitution - Out",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",20212905,"Khalifa Diop","K. Diop","Diop",115,"Sale Pista","Substitution - Out",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",115,"Sale Pista","Substitution - Out",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",112,"Entra Pista","Substitution - In",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",112,"Entra Pista","Substitution - In",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",112,"Entra Pista","Substitution - In",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",112,"Entra Pista","Substitution - In",TRUE,3,6,56,00:06:56,74,54,49477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,6,48,00:06:48,74,54,49499,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,6,48,00:06:48,74,54,49499,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",109,"Falta en Ataque","Offensive Foul",FALSE,3,6,31,00:06:31,74,54,49524,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",106,"Pérdida","Turnover",FALSE,3,6,31,00:06:31,74,54,49524,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",110,"Falta recibida","Foul Received",TRUE,3,6,31,00:06:31,74,54,49524,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",109,"Falta en Ataque","Offensive Foul",TRUE,3,6,23,00:06:23,74,54,49554,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",106,"Pérdida","Turnover",TRUE,3,6,23,00:06:23,74,54,49554,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",110,"Falta recibida","Foul Received",FALSE,3,6,23,00:06:23,74,54,49554,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,6,5,00:06:05,74,54,49594,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,6,5,00:06:05,74,54,49594,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",106,"Pérdida","Turnover",TRUE,3,5,54,00:05:54,74,54,49604,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",103,"Recuperación","Steal",FALSE,3,5,54,00:05:54,74,54,49604,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,5,47,00:05:47,74,54,49611,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,20
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,5,47,00:05:47,74,54,49611,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",93,"Canasta de 2","2-Point Shot Made",TRUE,3,5,39,00:05:39,76,54,49619,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,22
+104527,8,"BKN",30000202,"Matteo Spagnolo","M. Spagnolo","Spagnolo",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,5,39,00:05:39,76,54,49619,"Matteo Spagnolo","Timothé Luwawu-Cabarrot","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,22
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,5,22,00:05:22,76,54,49637,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,22
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,5,22,00:05:22,76,54,49637,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,22
+104527,8,"SBB",30004013,"Margiris Normantas","M. Normantas","Normantas",115,"Sale Pista","Substitution - Out",FALSE,3,5,12,00:05:12,76,54,49650,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",20213102,"Bassala Bagayoko","B. Bagayoko","Bagayoko",115,"Sale Pista","Substitution - Out",FALSE,3,5,12,00:05:12,76,54,49650,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",30000192,"Martin Krampelj","M. Krampelj","Krampelj",115,"Sale Pista","Substitution - Out",FALSE,3,5,12,00:05:12,76,54,49650,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",112,"Entra Pista","Substitution - In",FALSE,3,5,12,00:05:12,76,54,49650,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",112,"Entra Pista","Substitution - In",FALSE,3,5,12,00:05:12,76,54,49650,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",112,"Entra Pista","Substitution - In",FALSE,3,5,12,00:05:12,76,54,49650,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",159,"Personal no TL","Foul No FT",FALSE,3,5,12,00:05:12,76,54,49673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",110,"Falta recibida","Foul Received",TRUE,3,5,12,00:05:12,76,54,49673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104527,8,"BKN",NA,NA,NA,NA,416,"IR - Challenge entrenador local",NA,TRUE,3,5,12,00:05:12,76,54,49686,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,22
+104527,8,"BKN",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",TRUE,3,5,12,00:05:12,76,54,49751,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",20212984,"Darrun Hilliard","D. Hilliard","Hilliard",115,"Sale Pista","Substitution - Out",FALSE,3,5,12,00:05:12,76,54,49753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",112,"Entra Pista","Substitution - In",FALSE,3,5,12,00:05:12,76,54,49753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,4,58,00:04:58,76,54,49782,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,22
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,4,58,00:04:58,76,54,49782,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,22
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,4,37,00:04:37,76,54,49804,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,22
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,4,37,00:04:37,76,54,49804,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,22
+104527,8,"SBB",30002005,"Amar Sylla","A. Sylla","Sylla",100,"Mate","Dunk",FALSE,3,4,33,00:04:33,76,56,49807,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,20
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",100,"Mate","Dunk",TRUE,3,4,25,00:04:25,78,56,49815,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,22
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,4,25,00:04:25,78,56,49815,"Kobi Simmons","Mamadi  Diakite","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,22
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",93,"Canasta de 2","2-Point Shot Made",FALSE,3,4,0,00:04:00,78,58,49840,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,20
+104527,8,"BKN",20210830,"Tadas Sedekerskis","T. Sedekerskis","Sedekerskis",115,"Sale Pista","Substitution - Out",TRUE,3,3,58,00:03:58,78,58,49854,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",112,"Entra Pista","Substitution - In",TRUE,3,3,58,00:03:58,78,58,49854,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",115,"Sale Pista","Substitution - Out",FALSE,3,3,58,00:03:58,78,58,49854,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",112,"Entra Pista","Substitution - In",FALSE,3,3,58,00:03:58,78,58,49854,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,3,32,00:03:32,78,58,49897,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,3,3,32,00:03:32,78,58,49897,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",161,"Personal 2TL","Foul 2FT",TRUE,3,3,15,00:03:15,78,58,49921,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",110,"Falta recibida","Foul Received",FALSE,3,3,15,00:03:15,78,58,49921,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,3,3,15,00:03:15,78,58,49937,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30004878,"Kobi Simmons","K. Simmons","Simmons",115,"Sale Pista","Substitution - Out",TRUE,3,3,15,00:03:15,78,58,50008,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",112,"Entra Pista","Substitution - In",TRUE,3,3,15,00:03:15,78,58,50008,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",92,"Canasta de 1","Free Throw Made",FALSE,3,3,15,00:03:15,78,59,50041,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,19
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,3,15,00:03:15,78,59,50062,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,19
+104527,8,"BKN",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,15,00:03:15,78,59,50062,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104527,8,"SBB",30004012,"Stefan  Lazarevic","S. Lazarevic","Lazarevic",161,"Personal 2TL","Foul 2FT",FALSE,3,2,56,00:02:56,78,59,50087,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",110,"Falta recibida","Foul Received",TRUE,3,2,56,00:02:56,78,59,50087,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",92,"Canasta de 1","Free Throw Made",TRUE,3,2,56,00:02:56,79,59,50112,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",92,"Canasta de 1","Free Throw Made",TRUE,3,2,56,00:02:56,80,59,50126,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,21
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",94,"Canasta de 3","3-Point Shot Made",FALSE,3,2,40,00:02:40,80,62,50146,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,2,40,00:02:40,80,62,50146,"Harald Frey","Luke Petrasek","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,2,19,00:02:19,80,62,50167,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,18
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,2,19,00:02:19,80,62,50167,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,18
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",94,"Canasta de 3","3-Point Shot Made",TRUE,3,2,13,00:02:13,83,62,50172,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,21
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,2,13,00:02:13,83,62,50172,"Mamadi  Diakite","Timothé Luwawu-Cabarrot","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,21
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",94,"Canasta de 3","3-Point Shot Made",FALSE,3,1,53,00:01:53,83,65,50192,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,1,53,00:01:53,83,65,50192,"Harald Frey","Luke Petrasek","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,1,40,00:01:40,83,65,50206,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"SBB",30003398,"Harald Frey","H. Frey","Frey",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,1,40,00:01:40,83,65,50206,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",106,"Pérdida","Turnover",FALSE,3,1,25,00:01:25,83,65,50221,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"BKN",30003941,"Clement Frisch","C. Frisch","Frisch",115,"Sale Pista","Substitution - Out",TRUE,3,1,23,00:01:23,83,65,50225,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",112,"Entra Pista","Substitution - In",TRUE,3,1,23,00:01:23,83,65,50225,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104527,8,"BKN",30004014,"Mamadi  Diakite","M. Diakite","Diakite",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,1,10,00:01:10,83,65,50253,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"BKN",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,1,10,00:01:10,83,65,50253,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,18
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,0,53,00:00:53,83,65,50287,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,0,53,00:00:53,83,65,50287,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,0,42,00:00:42,83,65,50297,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,0,42,00:00:42,83,65,50297,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",161,"Personal 2TL","Foul 2FT",FALSE,3,0,38,00:00:38,83,65,50305,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",110,"Falta recibida","Foul Received",TRUE,3,0,38,00:00:38,83,65,50305,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",92,"Canasta de 1","Free Throw Made",TRUE,3,0,38,00:00:38,84,65,50328,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,19
+104527,8,"BKN",20211797,"Rodions Kurucs","R. Kurucs","Kurucs",92,"Canasta de 1","Free Throw Made",TRUE,3,0,38,00:00:38,85,65,50343,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
+104527,8,"BKN",30003351,"Timothé Luwawu-Cabarrot","Luwawu-Cabarrot","Luwawu",115,"Sale Pista","Substitution - Out",TRUE,3,0,38,00:00:38,85,65,50345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"BKN",30001243,"Rafael Villar","R. Villar","Villar",112,"Entra Pista","Substitution - In",TRUE,3,0,38,00:00:38,85,65,50345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",94,"Canasta de 3","3-Point Shot Made",FALSE,3,0,29,00:00:29,85,68,50370,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,17
+104527,8,"SBB",30003947,"Luke Petrasek","L. Petrasek","Petrasek",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,0,29,00:00:29,85,68,50370,"Luke Petrasek","Justin Jaworski","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+104527,8,"BKN",30001957,"Markus Howard","M. Howard","Howard",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,0,0,00:00:00,85,68,50400,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,17
+104527,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,85,68,50409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104527,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,85,68,50409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,42711,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,42711,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",178,"Salto ganado","Won jump",FALSE,1,10,0,00:10:00,0,0,43346,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",179,"Salto perdido","Lost jump",TRUE,1,10,0,00:10:00,0,0,43346,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",106,"Pérdida","Turnover",FALSE,1,10,0,00:10:00,0,0,43422,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",103,"Recuperación","Steal",TRUE,1,10,0,00:10:00,0,0,43422,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",94,"Canasta de 3","3-Point Shot Made",TRUE,1,9,50,00:09:50,3,0,43433,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",93,"Canasta de 2","2-Point Shot Made",FALSE,1,9,28,00:09:28,3,2,43471,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,9,28,00:09:28,3,2,43471,"Ludde Hakanson","Simon Birgander","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,9,27,00:09:27,3,2,43475,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,9,27,00:09:27,3,2,43475,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,9,9,00:09:09,3,2,43485,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,9,9,00:09:09,3,2,43485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",159,"Personal no TL","Foul No FT",FALSE,1,9,9,00:09:09,3,2,43492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",110,"Falta recibida","Foul Received",TRUE,1,9,9,00:09:09,3,2,43492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,8,49,00:08:49,3,2,43515,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,8,49,00:08:49,3,2,43515,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,8,37,00:08:37,3,2,43527,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,8,37,00:08:37,3,2,43527,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",162,"Personal 3TL","Foul 3FT",FALSE,1,8,20,00:08:20,3,2,43544,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,1,8,20,00:08:20,3,2,43544,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,1,8,20,00:08:20,4,2,43569,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,2
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,1,8,20,00:08:20,5,2,43585,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,3
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,1,8,20,00:08:20,6,2,43602,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",93,"Canasta de 2","2-Point Shot Made",FALSE,1,8,3,00:08:03,6,4,43625,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,56,00:07:56,6,4,43632,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,7,56,00:07:56,6,4,43632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,7,40,00:07:40,6,4,43648,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,7,40,00:07:40,6,4,43648,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",94,"Canasta de 3","3-Point Shot Made",FALSE,1,7,31,00:07:31,6,7,43658,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,1
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,7,31,00:07:31,6,7,43658,"Simon Birgander","Ludde Hakanson","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,19,00:07:19,6,7,43669,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,7,19,00:07:19,6,7,43669,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",106,"Pérdida","Turnover",FALSE,1,7,6,00:07:06,6,7,43681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",103,"Recuperación","Steal",TRUE,1,7,6,00:07:06,6,7,43681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",106,"Pérdida","Turnover",TRUE,1,6,56,00:06:56,6,7,43694,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,6,35,00:06:35,6,7,43722,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,6,35,00:06:35,6,7,43722,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",93,"Canasta de 2","2-Point Shot Made",FALSE,1,6,27,00:06:27,6,9,43738,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,6,27,00:06:27,6,9,43738,"Ludde Hakanson","Simon Birgander","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",94,"Canasta de 3","3-Point Shot Made",TRUE,1,6,9,00:06:09,9,9,43755,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,6,9,00:06:09,9,9,43755,"Shannon Evans","Yves Pons","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",93,"Canasta de 2","2-Point Shot Made",FALSE,1,5,51,00:05:51,9,11,43773,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,5,51,00:05:51,9,11,43773,"Adam Hanga","Simon Birgander","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",100,"Mate","Dunk",TRUE,1,5,32,00:05:32,11,11,43792,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,5,32,00:05:32,11,11,43792,"Shannon Evans","Artem Pustovyi","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,5,2,00:05:02,11,11,43818,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,5,2,00:05:02,11,11,43818,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",159,"Personal no TL","Foul No FT",FALSE,1,4,48,00:04:48,11,11,43832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",110,"Falta recibida","Foul Received",TRUE,1,4,48,00:04:48,11,11,43832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",115,"Sale Pista","Substitution - Out",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",115,"Sale Pista","Substitution - Out",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",115,"Sale Pista","Substitution - Out",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",115,"Sale Pista","Substitution - Out",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",112,"Entra Pista","Substitution - In",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",112,"Entra Pista","Substitution - In",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",112,"Entra Pista","Substitution - In",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",112,"Entra Pista","Substitution - In",FALSE,1,4,48,00:04:48,11,11,43840,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,4,39,00:04:39,11,11,43864,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,0
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,39,00:04:39,11,11,43864,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",93,"Canasta de 2","2-Point Shot Made",FALSE,1,4,28,00:04:28,11,13,43875,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,4,28,00:04:28,11,13,43875,"Ante Tomic","Guillem Vives","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",93,"Canasta de 2","2-Point Shot Made",TRUE,1,4,9,00:04:09,13,13,43893,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,4,9,00:04:09,13,13,43893,"Artem Pustovyi","Shannon Evans","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",94,"Canasta de 3","3-Point Shot Made",FALSE,1,3,52,00:03:52,13,16,43910,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,3,52,00:03:52,13,16,43910,"Ricky Rubio","Henri Drell","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,3,40,00:03:40,13,16,43923,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,3,40,00:03:40,13,16,43923,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",106,"Pérdida","Turnover",FALSE,1,3,37,00:03:37,13,16,43931,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",115,"Sale Pista","Substitution - Out",TRUE,1,3,37,00:03:37,13,16,43934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",115,"Sale Pista","Substitution - Out",TRUE,1,3,37,00:03:37,13,16,43934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",20210707,"Rubén Guerrero","R. Guerrero","Guerrero",112,"Entra Pista","Substitution - In",TRUE,1,3,37,00:03:37,13,16,43934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",112,"Entra Pista","Substitution - In",TRUE,1,3,37,00:03:37,13,16,43934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",115,"Sale Pista","Substitution - Out",FALSE,1,3,37,00:03:37,13,16,43934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",112,"Entra Pista","Substitution - In",FALSE,1,3,37,00:03:37,13,16,43934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,3,17,00:03:17,13,16,43990,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,3,17,00:03:17,13,16,43990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",106,"Pérdida","Turnover",FALSE,1,3,13,00:03:13,13,16,43994,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",103,"Recuperación","Steal",TRUE,1,3,13,00:03:13,13,16,43994,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",106,"Pérdida","Turnover",TRUE,1,3,10,00:03:10,13,16,43997,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",103,"Recuperación","Steal",FALSE,1,3,10,00:03:10,13,16,43997,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",93,"Canasta de 2","2-Point Shot Made",FALSE,1,2,54,00:02:54,13,18,44014,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",93,"Canasta de 2","2-Point Shot Made",TRUE,1,2,33,00:02:33,15,18,44034,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",93,"Canasta de 2","2-Point Shot Made",FALSE,1,2,6,00:02:06,15,20,44063,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,2,6,00:02:06,15,20,44063,"Ricky Rubio","Ante Tomic","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",160,"Personal 1TL","Foul 1FT",TRUE,1,2,6,00:02:06,15,20,44067,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",110,"Falta recibida","Foul Received",FALSE,1,2,6,00:02:06,15,20,44067,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",115,"Sale Pista","Substitution - Out",TRUE,1,2,6,00:02:06,15,20,44076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",115,"Sale Pista","Substitution - Out",TRUE,1,2,6,00:02:06,15,20,44076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"MBA",30003969,"Justin Mckoy","J. McKoy","McKoy",112,"Entra Pista","Substitution - In",TRUE,1,2,6,00:02:06,15,20,44076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",112,"Entra Pista","Substitution - In",TRUE,1,2,6,00:02:06,15,20,44076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",92,"Canasta de 1","Free Throw Made",FALSE,1,2,6,00:02:06,15,21,44120,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,1,51,00:01:51,15,21,44138,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104526,8,"MBA",30003969,"Justin Mckoy","J. McKoy","McKoy",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,1,51,00:01:51,15,21,44138,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,6
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",93,"Canasta de 2","2-Point Shot Made",TRUE,1,1,37,00:01:37,17,21,44152,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",106,"Pérdida","Turnover",FALSE,1,1,17,00:01:17,17,21,44174,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",115,"Sale Pista","Substitution - Out",TRUE,1,1,17,00:01:17,17,21,44183,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",112,"Entra Pista","Substitution - In",TRUE,1,1,17,00:01:17,17,21,44183,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,1,16,00:01:16,17,21,44228,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"JOV",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,1,1,16,00:01:16,17,21,44228,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,0,35,00:00:35,17,21,44281,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,0,35,00:00:35,17,21,44281,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,0,30,00:00:30,17,21,44285,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,0,30,00:00:30,17,21,44285,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,0,25,00:00:25,17,21,44291,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,0,25,00:00:25,17,21,44291,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,0,2,00:00:02,17,21,44314,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,0,2,00:00:02,17,21,44314,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,0,0,00:00:00,17,21,44320,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104526,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,17,21,44397,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,17,21,44397,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,17,21,44409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",106,"Pérdida","Turnover",FALSE,2,9,45,00:09:45,17,21,44498,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",103,"Recuperación","Steal",TRUE,2,9,45,00:09:45,17,21,44498,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",93,"Canasta de 2","2-Point Shot Made",TRUE,2,9,42,00:09:42,19,21,44505,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,9,42,00:09:42,19,21,44505,"Ferran Bassas","Kyle Kuric","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",93,"Canasta de 2","2-Point Shot Made",FALSE,2,9,22,00:09:22,19,23,44535,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",93,"Canasta de 2","2-Point Shot Made",TRUE,2,8,57,00:08:57,21,23,44560,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",94,"Canasta de 3","3-Point Shot Made",FALSE,2,8,43,00:08:43,21,26,44574,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,8,25,00:08:25,21,26,44592,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,25,00:08:25,21,26,44592,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",93,"Canasta de 2","2-Point Shot Made",FALSE,2,8,7,00:08:07,21,28,44610,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",93,"Canasta de 2","2-Point Shot Made",TRUE,2,7,50,00:07:50,23,28,44627,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",93,"Canasta de 2","2-Point Shot Made",FALSE,2,7,36,00:07:36,23,30,44640,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",159,"Personal no TL","Foul No FT",FALSE,2,7,30,00:07:30,23,30,44649,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",110,"Falta recibida","Foul Received",TRUE,2,7,30,00:07:30,23,30,44649,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104526,8,"MBA",20210707,"Rubén Guerrero","R. Guerrero","Guerrero",115,"Sale Pista","Substitution - Out",TRUE,2,7,30,00:07:30,23,30,44658,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",115,"Sale Pista","Substitution - Out",TRUE,2,7,30,00:07:30,23,30,44658,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",112,"Entra Pista","Substitution - In",TRUE,2,7,30,00:07:30,23,30,44658,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",112,"Entra Pista","Substitution - In",TRUE,2,7,30,00:07:30,23,30,44658,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",159,"Personal no TL","Foul No FT",FALSE,2,7,28,00:07:28,23,30,44682,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",110,"Falta recibida","Foul Received",TRUE,2,7,28,00:07:28,23,30,44682,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104526,8,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",93,"Canasta de 2","2-Point Shot Made",TRUE,2,7,28,00:07:28,25,30,44706,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",93,"Canasta de 2","2-Point Shot Made",FALSE,2,6,56,00:06:56,25,32,44728,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,6,56,00:06:56,25,32,44728,"Simon Birgander","Adam Hanga","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104526,8,"MBA",30003969,"Justin Mckoy","J. McKoy","McKoy",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,6,42,00:06:42,25,32,44741,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,6,42,00:06:42,25,32,44741,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",106,"Pérdida","Turnover",TRUE,2,6,27,00:06:27,25,32,44756,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",159,"Personal no TL","Foul No FT",TRUE,2,6,29,00:06:29,25,32,44763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",110,"Falta recibida","Foul Received",FALSE,2,6,29,00:06:29,25,32,44763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",115,"Sale Pista","Substitution - Out",TRUE,2,6,29,00:06:29,25,32,44771,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",112,"Entra Pista","Substitution - In",TRUE,2,6,29,00:06:29,25,32,44771,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,6,4,00:06:04,25,32,44807,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",30003969,"Justin Mckoy","J. McKoy","McKoy",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,6,4,00:06:04,25,32,44807,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,5,45,00:05:45,25,32,44825,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,5,45,00:05:45,25,32,44825,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",94,"Canasta de 3","3-Point Shot Made",FALSE,2,5,24,00:05:24,25,35,44847,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,10
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,5,24,00:05:24,25,35,44847,"Adam Hanga","Henri Drell","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104526,8,"MBA",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,2,5,22,00:05:22,25,35,44855,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",115,"Sale Pista","Substitution - Out",FALSE,2,5,22,00:05:22,25,35,44933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",112,"Entra Pista","Substitution - In",FALSE,2,5,22,00:05:22,25,35,44933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,5,0,00:05:00,25,35,44987,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,5,0,00:05:00,25,35,44987,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",94,"Canasta de 3","3-Point Shot Made",FALSE,2,4,46,00:04:46,25,38,45001,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,13
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,4,46,00:04:46,25,38,45001,"Cameron Hunt","Henri Drell","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",106,"Pérdida","Turnover",TRUE,2,4,33,00:04:33,25,38,45015,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",115,"Sale Pista","Substitution - Out",TRUE,2,4,33,00:04:33,25,38,45024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",112,"Entra Pista","Substitution - In",TRUE,2,4,33,00:04:33,25,38,45024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",115,"Sale Pista","Substitution - Out",FALSE,2,4,33,00:04:33,25,38,45024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",115,"Sale Pista","Substitution - Out",FALSE,2,4,33,00:04:33,25,38,45024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",112,"Entra Pista","Substitution - In",FALSE,2,4,33,00:04:33,25,38,45024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",112,"Entra Pista","Substitution - In",FALSE,2,4,33,00:04:33,25,38,45024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",161,"Personal 2TL","Foul 2FT",TRUE,2,4,17,00:04:17,25,38,45067,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",110,"Falta recibida","Foul Received",FALSE,2,4,17,00:04:17,25,38,45067,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",115,"Sale Pista","Substitution - Out",FALSE,2,4,17,00:04:17,25,38,45085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",115,"Sale Pista","Substitution - Out",FALSE,2,4,17,00:04:17,25,38,45085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",112,"Entra Pista","Substitution - In",FALSE,2,4,17,00:04:17,25,38,45085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",112,"Entra Pista","Substitution - In",FALSE,2,4,17,00:04:17,25,38,45085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,2,4,17,00:04:17,25,39,45097,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,2,4,17,00:04:17,25,40,45111,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",162,"Personal 3TL","Foul 3FT",FALSE,2,4,2,00:04:02,25,40,45134,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,2,4,2,00:04:02,25,40,45134,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,2,4,2,00:04:02,26,40,45158,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,4,2,00:04:02,26,40,45177,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,14
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,2,4,2,00:04:02,27,40,45192,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",106,"Pérdida","Turnover",FALSE,2,3,59,00:03:59,27,40,45199,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",103,"Recuperación","Steal",TRUE,2,3,59,00:03:59,27,40,45199,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",159,"Personal no TL","Foul No FT",FALSE,2,3,56,00:03:56,27,40,45209,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,2,3,56,00:03:56,27,40,45209,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",106,"Pérdida","Turnover",TRUE,2,3,50,00:03:50,27,40,45972,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",106,"Pérdida","Turnover",FALSE,2,3,39,00:03:39,27,40,45256,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",103,"Recuperación","Steal",TRUE,2,3,39,00:03:39,27,40,45256,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,3,34,00:03:34,27,40,45261,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,3,34,00:03:34,27,40,45261,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,3,25,00:03:25,27,40,45270,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,3,25,00:03:25,27,40,45270,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",106,"Pérdida","Turnover",FALSE,2,3,11,00:03:11,27,40,45284,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",103,"Recuperación","Steal",TRUE,2,3,11,00:03:11,27,40,45284,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",161,"Personal 2TL","Foul 2FT",FALSE,2,3,2,00:03:02,27,40,45294,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",110,"Falta recibida","Foul Received",TRUE,2,3,2,00:03:02,27,40,45294,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",92,"Canasta de 1","Free Throw Made",TRUE,2,3,2,00:03:02,28,40,45326,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",92,"Canasta de 1","Free Throw Made",TRUE,2,3,2,00:03:02,29,40,45339,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,11
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",106,"Pérdida","Turnover",FALSE,2,2,52,00:02:52,29,40,45353,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104526,8,"MBA",30003969,"Justin Mckoy","J. McKoy","McKoy",103,"Recuperación","Steal",TRUE,2,2,52,00:02:52,29,40,45353,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,2,45,00:02:45,29,40,45361,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104526,8,"JOV",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,45,00:02:45,29,40,45361,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104526,8,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",161,"Personal 2TL","Foul 2FT",TRUE,2,2,30,00:02:30,29,40,45388,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",110,"Falta recibida","Foul Received",FALSE,2,2,30,00:02:30,29,40,45388,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",92,"Canasta de 1","Free Throw Made",FALSE,2,2,30,00:02:30,29,41,45420,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",92,"Canasta de 1","Free Throw Made",FALSE,2,2,30,00:02:30,29,42,45436,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,2,21,00:02:21,29,42,45449,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",105,"Tapón Recibido","Block Received",TRUE,2,2,21,00:02:21,29,42,45449,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",102,"Tapón","Block",FALSE,2,2,21,00:02:21,29,42,45449,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,21,00:02:21,29,42,45449,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,2,9,00:02:09,29,42,45461,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,2,2,9,00:02:09,29,42,45461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",93,"Canasta de 2","2-Point Shot Made",TRUE,2,1,56,00:01:56,31,42,45474,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",94,"Canasta de 3","3-Point Shot Made",FALSE,2,1,35,00:01:35,31,45,45495,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,1,35,00:01:35,31,45,45495,"Ante Tomic","Michael Ruzic","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",166,"Antidep 2TL","Unsportsmanlike 2FT",FALSE,2,1,29,00:01:29,31,45,45510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,2,1,29,00:01:29,31,45,45510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",115,"Sale Pista","Substitution - Out",FALSE,2,1,29,00:01:29,31,45,45521,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",112,"Entra Pista","Substitution - In",FALSE,2,1,29,00:01:29,31,45,45521,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",30003969,"Justin Mckoy","J. McKoy","McKoy",115,"Sale Pista","Substitution - Out",TRUE,2,1,29,00:01:29,31,45,45540,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",20200274,"Rafa Luz","R. Luz","Luz",112,"Entra Pista","Substitution - In",TRUE,2,1,29,00:01:29,31,45,45540,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,2,1,29,00:01:29,32,45,45554,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,2,1,29,00:01:29,33,45,45573,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",106,"Pérdida","Turnover",FALSE,2,1,29,00:01:29,33,45,45576,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,1,19,00:01:19,33,45,45628,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"MBA",20200274,"Rafa Luz","R. Luz","Luz",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,1,19,00:01:19,33,45,45628,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,1,19,00:01:19,33,45,45632,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,1,19,00:01:19,33,45,45632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",93,"Canasta de 2","2-Point Shot Made",FALSE,2,0,50,00:00:50,33,47,45658,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,0,50,00:00:50,33,47,45658,"Ante Tomic","Yannick Kraag","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",160,"Personal 1TL","Foul 1FT",TRUE,2,0,50,00:00:50,33,47,45667,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",110,"Falta recibida","Foul Received",FALSE,2,0,50,00:00:50,33,47,45667,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,0,50,00:00:50,33,47,45683,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,14
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,0,50,00:00:50,33,47,45683,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",161,"Personal 2TL","Foul 2FT",FALSE,2,0,34,00:00:34,33,47,45704,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20200274,"Rafa Luz","R. Luz","Luz",110,"Falta recibida","Foul Received",TRUE,2,0,34,00:00:34,33,47,45704,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",115,"Sale Pista","Substitution - Out",TRUE,2,0,34,00:00:34,33,47,45718,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",115,"Sale Pista","Substitution - Out",TRUE,2,0,34,00:00:34,33,47,45718,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",112,"Entra Pista","Substitution - In",TRUE,2,0,34,00:00:34,33,47,45718,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",112,"Entra Pista","Substitution - In",TRUE,2,0,34,00:00:34,33,47,45718,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",20200274,"Rafa Luz","R. Luz","Luz",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,0,34,00:00:34,33,47,45728,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20200274,"Rafa Luz","R. Luz","Luz",92,"Canasta de 1","Free Throw Made",TRUE,2,0,34,00:00:34,34,47,45738,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",93,"Canasta de 2","2-Point Shot Made",FALSE,2,0,20,00:00:20,34,49,45764,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,0,20,00:00:20,34,49,45764,"Ricky Rubio","Ante Tomic","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,0,4,00:00:04,34,49,45779,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,0,4,00:00:04,34,49,45779,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104526,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,34,49,45796,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,34,49,45796,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"MBA",20200274,"Rafa Luz","R. Luz","Luz",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,49,46673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,9,35,00:09:35,34,49,46816,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,15
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,9,35,00:09:35,34,49,46816,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",94,"Canasta de 3","3-Point Shot Made",FALSE,3,9,29,00:09:29,34,52,46821,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",159,"Personal no TL","Foul No FT",FALSE,3,9,16,00:09:16,34,52,46847,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,3,9,16,00:09:16,34,52,46847,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",106,"Pérdida","Turnover",TRUE,3,9,9,00:09:09,34,52,46861,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",103,"Recuperación","Steal",FALSE,3,9,9,00:09:09,34,52,46861,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",159,"Personal no TL","Foul No FT",TRUE,3,9,3,00:09:03,34,52,46868,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",110,"Falta recibida","Foul Received",FALSE,3,9,3,00:09:03,34,52,46868,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,57,00:08:57,34,54,46887,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,20
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,8,57,00:08:57,34,54,46887,"Ludde Hakanson","Simon Birgander","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,20
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,8,37,00:08:37,34,54,46907,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,20
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,8,37,00:08:37,34,54,46907,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,20
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",159,"Personal no TL","Foul No FT",FALSE,3,8,37,00:08:37,34,54,46914,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",110,"Falta recibida","Foul Received",TRUE,3,8,37,00:08:37,34,54,46914,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",94,"Canasta de 3","3-Point Shot Made",TRUE,3,8,34,00:08:34,37,54,46928,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,17
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,8,34,00:08:34,37,54,46928,"Aaron Best","Kyle Kuric","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,8,0,00:08:00,37,54,46952,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,17
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,8,0,00:08:00,37,54,46952,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,17
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",162,"Personal 3TL","Foul 3FT",FALSE,3,8,5,00:08:05,37,54,46962,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,3,8,5,00:08:05,37,54,46962,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
+104526,8,"JOV",NA,NA,NA,NA,417,"IR - Challenge entrenador visitante",NA,FALSE,3,8,5,00:08:05,37,54,46990,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,17
+104526,8,"JOV",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",FALSE,3,8,5,00:08:05,37,54,47045,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,3,8,5,00:08:05,38,54,47064,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,8,5,00:08:05,38,54,47080,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,8,5,00:08:05,38,54,47097,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,8,5,00:08:05,38,54,47097,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",93,"Canasta de 2","2-Point Shot Made",TRUE,3,8,5,00:08:05,40,54,47104,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",159,"Personal no TL","Foul No FT",TRUE,3,7,41,00:07:41,40,54,47125,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",110,"Falta recibida","Foul Received",FALSE,3,7,41,00:07:41,40,54,47125,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,7,30,00:07:30,40,54,47161,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,7,30,00:07:30,40,54,47161,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,7,19,00:07:19,40,54,47173,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,7,19,00:07:19,40,54,47173,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,7,6,00:07:06,40,54,47186,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,7,6,00:07:06,40,54,47186,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,14
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,6,50,00:06:50,40,54,47201,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,6,50,00:06:50,40,54,47201,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",93,"Canasta de 2","2-Point Shot Made",TRUE,3,6,34,00:06:34,42,54,47217,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,6,34,00:06:34,42,54,47217,"Artem Pustovyi","Shannon Evans","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",161,"Personal 2TL","Foul 2FT",TRUE,3,6,11,00:06:11,42,54,47246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",110,"Falta recibida","Foul Received",FALSE,3,6,11,00:06:11,42,54,47246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",115,"Sale Pista","Substitution - Out",FALSE,3,6,11,00:06:11,42,54,47259,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",115,"Sale Pista","Substitution - Out",FALSE,3,6,11,00:06:11,42,54,47259,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",112,"Entra Pista","Substitution - In",FALSE,3,6,11,00:06:11,42,54,47259,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",112,"Entra Pista","Substitution - In",FALSE,3,6,11,00:06:11,42,54,47259,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",92,"Canasta de 1","Free Throw Made",FALSE,3,6,11,00:06:11,42,55,47293,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,6,11,00:06:11,42,55,47309,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,13
+104526,8,"MBA",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,3,6,11,00:06:11,42,55,47309,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,5,58,00:05:58,42,55,47329,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104526,8,"MBA",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,5,58,00:05:58,42,55,47329,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",93,"Canasta de 2","2-Point Shot Made",TRUE,3,5,58,00:05:58,44,55,47345,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,5,58,00:05:58,44,55,47345,"Shannon Evans","Stan Okoye","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",159,"Personal no TL","Foul No FT",TRUE,3,5,33,00:05:33,44,55,47374,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",110,"Falta recibida","Foul Received",FALSE,3,5,33,00:05:33,44,55,47374,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",115,"Sale Pista","Substitution - Out",TRUE,3,5,33,00:05:33,44,55,47386,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",112,"Entra Pista","Substitution - In",TRUE,3,5,33,00:05:33,44,55,47386,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",115,"Sale Pista","Substitution - Out",FALSE,3,5,33,00:05:33,44,55,47391,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",112,"Entra Pista","Substitution - In",FALSE,3,5,33,00:05:33,44,55,47391,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",93,"Canasta de 2","2-Point Shot Made",FALSE,3,5,24,00:05:24,44,57,47406,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,5,24,00:05:24,44,57,47406,"Ricky Rubio","Cameron Hunt","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,5,9,00:05:09,44,57,47421,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,5,9,00:05:09,44,57,47421,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,4,58,00:04:58,44,57,47431,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,4,58,00:04:58,44,57,47431,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",161,"Personal 2TL","Foul 2FT",TRUE,3,4,57,00:04:57,44,57,47441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",110,"Falta recibida","Foul Received",FALSE,3,4,57,00:04:57,44,57,47441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,4,57,00:04:57,44,57,47472,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,13
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",92,"Canasta de 1","Free Throw Made",FALSE,3,4,57,00:04:57,44,58,47490,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",100,"Mate","Dunk",TRUE,3,4,48,00:04:48,46,58,47504,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,12
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,4,48,00:04:48,46,58,47504,"Kyle Kuric","Artem Pustovyi","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",161,"Personal 2TL","Foul 2FT",TRUE,3,4,40,00:04:40,46,58,47514,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",110,"Falta recibida","Foul Received",FALSE,3,4,40,00:04:40,46,58,47514,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,3,4,40,00:04:40,46,59,47538,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,3,4,40,00:04:40,46,60,47556,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",93,"Canasta de 2","2-Point Shot Made",TRUE,3,4,32,00:04:32,48,60,47568,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,4,3,00:04:03,48,60,47597,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,4,3,00:04:03,48,60,47597,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,3,52,00:03:52,48,60,47608,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,3,52,00:03:52,48,60,47608,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",161,"Personal 2TL","Foul 2FT",TRUE,3,3,35,00:03:35,48,60,47628,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",110,"Falta recibida","Foul Received",FALSE,3,3,35,00:03:35,48,60,47628,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",115,"Sale Pista","Substitution - Out",TRUE,3,3,35,00:03:35,48,60,47638,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",112,"Entra Pista","Substitution - In",TRUE,3,3,35,00:03:35,48,60,47638,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",115,"Sale Pista","Substitution - Out",FALSE,3,3,35,00:03:35,48,60,47647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",112,"Entra Pista","Substitution - In",FALSE,3,3,35,00:03:35,48,60,47647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,3,3,35,00:03:35,48,61,47669,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,3,3,35,00:03:35,48,62,47681,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,3,20,00:03:20,48,62,47700,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,3,20,00:03:20,48,62,47700,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,3,4,00:03:04,48,62,47716,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,4,00:03:04,48,62,47716,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,2,46,00:02:46,48,62,47734,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,2,46,00:02:46,48,62,47734,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",115,"Sale Pista","Substitution - Out",TRUE,3,2,37,00:02:37,48,62,47757,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",112,"Entra Pista","Substitution - In",TRUE,3,2,37,00:02:37,48,62,47757,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",115,"Sale Pista","Substitution - Out",FALSE,3,2,37,00:02:37,48,62,47757,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",112,"Entra Pista","Substitution - In",FALSE,3,2,37,00:02:37,48,62,47757,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,2,27,00:02:27,48,62,47790,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",105,"Tapón Recibido","Block Received",FALSE,3,2,27,00:02:27,48,62,47790,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",102,"Tapón","Block",TRUE,3,2,27,00:02:27,48,62,47790,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,2,27,00:02:27,48,62,47790,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",159,"Personal no TL","Foul No FT",FALSE,3,2,23,00:02:23,48,62,47801,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",110,"Falta recibida","Foul Received",TRUE,3,2,23,00:02:23,48,62,47801,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",161,"Personal 2TL","Foul 2FT",FALSE,3,2,9,00:02:09,48,62,47844,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",110,"Falta recibida","Foul Received",TRUE,3,2,9,00:02:09,48,62,47844,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",92,"Canasta de 1","Free Throw Made",TRUE,3,2,9,00:02:09,49,62,47861,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",92,"Canasta de 1","Free Throw Made",TRUE,3,2,9,00:02:09,50,62,47873,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,1,49,00:01:49,50,62,47901,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,1,49,00:01:49,50,62,47901,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",161,"Personal 2TL","Foul 2FT",FALSE,3,1,37,00:01:37,50,62,47917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",110,"Falta recibida","Foul Received",TRUE,3,1,37,00:01:37,50,62,47917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",115,"Sale Pista","Substitution - Out",FALSE,3,1,37,00:01:37,50,62,47929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",112,"Entra Pista","Substitution - In",FALSE,3,1,37,00:01:37,50,62,47929,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",92,"Canasta de 1","Free Throw Made",TRUE,3,1,37,00:01:37,51,62,47946,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,11
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",92,"Canasta de 1","Free Throw Made",TRUE,3,1,37,00:01:37,52,62,47959,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,10
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",106,"Pérdida","Turnover",FALSE,3,1,19,00:01:19,52,62,47983,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",103,"Recuperación","Steal",TRUE,3,1,19,00:01:19,52,62,47983,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,1,12,00:01:12,52,62,47991,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,1,12,00:01:12,52,62,47991,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",93,"Canasta de 2","2-Point Shot Made",FALSE,3,1,5,00:01:05,52,64,47997,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,0,48,00:00:48,52,64,48014,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,0,48,00:00:48,52,64,48014,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,0,40,00:00:40,52,64,48023,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,0,40,00:00:40,52,64,48023,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104526,8,NA,NA,NA,NA,NA,409,"IR - Revisión del reloj de partido",NA,FALSE,3,0,41,00:00:41,52,64,48044,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,12
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",115,"Sale Pista","Substitution - Out",FALSE,3,0,38,00:00:38,52,64,48128,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",112,"Entra Pista","Substitution - In",FALSE,3,0,38,00:00:38,52,64,48128,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",94,"Canasta de 3","3-Point Shot Made",TRUE,3,0,25,00:00:25,55,64,48146,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,9
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,0,3,00:00:03,55,64,48167,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,9
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,0,3,00:00:03,55,64,48167,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,9
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,0,1,00:00:01,55,64,48171,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,9
+104526,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,55,64,48177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,55,64,48178,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"MBA",20200243,"Ferran Bassas","F. Bassas","Bassas",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,55,64,48245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,9,45,00:09:45,55,64,48345,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,9
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,9,45,00:09:45,55,64,48345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,9
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",100,"Mate","Dunk",TRUE,4,9,30,00:09:30,57,64,48360,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,7
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,9,30,00:09:30,57,64,48360,"Kyle Kuric","Artem Pustovyi","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",159,"Personal no TL","Foul No FT",TRUE,4,9,16,00:09:16,57,64,48379,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",110,"Falta recibida","Foul Received",FALSE,4,9,16,00:09:16,57,64,48379,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,9,4,00:09:04,57,64,48407,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,9,4,00:09:04,57,64,48407,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",94,"Canasta de 3","3-Point Shot Made",TRUE,4,8,49,00:08:49,60,64,48422,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,4
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,8,48,00:08:48,60,64,48422,"Kyle Kuric","Chumi Ortega","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104526,8,"JOV",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,8,48,00:08:48,60,64,48432,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,8,25,00:08:25,60,64,48560,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,8,25,00:08:25,60,64,48560,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",94,"Canasta de 3","3-Point Shot Made",TRUE,4,8,11,00:08:11,63,64,48574,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,1
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,8,11,00:08:11,63,64,48574,"Shannon Evans","Yves Pons","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",93,"Canasta de 2","2-Point Shot Made",FALSE,4,7,56,00:07:56,63,66,48589,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",106,"Pérdida","Turnover",TRUE,4,7,51,00:07:51,63,66,48596,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",103,"Recuperación","Steal",FALSE,4,7,51,00:07:51,63,66,48596,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",159,"Personal no TL","Foul No FT",TRUE,4,7,51,00:07:51,63,66,48606,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",110,"Falta recibida","Foul Received",FALSE,4,7,51,00:07:51,63,66,48606,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"JOV",20210498,"Ludde Hakanson","L. Hakanson","Hakanson",115,"Sale Pista","Substitution - Out",FALSE,4,7,51,00:07:51,63,66,48616,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",112,"Entra Pista","Substitution - In",FALSE,4,7,51,00:07:51,63,66,48616,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",115,"Sale Pista","Substitution - Out",TRUE,4,7,51,00:07:51,63,66,48625,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",112,"Entra Pista","Substitution - In",TRUE,4,7,51,00:07:51,63,66,48625,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,7,26,00:07:26,63,66,48681,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,7,26,00:07:26,63,66,48681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",93,"Canasta de 2","2-Point Shot Made",FALSE,4,7,15,00:07:15,63,68,48699,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",93,"Canasta de 2","2-Point Shot Made",TRUE,4,7,2,00:07:02,65,68,48710,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,6,38,00:06:38,65,68,48733,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,6,38,00:06:38,65,68,48733,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",161,"Personal 2TL","Foul 2FT",TRUE,4,6,33,00:06:33,65,68,48743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",110,"Falta recibida","Foul Received",FALSE,4,6,33,00:06:33,65,68,48743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",115,"Sale Pista","Substitution - Out",TRUE,4,6,33,00:06:33,65,68,48750,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"MBA",20210707,"Rubén Guerrero","R. Guerrero","Guerrero",112,"Entra Pista","Substitution - In",TRUE,4,6,33,00:06:33,65,68,48750,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",92,"Canasta de 1","Free Throw Made",FALSE,4,6,33,00:06:33,65,69,48776,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,6,33,00:06:33,65,69,48790,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,6,33,00:06:33,65,69,48790,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,6,21,00:06:21,65,69,48807,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,6,21,00:06:21,65,69,48807,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",106,"Pérdida","Turnover",FALSE,4,6,4,00:06:04,65,69,48824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",103,"Recuperación","Steal",TRUE,4,6,4,00:06:04,65,69,48824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",159,"Personal no TL","Foul No FT",FALSE,4,5,53,00:05:53,65,69,48835,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",110,"Falta recibida","Foul Received",TRUE,4,5,53,00:05:53,65,69,48835,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",115,"Sale Pista","Substitution - Out",FALSE,4,5,53,00:05:53,65,69,48843,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",115,"Sale Pista","Substitution - Out",FALSE,4,5,53,00:05:53,65,69,48843,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",112,"Entra Pista","Substitution - In",FALSE,4,5,53,00:05:53,65,69,48843,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",112,"Entra Pista","Substitution - In",FALSE,4,5,53,00:05:53,65,69,48843,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",93,"Canasta de 2","2-Point Shot Made",TRUE,4,5,44,00:05:44,67,69,48867,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",94,"Canasta de 3","3-Point Shot Made",FALSE,4,5,27,00:05:27,67,72,48893,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",94,"Canasta de 3","3-Point Shot Made",TRUE,4,5,15,00:05:15,70,72,48905,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,2
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,5,15,00:05:15,70,72,48905,"Shannon Evans","Aaron Best","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,51,00:04:51,70,74,48930,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,4,46,00:04:46,70,74,48939,"Cameron Hunt","Ante Tomic","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,4,37,00:04:37,70,74,48953,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104526,8,"JOV",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,4,4,37,00:04:37,70,74,48953,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",161,"Personal 2TL","Foul 2FT",TRUE,4,4,8,00:04:08,70,74,48977,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",110,"Falta recibida","Foul Received",FALSE,4,4,8,00:04:08,70,74,48977,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104526,8,"MBA",NA,NA,NA,NA,416,"IR - Challenge entrenador local",NA,TRUE,4,4,8,00:04:08,70,74,48995,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,4
+104526,8,"MBA",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",TRUE,4,4,8,00:04:08,70,74,49127,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",115,"Sale Pista","Substitution - Out",TRUE,4,4,8,00:04:08,70,74,49974,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",112,"Entra Pista","Substitution - In",TRUE,4,4,8,00:04:08,70,74,49974,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",20210707,"Rubén Guerrero","R. Guerrero","Guerrero",115,"Sale Pista","Substitution - Out",TRUE,4,4,8,00:04:08,70,74,49144,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",112,"Entra Pista","Substitution - In",TRUE,4,4,8,00:04:08,70,74,49144,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",92,"Canasta de 1","Free Throw Made",FALSE,4,4,8,00:04:08,70,75,49155,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,4,8,00:04:08,70,75,49172,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,5
+104526,8,"MBA",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,4,4,8,00:04:08,70,75,49172,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",106,"Pérdida","Turnover",TRUE,4,3,49,00:03:49,70,75,49201,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",103,"Recuperación","Steal",FALSE,4,3,49,00:03:49,70,75,49201,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,3,30,00:03:30,70,75,49219,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",30000095,"Yannick Kraag","Y. Kraag","Kraag",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,3,30,00:03:30,70,75,49219,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,3,18,00:03:18,70,75,49232,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,3,18,00:03:18,70,75,49232,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",93,"Canasta de 2","2-Point Shot Made",FALSE,4,3,11,00:03:11,70,77,49239,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",94,"Canasta de 3","3-Point Shot Made",TRUE,4,3,5,00:03:05,73,77,49244,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,4
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,3,5,00:03:05,73,77,49244,"Aaron Best","Yves Pons","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",93,"Canasta de 2","2-Point Shot Made",FALSE,4,2,40,00:02:40,73,79,49271,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104526,8,"JOV",30003415,"Cameron Hunt","C. Hunt","Hunt",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,2,40,00:02:40,73,79,49271,"Cameron Hunt","Ante Tomic","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104526,8,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",115,"Sale Pista","Substitution - Out",TRUE,4,2,40,00:02:40,73,79,49280,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",112,"Entra Pista","Substitution - In",TRUE,4,2,40,00:02:40,73,79,49280,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104526,8,"JOV",30003922,"Henri Drell","H. Drell","Drell",115,"Sale Pista","Substitution - Out",FALSE,4,2,40,00:02:40,73,79,49286,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",112,"Entra Pista","Substitution - In",FALSE,4,2,40,00:02:40,73,79,49286,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",161,"Personal 2TL","Foul 2FT",FALSE,4,2,32,00:02:32,73,79,49308,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,4,2,32,00:02:32,73,79,49308,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,2,32,00:02:32,73,79,49328,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,6
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",TRUE,4,2,32,00:02:32,74,79,49346,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,13,00:02:13,74,79,49368,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,13,00:02:13,74,79,49368,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",93,"Canasta de 2","2-Point Shot Made",TRUE,4,2,7,00:02:07,76,79,49374,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,1,45,00:01:45,76,79,49397,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104526,8,"MBA",30002671,"Yves Pons","Y. Pons","Pons",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,1,45,00:01:45,76,79,49397,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",106,"Pérdida","Turnover",TRUE,4,1,27,00:01:27,76,79,49415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",103,"Recuperación","Steal",FALSE,4,1,27,00:01:27,76,79,49415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",161,"Personal 2TL","Foul 2FT",TRUE,4,1,22,00:01:22,76,79,49422,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",110,"Falta recibida","Foul Received",FALSE,4,1,22,00:01:22,76,79,49422,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104526,8,"JOV",20202172,"Ante Tomic","A. Tomic","Tomic",115,"Sale Pista","Substitution - Out",FALSE,4,1,22,00:01:22,76,79,49437,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",112,"Entra Pista","Substitution - In",FALSE,4,1,22,00:01:22,76,79,49437,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",92,"Canasta de 1","Free Throw Made",FALSE,4,1,22,00:01:22,76,80,49455,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",92,"Canasta de 1","Free Throw Made",FALSE,4,1,22,00:01:22,76,81,49468,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104526,8,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,1,0,00:01:00,76,81,49494,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",20209836,"Adam Hanga","A. Hanga","Hanga",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,1,0,00:01:00,76,81,49494,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,0,40,00:00:40,76,81,49514,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,0,40,00:00:40,76,81,49514,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",159,"Personal no TL","Foul No FT",FALSE,4,0,34,00:00:34,76,81,49525,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",TRUE,4,0,34,00:00:34,76,81,49525,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104526,8,"MBA",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,4,0,34,00:00:34,76,81,49543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",106,"Pérdida","Turnover",TRUE,4,0,23,00:00:23,76,81,49671,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",20212423,"Simon Birgander","S. Birgander","Birgander",103,"Recuperación","Steal",FALSE,4,0,23,00:00:23,76,81,49671,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",161,"Personal 2TL","Foul 2FT",TRUE,4,0,6,00:00:06,76,81,49691,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",110,"Falta recibida","Foul Received",FALSE,4,0,6,00:00:06,76,81,49691,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104526,8,"MBA",30001134,"Shannon Evans","S. Evans","Evans",115,"Sale Pista","Substitution - Out",TRUE,4,0,6,00:00:06,76,81,49704,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",112,"Entra Pista","Substitution - In",TRUE,4,0,6,00:00:06,76,81,49704,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,4,0,6,00:00:06,76,82,49729,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",92,"Canasta de 1","Free Throw Made",FALSE,4,0,6,00:00:06,76,83,49748,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104526,8,"JOV",20201871,"Ricky Rubio","R. Rubio","Rubio",115,"Sale Pista","Substitution - Out",FALSE,4,0,6,00:00:06,76,83,49749,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"JOV",20204158,"Guillem Vives","G. Vives","Vives",112,"Entra Pista","Substitution - In",FALSE,4,0,6,00:00:06,76,83,49749,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,1,00:00:01,76,83,49769,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104526,8,"MBA",30003968,"Aaron Best","A. Best","Best",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,0,1,00:00:01,76,83,49769,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7
+104526,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,76,83,49795,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104526,8,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,76,83,49795,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
 104525,8,"BUR",20204156,"Dani Díez","D. Díez","Díez",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104525,8,"BUR",30003983,"Jhivvan Jackson","J. Jackson","Jackson",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104525,8,"BUR",20209859,"Raul Neto","R. Neto","Neto",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

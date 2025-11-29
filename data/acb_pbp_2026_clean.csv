@@ -39788,16 +39788,16 @@
 104529,8,"CAZ",20212476,"Miguel González","M. González","González",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,0,00:00:00,76,84,72080,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
 104529,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,76,84,72086,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
 104529,8,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,76,84,72086,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
-104528,8,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104528,8,"VBC",30000032,"Matt Costello","M. Costello","Costello",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104528,8,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104528,8,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,60666,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104528,8,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,60666,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104528,8,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,61257,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40352,90 +40352,90 @@
 104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,5,25,00:05:25,81,62,66778,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
 104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",106,"Pérdida","Turnover",FALSE,4,5,17,00:05:17,81,62,66960,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
 104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",103,"Recuperación","Steal",TRUE,4,5,17,00:05:17,81,62,66960,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
-104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",94,"Canasta de 3","3-Point Shot Made",TRUE,4,5,17,00:05:17,87,62,66786,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,25
-104528,8,"GIR",20211466,"Nikola Maric","N. Maric","Maric",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,4,54,00:04:54,87,62,66809,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,25
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,4,54,00:04:54,87,62,66809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",161,"Personal 2TL","Foul 2FT",FALSE,4,4,49,00:04:49,87,62,66816,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
-104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",TRUE,4,4,49,00:04:49,87,62,66816,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
-104528,8,"VBC",30004053,"Isaac Nogués","I. Nogués","Nogués",115,"Sale Pista","Substitution - Out",TRUE,4,4,49,00:04:49,87,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-104528,8,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",115,"Sale Pista","Substitution - Out",TRUE,4,4,49,00:04:49,87,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",112,"Entra Pista","Substitution - In",TRUE,4,4,49,00:04:49,87,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-104528,8,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",TRUE,4,4,49,00:04:49,87,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-104528,8,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",FALSE,4,4,49,00:04:49,87,62,66841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,4,4,49,00:04:49,87,62,66841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",92,"Canasta de 1","Free Throw Made",TRUE,4,4,49,00:04:49,88,62,66875,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,26
-104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",92,"Canasta de 1","Free Throw Made",TRUE,4,4,49,00:04:49,89,62,66875,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,27
-104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,4,4,49,00:04:49,89,62,66877,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",TRUE,4,4,49,00:04:49,89,62,66877,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,36,00:04:36,89,64,66906,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,25
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",100,"Mate","Dunk",TRUE,4,4,12,00:04:12,91,64,66922,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,27
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,4,12,00:04:12,91,64,66922,"Jean Montero","Braxton Key","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,27
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",159,"Personal no TL","Foul No FT",TRUE,4,4,2,00:04:02,91,64,66939,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",110,"Falta recibida","Foul Received",FALSE,4,4,2,00:04:02,91,64,66939,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27
-104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,3,56,00:03:56,91,64,66972,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,27
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,3,56,00:03:56,91,64,66972,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,27
-104528,8,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",159,"Personal no TL","Foul No FT",FALSE,4,3,47,00:03:47,91,64,66982,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",110,"Falta recibida","Foul Received",TRUE,4,3,47,00:03:47,91,64,66982,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27
-104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",115,"Sale Pista","Substitution - Out",FALSE,4,3,47,00:03:47,91,64,66990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",FALSE,4,3,47,00:03:47,91,64,66990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",106,"Pérdida","Turnover",TRUE,4,3,39,00:03:39,91,64,67003,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",103,"Recuperación","Steal",FALSE,4,3,39,00:03:39,91,64,67003,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,4,3,36,00:03:36,91,66,67006,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,25
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",161,"Personal 2TL","Foul 2FT",FALSE,4,3,12,00:03:12,91,66,67029,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",110,"Falta recibida","Foul Received",TRUE,4,3,12,00:03:12,91,66,67029,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",92,"Canasta de 1","Free Throw Made",TRUE,4,3,12,00:03:12,92,66,67064,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,26
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,3,12,00:03:12,92,66,67076,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,26
-104528,8,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,3,12,00:03:12,92,66,67076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
-104528,8,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,52,00:02:52,92,66,67095,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
-104528,8,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,52,00:02:52,92,66,67095,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,44,00:02:44,95,66,67106,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,29
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,2,44,00:02:44,95,66,67106,"Jean Montero","Josep Puerto","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,29
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,31,00:02:31,95,66,67119,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,31,00:02:31,95,66,67119,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,29
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",106,"Pérdida","Turnover",TRUE,4,2,14,00:02:14,95,66,67136,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",94,"Canasta de 3","3-Point Shot Made",FALSE,4,1,56,00:01:56,95,69,67160,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,26
-104528,8,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,4,1,56,00:01:56,95,69,67160,"Guillem Ferrando","Martinas Geben","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,26
-104528,8,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",TRUE,4,1,56,00:01:56,95,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-104528,8,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",112,"Entra Pista","Substitution - In",TRUE,4,1,56,00:01:56,95,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-104528,8,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",115,"Sale Pista","Substitution - Out",FALSE,4,1,56,00:01:56,95,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",FALSE,4,1,56,00:01:56,95,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",TRUE,4,1,38,00:01:38,97,69,67204,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,28
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,1,27,00:01:27,97,69,67686,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,28
-104528,8,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,1,27,00:01:27,97,69,67686,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,28
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",537,"Técnica 1TL","Technical Foul 1FT",TRUE,4,1,27,00:01:27,97,69,67238,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,28
-104528,8,"VBC",NA,NA,NA,NA,106,"Pérdida","Turnover",TRUE,4,1,27,00:01:27,97,69,67312,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,28
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",92,"Canasta de 1","Free Throw Made",FALSE,4,1,27,00:01:27,97,70,67317,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,27
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",161,"Personal 2TL","Foul 2FT",FALSE,4,1,26,00:01:26,97,70,67325,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",110,"Falta recibida","Foul Received",TRUE,4,1,26,00:01:26,97,70,67325,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",92,"Canasta de 1","Free Throw Made",TRUE,4,1,26,00:01:26,98,70,67360,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,28
-104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,1,26,00:01:26,98,70,67367,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,28
-104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,1,26,00:01:26,98,70,67367,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,28
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",100,"Mate","Dunk",FALSE,4,1,14,00:01:14,98,72,67381,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,26
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,1,14,00:01:14,98,72,67381,"Mark Hughes","Martinas Geben","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,26
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,59,00:00:59,98,72,67396,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,0,59,00:00:59,98,72,67396,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,26
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",TRUE,4,0,50,00:00:50,101,72,67405,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,29
-104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,0,50,00:00:50,101,72,67405,"Josep Puerto","Jean Montero","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,29
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,37,00:00:37,101,72,67418,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,37,00:00:37,101,72,67418,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,29
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,0,36,00:00:36,101,72,67423,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,29
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,36,00:00:36,101,72,67423,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,29
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,0,35,00:00:35,101,72,67432,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,29
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,0,35,00:00:35,101,72,67432,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,29
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",161,"Personal 2TL","Foul 2FT",FALSE,4,0,35,00:00:35,101,72,67441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",110,"Falta recibida","Foul Received",TRUE,4,0,35,00:00:35,101,72,67441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,29
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,0,35,00:00:35,101,72,67465,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,29
-104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,0,35,00:00:35,101,72,67466,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,29
-104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,0,35,00:00:35,101,72,67466,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,29
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,23,00:00:23,101,72,67473,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,23,00:00:23,101,72,67473,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,29
-104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,19,00:00:19,101,72,67480,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"GIR",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,19,00:00:19,101,72,67480,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,29
-104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",106,"Pérdida","Turnover",FALSE,4,0,5,00:00:05,101,72,67510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",103,"Recuperación","Steal",TRUE,4,0,5,00:00:05,101,72,67510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,29
-104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,1,00:00:01,101,72,67518,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,29
-104528,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,101,72,67542,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
-104528,8,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,101,72,67542,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",94,"Canasta de 3","3-Point Shot Made",TRUE,4,5,17,00:05:17,84,62,66786,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,22
+104528,8,"GIR",20211466,"Nikola Maric","N. Maric","Maric",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,4,54,00:04:54,84,62,66809,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,22
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,4,54,00:04:54,84,62,66809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,22
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",161,"Personal 2TL","Foul 2FT",FALSE,4,4,49,00:04:49,84,62,66816,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",TRUE,4,4,49,00:04:49,84,62,66816,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104528,8,"VBC",30004053,"Isaac Nogués","I. Nogués","Nogués",115,"Sale Pista","Substitution - Out",TRUE,4,4,49,00:04:49,84,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104528,8,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",115,"Sale Pista","Substitution - Out",TRUE,4,4,49,00:04:49,84,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",112,"Entra Pista","Substitution - In",TRUE,4,4,49,00:04:49,84,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104528,8,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",TRUE,4,4,49,00:04:49,84,62,66824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104528,8,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",FALSE,4,4,49,00:04:49,84,62,66841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,4,4,49,00:04:49,84,62,66841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",92,"Canasta de 1","Free Throw Made",TRUE,4,4,49,00:04:49,85,62,66875,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,23
+104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",92,"Canasta de 1","Free Throw Made",TRUE,4,4,49,00:04:49,86,62,66875,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,24
+104528,8,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,4,4,49,00:04:49,86,62,66877,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",TRUE,4,4,49,00:04:49,86,62,66877,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,36,00:04:36,86,64,66906,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,22
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",100,"Mate","Dunk",TRUE,4,4,12,00:04:12,88,64,66922,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,24
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,4,12,00:04:12,88,64,66922,"Jean Montero","Braxton Key","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,24
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",159,"Personal no TL","Foul No FT",TRUE,4,4,2,00:04:02,88,64,66939,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",110,"Falta recibida","Foul Received",FALSE,4,4,2,00:04:02,88,64,66939,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,3,56,00:03:56,88,64,66972,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,24
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,3,56,00:03:56,88,64,66972,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104528,8,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",159,"Personal no TL","Foul No FT",FALSE,4,3,47,00:03:47,88,64,66982,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",110,"Falta recibida","Foul Received",TRUE,4,3,47,00:03:47,88,64,66982,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",115,"Sale Pista","Substitution - Out",FALSE,4,3,47,00:03:47,88,64,66990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",FALSE,4,3,47,00:03:47,88,64,66990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",106,"Pérdida","Turnover",TRUE,4,3,39,00:03:39,88,64,67003,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",103,"Recuperación","Steal",FALSE,4,3,39,00:03:39,88,64,67003,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,4,3,36,00:03:36,88,66,67006,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,22
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",161,"Personal 2TL","Foul 2FT",FALSE,4,3,12,00:03:12,88,66,67029,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",110,"Falta recibida","Foul Received",TRUE,4,3,12,00:03:12,88,66,67029,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",92,"Canasta de 1","Free Throw Made",TRUE,4,3,12,00:03:12,89,66,67064,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,23
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,3,12,00:03:12,89,66,67076,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,23
+104528,8,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,3,12,00:03:12,89,66,67076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,23
+104528,8,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,52,00:02:52,89,66,67095,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,23
+104528,8,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,52,00:02:52,89,66,67095,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,23
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,44,00:02:44,92,66,67106,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,26
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,2,44,00:02:44,92,66,67106,"Jean Montero","Josep Puerto","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,26
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,31,00:02:31,92,66,67119,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,31,00:02:31,92,66,67119,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",106,"Pérdida","Turnover",TRUE,4,2,14,00:02:14,92,66,67136,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",94,"Canasta de 3","3-Point Shot Made",FALSE,4,1,56,00:01:56,92,69,67160,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,23
+104528,8,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,4,1,56,00:01:56,92,69,67160,"Guillem Ferrando","Martinas Geben","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,23
+104528,8,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",TRUE,4,1,56,00:01:56,92,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104528,8,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",112,"Entra Pista","Substitution - In",TRUE,4,1,56,00:01:56,92,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104528,8,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",115,"Sale Pista","Substitution - Out",FALSE,4,1,56,00:01:56,92,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",FALSE,4,1,56,00:01:56,92,69,67179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",TRUE,4,1,38,00:01:38,94,69,67204,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,25
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,1,27,00:01:27,94,69,67686,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104528,8,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,1,27,00:01:27,94,69,67686,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",537,"Técnica 1TL","Technical Foul 1FT",TRUE,4,1,27,00:01:27,94,69,67238,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104528,8,"VBC",NA,NA,NA,NA,106,"Pérdida","Turnover",TRUE,4,1,27,00:01:27,94,69,67312,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",92,"Canasta de 1","Free Throw Made",FALSE,4,1,27,00:01:27,94,70,67317,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,24
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",161,"Personal 2TL","Foul 2FT",FALSE,4,1,26,00:01:26,94,70,67325,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",110,"Falta recibida","Foul Received",TRUE,4,1,26,00:01:26,94,70,67325,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",92,"Canasta de 1","Free Throw Made",TRUE,4,1,26,00:01:26,95,70,67360,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,25
+104528,8,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,1,26,00:01:26,95,70,67367,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,25
+104528,8,"GIR",30003946,"Derek Needham","D. Needham","Needham",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,1,26,00:01:26,95,70,67367,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",100,"Mate","Dunk",FALSE,4,1,14,00:01:14,95,72,67381,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,23
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,1,14,00:01:14,95,72,67381,"Mark Hughes","Martinas Geben","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,23
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,59,00:00:59,95,72,67396,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,23
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,0,59,00:00:59,95,72,67396,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,23
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",TRUE,4,0,50,00:00:50,98,72,67405,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,26
+104528,8,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,0,50,00:00:50,98,72,67405,"Josep Puerto","Jean Montero","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,26
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,37,00:00:37,98,72,67418,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,37,00:00:37,98,72,67418,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,26
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,0,36,00:00:36,98,72,67423,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,26
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,36,00:00:36,98,72,67423,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,26
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,0,35,00:00:35,98,72,67432,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,26
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,0,35,00:00:35,98,72,67432,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",161,"Personal 2TL","Foul 2FT",FALSE,4,0,35,00:00:35,98,72,67441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",110,"Falta recibida","Foul Received",TRUE,4,0,35,00:00:35,98,72,67441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,0,35,00:00:35,98,72,67465,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,26
+104528,8,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,0,35,00:00:35,98,72,67466,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,26
+104528,8,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,0,35,00:00:35,98,72,67466,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,23,00:00:23,98,72,67473,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,23,00:00:23,98,72,67473,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,26
+104528,8,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,19,00:00:19,98,72,67480,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"GIR",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,19,00:00:19,98,72,67480,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,26
+104528,8,"GIR",30002443,"Martinas Geben","M. Geben","Geben",106,"Pérdida","Turnover",FALSE,4,0,5,00:00:05,98,72,67510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",103,"Recuperación","Steal",TRUE,4,0,5,00:00:05,98,72,67510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26
+104528,8,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,0,1,00:00:01,98,72,67518,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104528,8,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,98,72,67542,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104528,8,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,98,72,67542,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
 104527,8,"SBB",20212357,"Melwin Pantzar","M. Pantzar","Pantzar",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104527,8,"SBB",30003944,"Justin Jaworski","J. Jaworski","Jaworski",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104527,8,"SBB",20212461,"Tryggvi Hlinason","T. Hlinason","Hlinason",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

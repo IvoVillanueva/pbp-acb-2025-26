@@ -45279,16 +45279,16 @@
 104535,9,"BAX",20204133,"Álex Reyes","A. Reyes","Reyes",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,2,00:00:02,83,79,50534,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
 104535,9,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,83,79,50543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104535,9,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,83,79,50543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104534,9,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104534,9,"GIR",30003946,"Derek Needham","D. Needham","Needham",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"BRE",20212244,"Jordan Sakho","J. Sakho","Sakho",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"BRE",20211887,"Arturs Kurucs","A. Kurucs","Kurucs",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104534,9,"BRE",30004004,"Danko  Brankovic","D. Brankovic","Brankovic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"BRE",30004007,"Keandre Cook","K. Cook","Cook",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"BRE",30004003,"DeWayne Russell","D. Russell","Russell",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104534,9,"BRE",30004004,"Danko  Brankovic","D. Brankovic","Brankovic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104534,9,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"GIR",30002443,"Martinas Geben","M. Geben","Geben",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104534,9,"GIR",30003946,"Derek Needham","D. Needham","Needham",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,75085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,75085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104534,9,"GIR",30002443,"Martinas Geben","M. Geben","Geben",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,75253,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -45403,8 +45403,8 @@
 104534,9,"GIR",30003946,"Derek Needham","D. Needham","Needham",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,1,37,00:01:37,27,11,76657,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
 104534,9,"GIR",30003946,"Derek Needham","D. Needham","Needham",106,"Pérdida","Turnover",TRUE,1,1,32,00:01:32,27,11,76663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
 104534,9,"BRE",20210585,"Francis Alonso","F. Alonso","Alonso",103,"Recuperación","Steal",FALSE,1,1,32,00:01:32,27,11,76663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
-104534,9,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,1,27,00:01:27,27,11,76667,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
-104534,9,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,1,27,00:01:27,27,11,76667,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104534,9,"BRE",20210585,"Francis Alonso","F. Alonso","Alonso",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,1,27,00:01:27,27,11,58468,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104534,9,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,1,27,00:01:27,27,11,58468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
 104534,9,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",94,"Canasta de 3","3-Point Shot Made",TRUE,1,1,16,00:01:16,30,11,76678,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,19
 104534,9,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,1,16,00:01:16,30,11,76678,"Juan Fernández","Pep Busquets","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19
 104534,9,"BRE",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,1,1,15,00:01:15,30,11,76689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19

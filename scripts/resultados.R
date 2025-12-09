@@ -26,10 +26,17 @@ iddf <- function(id) {
     unnest(cols = c(
       competition, phase, local_team,
       visitor_team, arena, edition
-    ), names_sep = "_")
+    ), names_sep = "_")%>% 
+    select(where(~!is.list(.)))
+    
 }
 
 resultados <- map_df(id, iddf)
+
+
+# write dataframe to .csv in a folder called "data/"
+write.csv(resultados, "data/marcadores_2025_26.csv", row.names = FALSE)
+
 
 # calcular victorias derrotas
 victorias_derrotas <- resultados %>%

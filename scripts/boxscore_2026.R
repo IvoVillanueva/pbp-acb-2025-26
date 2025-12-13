@@ -29,7 +29,7 @@ boxscores_matches <- function(partidos_2026) {
   tryCatch({
     fromJSON(content(GET(
       url = paste0(
-        Sys. getenv("API_URL"),
+        Sys.getenv("API_URL"),
         partidos_2026
       ),
       add_headers(.headers = headers)

@@ -26,7 +26,7 @@ partidos_2026 <- calendario %>%
 
 # Function to get boxscore for a single match
 boxscores_matches <- function(partidos_2026) {
-  fromJSON(content(GET(
+  tryCatch({ content(GET(
     url = paste0(
       Sys.getenv("PBP"),
       partidos_2026, "&jvFilter=true"
@@ -52,8 +52,10 @@ boxscores_matches <- function(partidos_2026) {
         filter(id == partidos_2026) %>%
         pull(matchweek_number)
     )
+}, error = function(e) {
+    return(NULL)
+  })
 }
-
 # Map function to get all boxscores
 pbp_df <- map_df(partidos_2026, boxscores_matches)
 

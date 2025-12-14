@@ -33,7 +33,7 @@ boxscores_matches <- function(partidos_2026) {
         partidos_2026
       ),
       add_headers(.headers = headers)
-    ), "text")) %>%
+    ), "text") %>%
       pluck() %>%
       unnest(
         cols = c(competition, license, local_team, visitor_team, edition),

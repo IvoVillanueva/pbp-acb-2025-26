@@ -28,33 +28,31 @@ partidos_2026 <- calendario %>%
 boxscores_matches <- function(partidos_2026) {
   tryCatch({
     fromJSON(content(GET(
-  url = paste0(
-    Sys.getenv("API_URL"),
-    partidos_2026
-  ),
-  add_headers(.headers = headers)
-), "text")) %>%
-  pluck() %>%
-  unnest(
-    cols = c(competition, license, local_team, visitor_team, edition),
-    names_sep = "_"
-  ) %>%
-  mutate(
-    abb = ifelse(is_local == FALSE, visitor_team_team_abbrev_name,
-      local_team_team_abbrev_name
+    url = paste0(
+      Sys.getenv("PBP"),
+      partidos_2026, "&jvFilter=true"
+    ),
+    add_headers(.headers = headers)
+  ), "text")) %>%
+    pluck() %>%
+    unnest(
+      cols = c(competition, edition, license, team, type, statistics),
+      names_sep = "_"
+    ) %>%
+    select(!c(
+      id_subphase, id_round, license_media, team_media,
+      contains("_date")
+    )) %>%
+    tibble() %>%
+    mutate(
+      fecha = calendario %>%
+        filter(id == partidos_2026) %>%
+        mutate(date = as.Date(as_datetime(date))) %>%
+        pull(date), .before = 1,
+      num_jornada = calendario %>%
+        filter(id == partidos_2026) %>%
+        pull(matchweek_number)
     )
-  ) %>%
-  mutate(
-    fecha = calendario %>%
-      filter(id == partidos_2026) %>%
-      mutate(date = as.Date(as_datetime(date))) %>%
-      pull(date), .before = 1,
-    num_jornada = calendario %>%
-      filter(id == partidos_2026) %>%
-      pull(matchweek_number)
-  ) %>%
-  select(where(~ !  is.list(.))) %>%
-  clean_names()
   }, error = function(e) {
     return(NULL)
   })

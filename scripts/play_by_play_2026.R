@@ -53,8 +53,9 @@ boxscores_matches <- function(partidos_2026) {
         filter(id == partidos_2026) %>%
         pull(matchweek_number)
     )
-  }, error = function(e) {
-    return(tibble())
+  },
+  error = function(e) {
+    pbp_template
   })
 }
 

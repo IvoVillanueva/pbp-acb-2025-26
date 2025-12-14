@@ -76,4 +76,3 @@ pbp_df <- map_df(partidos_2026, boxscores_matches)
 
 # write dataframe to .csv in a folder called "data/"
 write.csv(pbp_df, "data/playbyplay_2025_26.csv", row.names = FALSE)
-

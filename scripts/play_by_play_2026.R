@@ -54,7 +54,7 @@ boxscores_matches <- function(partidos_2026) {
         pull(matchweek_number)
     )
   }, error = function(e) {
-    return(NULL)
+    return(tibble())
   })
 }
 

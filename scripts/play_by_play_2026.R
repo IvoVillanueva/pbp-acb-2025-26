@@ -25,7 +25,7 @@ partidos_2026 <- calendario %>%
   pull(id)
 
 # Function to get boxscore for a single match
-boxscores_matches <- function(partidos_2026) {
+playbyplay <- function(partidos_2026) {
   tryCatch(
     {
       res <- fromJSON(content(GET(
@@ -72,7 +72,7 @@ boxscores_matches <- function(partidos_2026) {
 }
 
 # Map function to get all boxscores
-pbp_df <- map_df(partidos_2026, boxscores_matches)
+pbp_df <- map_df(partidos_2026, playbyplay)
 
 # write dataframe to .csv in a folder called "data/"
 write.csv(pbp_df, "data/playbyplay_2025_26.csv", row.names = FALSE)

@@ -39,7 +39,7 @@ playbyplay <- function(partidos_2026) {
       # Verificamos si json_resp está vacío o tiene problemas
       if (is.null(res)) {
         message("Error en el ID: ", partidos_2026, ". Datos nulos o incompletos.")
-        return(NULL)
+        return(tibble())
       }
 
       df <- pluck(res) %>%

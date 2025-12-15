@@ -13,7 +13,7 @@ calendario <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-
 
 # Filter matches that have already been played
 partidos_2026 <- calendario %>%
-  select(id, matchweek_number, date, time) %>%
+  select(id, matchweek_number, date, time, finalized) %>%
   mutate(
     date = as.Date(as_datetime(date)),
     time = hms::hms(time)

@@ -3,33 +3,8 @@ source("scripts/helpers.R")
 # Create data directory if it doesn't exist
 if (!dir.exists("data")) dir.create("data")
 
-# csv con los datos
-ids <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/calendario/ids_df.csv")
-
-# filtro para las semanas
-id <- ids %>%
-  select(id, date = end_date) %>%
-  mutate(
-    date = as.Date(as_datetime(date))
-  ) %>%
-  filter(
-    date <= today()
-  ) %>%
-  pull(id)
-
-# funcion resultados
-iddf <- function(id) {
-  link <- paste0(Sys.getenv("API_RESULTADOS"), id)
-  res1 <- GET(url = link, add_headers(.headers = headers))
-  json_resp1 <- fromJSON(content(res1, "text"))
-  matches <- pluck(json_resp1) %>%
-    unnest(cols = c(
-      competition, phase, local_team,
-      visitor_team, arena, edition
-    ), names_sep = "_")
-}
-
-resultados <- map_df(id, iddf)
+resultados <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/data/marcadores_2025_26.csv",
+                          show_col_types = FALSE) 
 
 resultados_jornada <- resultados %>%
   transmute(

@@ -9,9 +9,9 @@ source("scripts/helpers.R")
 if (!dir.exists("data")) dir.create("data")
 
 # Load match calendar for the 2025-26 ACB season
-partidos_2026 <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/data/marcadores_2025_26.csv",
-                          show_col_types = FALSE) %>%
-  pull(id)
+calendario <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/data/marcadores_2025_26.csv",
+                          show_col_types = FALSE) 
+partidos_2026 <- calendario$id
 
 # Function to get boxscore for a single match
 boxscores_matches <- function(partidos_2026) {

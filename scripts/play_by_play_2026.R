@@ -8,21 +8,12 @@ source("scripts/helpers.R")
 # Create data directory if it doesn't exist
 if (!dir.exists("data")) dir.create("data")
 
-# Load match calendar for the 2025-26 ACB season
-calendario <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/calendario/calendario25_26.csv", show_col_types = FALSE)
 
-# Filter matches that have already been played
-partidos_2026 <- calendario %>%
-  select(id, matchweek_number, date, time, finalized) %>%
-  mutate(
-    date = as.Date(as_datetime(date)),
-    time = hms::hms(time)
-  ) %>%
-  filter( finalized	== TRUE & 
-    date < today() |
-      (date == today() & time < hms::as_hms(format(Sys.time(), "%H:%M:%S")))
-  ) %>%
-  pull(id)
+# Load match calendar for the 2025-26 ACB season
+calendario <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/data/marcadores_2025_26.csv",
+                          show_col_types = FALSE) 
+
+partidos_2026 <- calendario$id
 
 # Function to get boxscore for a single match
 playbyplay <- function(partidos_2026) {
@@ -57,7 +48,7 @@ playbyplay <- function(partidos_2026) {
     },
     error = function(e) {
       message("Error en el ID: ", partidos_2026, ".  Mensaje: ", e$message)
-      return(tibble())  # ← IMPORTANTE: devolver tibble() vacío
+      return(tibble()) 
     }
   )
 }

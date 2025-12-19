@@ -29,25 +29,16 @@ playbyplay <- function(partidos_2026) {
   tryCatch(
     {
       res <- fromJSON(content(GET(
-        url = paste0(
-          Sys.getenv("PBP"),
-          partidos_2026, "&jvFilter=true"
-        ),
+        url = paste0(Sys.getenv("PBP"), partidos_2026, "&jvFilter=true"),
         add_headers(.headers = headers)
       ), "text"))
-
-      # Verificamos si json_resp está vacío o tiene problemas
-      if (is.null(res)) {
-        message("Error en el ID: ", partidos_2026, ". Datos nulos o incompletos.")
-        return(tibble())
-      }
 
       df <- pluck(res) %>%
         unnest(
           cols = c(competition, edition, license, team, type, statistics),
           names_sep = "_"
         ) %>%
-        select(!c(
+        select(! c(
           id_subphase, id_round, license_media, team_media,
           contains("_date")
         )) %>%
@@ -65,13 +56,12 @@ playbyplay <- function(partidos_2026) {
       return(df)
     },
     error = function(e) {
-      # En caso de error, mostramos un mensaje y devolvemos NULL
-      message("Error en el ID: ", partidos_2026, ". Continuando con el siguiente.")
+      message("Error en el ID: ", partidos_2026, ".  Mensaje: ", e$message)
+      return(tibble())  # ← IMPORTANTE: devolver tibble() vacío
     }
   )
 }
 
-# Map function to get all boxscores
 pbp_df <- map_df(partidos_2026, playbyplay)
 
 # write dataframe to .csv in a folder called "data/"

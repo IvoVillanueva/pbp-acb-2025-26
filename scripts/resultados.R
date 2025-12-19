@@ -27,7 +27,8 @@ iddf <- function(id) {
       competition, phase, local_team,
       visitor_team, arena, edition
     ), names_sep = "_")%>% 
-    select(where(~!is.list(.)))
+    select(where(~!is.list(.)))%>% 
+  filter(finalized == TRUE) 
     
 }
 

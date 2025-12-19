@@ -9,41 +9,29 @@ source("scripts/helpers.R")
 if (!dir.exists("data")) dir.create("data")
 
 # Load match calendar for the 2025-26 ACB season
-calendario <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/data/marcadores_2025_26.csv", show_col_types = FALSE)
-
-# Filter matches that have already been played
-partidos_2026 <- calendario %>%
-  select(id, matchweek_number, date, time) %>%
-  mutate(
-    date = as.Date(as_datetime(date)),
-    time = hms::hms(time)
-  ) %>%
-  filter(
-    date < today() |
-      (date == today() & time < hms::as_hms(format(Sys.time(), "%H:%M:%S")))
-  ) %>%
+partidos_2026 <- read_csv("https://raw.githubusercontent.com/IvoVillanueva/pbp-acb-2025-26/refs/heads/main/data/marcadores_2025_26.csv",
+                          show_col_types = FALSE) %>%
   pull(id)
 
 # Function to get boxscore for a single match
 boxscores_matches <- function(partidos_2026) {
-  tryCatch({
-    fromJSON(content(GET(
+  fromJSON(content(GET(
     url = paste0(
-      Sys.getenv("PBP"),
-      partidos_2026, "&jvFilter=true"
+      Sys.getenv("API_URL"),
+      partidos_2026
     ),
     add_headers(.headers = headers)
   ), "text")) %>%
     pluck() %>%
     unnest(
-      cols = c(competition, edition, license, team, type, statistics),
+      cols = c(competition, license, local_team, visitor_team, edition),
       names_sep = "_"
     ) %>%
-    select(!c(
-      id_subphase, id_round, license_media, team_media,
-      contains("_date")
-    )) %>%
-    tibble() %>%
+    mutate(
+      abb = ifelse(is_local == FALSE, visitor_team_team_abbrev_name,
+        local_team_team_abbrev_name
+      )
+    ) %>%
     mutate(
       fecha = calendario %>%
         filter(id == partidos_2026) %>%
@@ -52,10 +40,13 @@ boxscores_matches <- function(partidos_2026) {
       num_jornada = calendario %>%
         filter(id == partidos_2026) %>%
         pull(matchweek_number)
-    )
-  }, error = function(e) {
-    return(tibble())
-  })
+    ) %>%
+    select(where(~ !is.list(.))) %>%
+    clean_names() %>%
+    filter(!is.na(license_id)) %>%
+    group_by(id) %>%
+    arrange(-is_local) %>%
+    ungroup()
 }
 
 # Map function to get all boxscores

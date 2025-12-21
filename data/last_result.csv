@@ -1,4 +1,8 @@
 "abb","rival"
+"BAR","vs. JOV (W +10)"
+"JOV","@. BAR (L -10)"
+"BRE","vs. SBB (W +1)"
+"SBB","@. BRE (L -1)"
 "BUR","vs. BAX (L -2)"
 "BAX","@. BUR (W +2)"
 "HIO","vs. RMB (L -7)"

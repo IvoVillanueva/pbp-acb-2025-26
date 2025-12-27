@@ -47825,7 +47825,7 @@
 104533,9,"CAZ",20212476,"Miguel González","M. González","González",159,"Personal no TL","Foul No FT",FALSE,1,1,45,00:01:45,14,17,72924,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
 104533,9,"COV",30002043,"William Howard","W. Howard","Howard",110,"Falta recibida","Foul Received",TRUE,1,1,45,00:01:45,14,17,72924,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
 104533,9,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",115,"Sale Pista","Substitution - Out",FALSE,1,1,45,00:01:45,14,17,72946,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,1,1,45,00:01:45,14,17,72946,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,1,1,45,00:01:45,14,17,72946,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",161,"Personal 2TL","Foul 2FT",FALSE,1,1,39,00:01:39,14,17,72958,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",110,"Falta recibida","Foul Received",TRUE,1,1,39,00:01:39,14,17,72958,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,1,1,39,00:01:39,14,17,72958,"Jonathan Rousselle","Beqa Burjanadze","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
@@ -47835,20 +47835,20 @@
 104533,9,"CAZ",20212476,"Miguel González","M. González","González",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,1,19,00:01:19,15,17,73016,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,2
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,1,19,00:01:19,15,17,73016,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2
 104533,9,"COV",30002043,"William Howard","W. Howard","Howard",161,"Personal 2TL","Foul 2FT",TRUE,1,1,13,00:01:13,15,17,73023,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,1,1,13,00:01:13,15,17,73023,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,1,1,13,00:01:13,15,17,73050,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,2
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,1,1,13,00:01:13,15,17,73066,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,2
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,1,1,13,00:01:13,15,17,73023,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,1,1,13,00:01:13,15,17,73050,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,2
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,1,1,13,00:01:13,15,17,73066,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,2
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,1,13,00:01:13,15,17,73066,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",93,"Canasta de 2","2-Point Shot Made",TRUE,1,0,58,00:00:58,17,17,73082,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0
 104533,9,NA,NA,NA,NA,NA,410,"IR - Revisión por enfrentamiento",NA,FALSE,1,0,57,00:00:57,17,17,73122,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,35,00:00:35,17,19,73193,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
-104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,0,35,00:00:35,17,19,73193,"Joaquin Rodriguez","Khalifa Koumadje","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,35,00:00:35,17,19,73193,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,0,35,00:00:35,17,19,73193,"Joaquin Rodriguez","Christ Koumadje","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
 104533,9,"COV",30002043,"William Howard","W. Howard","Howard",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,0,8,00:00:08,17,19,73220,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
 104533,9,"COV",30002043,"William Howard","W. Howard","Howard",105,"Tapón Recibido","Block Received",TRUE,1,0,8,00:00:08,17,19,73220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",102,"Tapón","Block",FALSE,1,0,8,00:00:08,17,19,73220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,0,8,00:00:08,17,19,73220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",100,"Mate","Dunk",FALSE,1,0,2,00:00:02,17,21,73226,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,4
-104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,0,2,00:00:02,17,21,73226,"Joaquin Rodriguez","Khalifa Koumadje","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",102,"Tapón","Block",FALSE,1,0,8,00:00:08,17,19,73220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,0,8,00:00:08,17,19,73220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",100,"Mate","Dunk",FALSE,1,0,2,00:00:02,17,21,73226,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,4
+104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,0,2,00:00:02,17,21,73226,"Joaquin Rodriguez","Christ Koumadje","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,0,0,00:00:00,17,21,73231,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104533,9,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,17,21,73240,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104533,9,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,17,21,73240,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
@@ -47861,21 +47861,21 @@
 104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,9,28,00:09:28,17,21,73417,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,9,28,00:09:28,17,21,73417,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,9,7,00:09:07,17,21,73438,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,9,7,00:09:07,17,21,73438,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,9,7,00:09:07,17,21,73438,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",115,"Sale Pista","Substitution - Out",FALSE,2,9,1,00:09:01,17,21,73449,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104533,9,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",112,"Entra Pista","Substitution - In",FALSE,2,9,1,00:09:01,17,21,73449,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",115,"Sale Pista","Substitution - Out",TRUE,2,9,1,00:09:01,17,21,73471,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104533,9,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",112,"Entra Pista","Substitution - In",TRUE,2,9,1,00:09:01,17,21,73471,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",109,"Falta en Ataque","Offensive Foul",FALSE,2,8,59,00:08:59,17,21,73493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",106,"Pérdida","Turnover",FALSE,2,8,59,00:08:59,17,21,73493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",109,"Falta en Ataque","Offensive Foul",FALSE,2,8,59,00:08:59,17,21,73493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",106,"Pérdida","Turnover",FALSE,2,8,59,00:08:59,17,21,73493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",110,"Falta recibida","Foul Received",TRUE,2,8,59,00:08:59,17,21,73493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,8,44,00:08:44,17,21,73543,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,44,00:08:44,17,21,73543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,44,00:08:44,17,21,73543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,8,26,00:08:26,17,21,73560,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,26,00:08:26,17,21,73560,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",106,"Pérdida","Turnover",TRUE,2,8,13,00:08:13,17,21,73574,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",103,"Recuperación","Steal",FALSE,2,8,13,00:08:13,17,21,73574,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,2,8,10,00:08:10,17,21,73582,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",103,"Recuperación","Steal",FALSE,2,8,13,00:08:13,17,21,73574,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,2,8,10,00:08:10,17,21,73582,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",FALSE,2,8,10,00:08:10,17,21,73582,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,7,53,00:07:53,17,21,73617,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104533,9,"CAZ",20212476,"Miguel González","M. González","González",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,7,53,00:07:53,17,21,73617,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
@@ -47973,7 +47973,7 @@
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",161,"Personal 2TL","Foul 2FT",TRUE,2,0,39,00:00:39,30,44,74623,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",110,"Falta recibida","Foul Received",FALSE,2,0,39,00:00:39,30,44,74623,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",115,"Sale Pista","Substitution - Out",FALSE,2,0,39,00:00:39,30,44,74630,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,2,0,39,00:00:39,30,44,74630,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,2,0,39,00:00:39,30,44,74630,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104533,9,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",115,"Sale Pista","Substitution - Out",TRUE,2,0,39,00:00:39,30,44,74653,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",112,"Entra Pista","Substitution - In",TRUE,2,0,39,00:00:39,30,44,74653,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",115,"Sale Pista","Substitution - Out",TRUE,2,0,39,00:00:39,30,44,74660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
@@ -47985,11 +47985,11 @@
 104533,9,"COV",20212430,"Matt Thomas","M. Thomas","Thomas",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,0,24,00:00:24,30,46,74733,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,16
 104533,9,"COV",20212430,"Matt Thomas","M. Thomas","Thomas",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,0,24,00:00:24,30,46,74733,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
 104533,9,"COV",20212430,"Matt Thomas","M. Thomas","Thomas",93,"Canasta de 2","2-Point Shot Made",TRUE,2,0,20,00:00:20,32,46,74737,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",100,"Mate","Dunk",FALSE,2,0,1,00:00:01,32,48,74757,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,16
-104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,0,1,00:00:01,32,48,74757,"Joaquin Rodriguez","Khalifa Koumadje","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",100,"Mate","Dunk",FALSE,2,0,1,00:00:01,32,48,74757,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,16
+104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,0,1,00:00:01,32,48,74757,"Joaquin Rodriguez","Christ Koumadje","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",160,"Personal 1TL","Foul 1FT",TRUE,2,0,1,00:00:01,32,48,74762,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,2,0,1,00:00:01,32,48,74762,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,0,1,00:00:01,32,48,74786,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,2,0,1,00:00:01,32,48,74762,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,0,1,00:00:01,32,48,74786,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,0,1,00:00:01,32,48,74786,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,0,1,00:00:01,32,48,74791,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
 104533,9,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,32,48,74800,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
@@ -48000,7 +48000,7 @@
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
 104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
 104533,9,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
 104533,9,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,32,48,75724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
@@ -48082,7 +48082,7 @@
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",112,"Entra Pista","Substitution - In",TRUE,3,4,25,00:04:25,48,60,76743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",115,"Sale Pista","Substitution - Out",FALSE,3,4,25,00:04:25,48,60,76743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",115,"Sale Pista","Substitution - Out",FALSE,3,4,25,00:04:25,48,60,76743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,3,4,25,00:04:25,48,60,76743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,3,4,25,00:04:25,48,60,76743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",112,"Entra Pista","Substitution - In",FALSE,3,4,25,00:04:25,48,60,76743,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",92,"Canasta de 1","Free Throw Made",FALSE,3,4,25,00:04:25,48,61,76768,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
 104533,9,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,4,25,00:04:25,48,61,76784,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,13
@@ -48092,9 +48092,9 @@
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,3,59,00:03:59,48,63,76810,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,3,41,00:03:41,48,63,76826,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",161,"Personal 2TL","Foul 2FT",TRUE,3,3,41,00:03:41,48,63,76834,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,3,3,41,00:03:41,48,63,76834,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",92,"Canasta de 1","Free Throw Made",FALSE,3,3,41,00:03:41,48,64,76861,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,3,41,00:03:41,48,64,76878,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,3,3,41,00:03:41,48,63,76834,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",92,"Canasta de 1","Free Throw Made",FALSE,3,3,41,00:03:41,48,64,76861,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,3,41,00:03:41,48,64,76878,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",161,"Personal 2TL","Foul 2FT",FALSE,3,3,41,00:03:41,48,64,76885,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",TRUE,3,3,41,00:03:41,48,64,76885,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",TRUE,3,3,41,00:03:41,49,64,76925,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
@@ -48108,9 +48108,9 @@
 104533,9,"COV",20212430,"Matt Thomas","M. Thomas","Thomas",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,2,52,00:02:52,50,64,77024,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
 104533,9,"CAZ",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,3,2,52,00:02:52,50,64,77024,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,2,30,00:02:30,50,64,77049,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,2,30,00:02:30,50,64,77049,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,14
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",93,"Canasta de 2","2-Point Shot Made",FALSE,3,2,24,00:02:24,50,66,77055,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,16
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",FALSE,3,2,7,00:02:07,50,66,77073,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,2,30,00:02:30,50,64,77049,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,14
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",93,"Canasta de 2","2-Point Shot Made",FALSE,3,2,24,00:02:24,50,66,77055,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,16
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",FALSE,3,2,7,00:02:07,50,66,77073,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",110,"Falta recibida","Foul Received",TRUE,3,2,7,00:02:07,50,66,77073,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,3,2,7,00:02:07,50,66,77073,"Luka Bozic","Zach Hankins","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
 104533,9,"COV",20212430,"Matt Thomas","M. Thomas","Thomas",115,"Sale Pista","Substitution - Out",TRUE,3,2,7,00:02:07,50,66,77087,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
@@ -48119,7 +48119,7 @@
 104533,9,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",112,"Entra Pista","Substitution - In",FALSE,3,2,7,00:02:07,50,66,77102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",92,"Canasta de 1","Free Throw Made",TRUE,3,2,7,00:02:07,51,66,77128,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,2,7,00:02:07,51,66,77144,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,15
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,2,7,00:02:07,51,66,77144,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,2,7,00:02:07,51,66,77144,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",161,"Personal 2TL","Foul 2FT",TRUE,3,1,54,00:01:54,51,66,77160,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",110,"Falta recibida","Foul Received",FALSE,3,1,54,00:01:54,51,66,77160,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
 104533,9,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",115,"Sale Pista","Substitution - Out",FALSE,3,1,54,00:01:54,51,66,77167,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
@@ -48137,20 +48137,20 @@
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",92,"Canasta de 1","Free Throw Made",TRUE,3,1,3,00:01:03,55,67,77345,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",115,"Sale Pista","Substitution - Out",TRUE,3,1,3,00:01:03,55,67,77347,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"COV",30003985,"Travis Munnings","T. Munnings","Munnings",112,"Entra Pista","Substitution - In",TRUE,3,1,3,00:01:03,55,67,77347,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",109,"Falta en Ataque","Offensive Foul",FALSE,3,0,55,00:00:55,55,67,80047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",106,"Pérdida","Turnover",FALSE,3,0,55,00:00:55,55,67,80047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",109,"Falta en Ataque","Offensive Foul",FALSE,3,0,55,00:00:55,55,67,80047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",106,"Pérdida","Turnover",FALSE,3,0,55,00:00:55,55,67,80047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
 104533,9,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",110,"Falta recibida","Foul Received",TRUE,3,0,55,00:00:55,55,67,80047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
 104533,9,"COV",30003985,"Travis Munnings","T. Munnings","Munnings",115,"Sale Pista","Substitution - Out",TRUE,3,0,55,00:00:55,55,67,77378,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",112,"Entra Pista","Substitution - In",TRUE,3,0,55,00:00:55,55,67,77378,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"COV",30004016,"Zach Hankins","Z. Hankins","Hankins",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,0,41,00:00:41,55,67,77404,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,0,41,00:00:41,55,67,77404,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,0,41,00:00:41,55,67,77404,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",106,"Pérdida","Turnover",FALSE,3,0,30,00:00:30,55,67,77415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",103,"Recuperación","Steal",TRUE,3,0,30,00:00:30,55,67,77415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
 104533,9,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",161,"Personal 2TL","Foul 2FT",FALSE,3,0,30,00:00:30,55,67,77424,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",110,"Falta recibida","Foul Received",TRUE,3,0,30,00:00:30,55,67,77424,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",115,"Sale Pista","Substitution - Out",TRUE,3,0,30,00:00:30,55,67,77434,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"COV",30003985,"Travis Munnings","T. Munnings","Munnings",112,"Entra Pista","Substitution - In",TRUE,3,0,30,00:00:30,55,67,77434,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,3,0,30,00:00:30,55,67,77448,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,3,0,30,00:00:30,55,67,77448,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",FALSE,3,0,30,00:00:30,55,67,77448,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",92,"Canasta de 1","Free Throw Made",TRUE,3,0,30,00:00:30,56,67,77470,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,11
 104533,9,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,0,30,00:00:30,56,67,77484,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,11
@@ -48264,7 +48264,7 @@
 104533,9,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",161,"Personal 2TL","Foul 2FT",FALSE,4,4,40,00:04:40,70,79,78770,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",TRUE,4,4,40,00:04:40,70,79,78770,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",115,"Sale Pista","Substitution - Out",FALSE,4,4,40,00:04:40,70,79,78784,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,4,4,40,00:04:40,70,79,78784,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,4,4,40,00:04:40,70,79,78784,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,4,40,00:04:40,70,79,78819,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,9
 104533,9,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",TRUE,4,4,40,00:04:40,71,79,78839,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
 104533,9,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",106,"Pérdida","Turnover",FALSE,4,4,28,00:04:28,71,79,78851,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
@@ -48272,15 +48272,15 @@
 104533,9,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",100,"Mate","Dunk",TRUE,4,4,27,00:04:27,73,79,78856,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,6
 104533,9,"CAZ",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,4,27,00:04:27,73,79,78865,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 104533,9,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",159,"Personal no TL","Foul No FT",TRUE,4,4,23,00:04:23,73,79,78990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,4,4,23,00:04:23,73,79,78990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,4,4,23,00:04:23,73,79,78990,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
 104533,9,"CAZ",NA,NA,NA,NA,417,"IR - Challenge entrenador visitante",NA,FALSE,4,4,23,00:04:23,73,79,79007,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,6
 104533,9,"CAZ",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",FALSE,4,4,23,00:04:23,73,79,79096,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",106,"Pérdida","Turnover",FALSE,4,4,17,00:04:17,73,79,79126,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",106,"Pérdida","Turnover",FALSE,4,4,17,00:04:17,73,79,79126,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
 104533,9,"COV",20209470,"Lluís Costa","L. Costa","Costa",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,3,52,00:03:52,73,79,79155,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
 104533,9,"CAZ",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,4,3,52,00:03:52,73,79,79155,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
 104533,9,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",115,"Sale Pista","Substitution - Out",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 104533,9,"CAZ",20212476,"Miguel González","M. González","González",115,"Sale Pista","Substitution - Out",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
-104533,9,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104533,9,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 104533,9,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",112,"Entra Pista","Substitution - In",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 104533,9,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",112,"Entra Pista","Substitution - In",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
 104533,9,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",FALSE,4,3,51,00:03:51,73,79,79163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
@@ -54498,10 +54498,10 @@
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,64406,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,64406,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,64799,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,64799,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",179,"Salto perdido","Lost jump",FALSE,1,10,0,00:10:00,0,0,64799,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,9,35,00:09:35,0,0,64892,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
 104556,11,"MBA",30002671,"Yves Pons","Y. Pons","Pons",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,9,35,00:09:35,0,0,64892,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
@@ -54525,13 +54525,13 @@
 104556,11,"MBA",30003968,"Aaron Best","A. Best","Best",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,7,36,00:07:36,4,3,65089,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
 104556,11,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,7,36,00:07:36,4,3,65089,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,22,00:07:22,4,3,65103,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,7,22,00:07:22,4,3,65103,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,15,00:07:15,4,3,65110,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,7,22,00:07:22,4,3,65103,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,15,00:07:15,4,3,65110,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
 104556,11,"CAZ",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,7,15,00:07:15,4,3,65110,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
 104556,11,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",94,"Canasta de 3","3-Point Shot Made",TRUE,1,7,11,00:07:11,7,3,65133,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,4
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,7,11,00:07:11,7,3,65133,"Miguel González","Santi Yusta","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
 104556,11,"MBA",30003968,"Aaron Best","A. Best","Best",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,6,57,00:06:57,7,3,65147,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,6,57,00:06:57,7,3,65147,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,6,57,00:06:57,7,3,65147,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",93,"Canasta de 2","2-Point Shot Made",TRUE,1,6,43,00:06:43,9,3,65162,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",106,"Pérdida","Turnover",FALSE,1,6,24,00:06:24,9,3,65181,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
 104556,11,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",103,"Recuperación","Steal",TRUE,1,6,24,00:06:24,9,3,65181,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
@@ -54539,7 +54539,7 @@
 104556,11,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,6,20,00:06:20,11,3,65185,"Devin Robinson","Santi Yusta","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,5,57,00:05:57,11,3,65214,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",105,"Tapón Recibido","Block Received",FALSE,1,5,57,00:05:57,11,3,65214,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",102,"Tapón","Block",TRUE,1,5,57,00:05:57,11,3,65214,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",102,"Tapón","Block",TRUE,1,5,57,00:05:57,11,3,65214,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
 104556,11,"MBA",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,5,57,00:05:57,11,3,65214,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
 104556,11,"MBA",30003968,"Aaron Best","A. Best","Best",115,"Sale Pista","Substitution - Out",FALSE,1,5,57,00:05:57,11,3,65219,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
 104556,11,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",112,"Entra Pista","Substitution - In",FALSE,1,5,57,00:05:57,11,3,65219,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
@@ -54559,14 +54559,14 @@
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,4,33,00:04:33,14,8,65372,"Trae Bell-Haynes","Devin Robinson","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
 104556,11,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",94,"Canasta de 3","3-Point Shot Made",FALSE,1,4,20,00:04:20,14,11,65385,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",161,"Personal 2TL","Foul 2FT",FALSE,1,4,7,00:04:07,14,11,65401,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",110,"Falta recibida","Foul Received",TRUE,1,4,7,00:04:07,14,11,65401,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
-104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,1,4,7,00:04:07,14,11,65401,"Trae Bell-Haynes","Khalifa Koumadje","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",110,"Falta recibida","Foul Received",TRUE,1,4,7,00:04:07,14,11,65401,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,1,4,7,00:04:07,14,11,65401,"Trae Bell-Haynes","Christ Koumadje","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
 104556,11,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",115,"Sale Pista","Substitution - Out",TRUE,1,4,7,00:04:07,14,11,65415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",112,"Entra Pista","Substitution - In",TRUE,1,4,7,00:04:07,14,11,65415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",115,"Sale Pista","Substitution - Out",FALSE,1,4,7,00:04:07,14,11,65415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",112,"Entra Pista","Substitution - In",FALSE,1,4,7,00:04:07,14,11,65415,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",92,"Canasta de 1","Free Throw Made",TRUE,1,4,7,00:04:07,15,11,65436,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,4,7,00:04:07,15,11,65451,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",92,"Canasta de 1","Free Throw Made",TRUE,1,4,7,00:04:07,15,11,65436,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,4,7,00:04:07,15,11,65451,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
 104556,11,"MBA",30002671,"Yves Pons","Y. Pons","Pons",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,7,00:04:07,15,11,65451,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104556,11,"MBA",30002671,"Yves Pons","Y. Pons","Pons",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,3,58,00:03:58,15,11,65460,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104556,11,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,3,58,00:03:58,15,11,65460,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
@@ -54575,10 +54575,10 @@
 104556,11,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",94,"Canasta de 3","3-Point Shot Made",TRUE,1,3,23,00:03:23,18,11,65496,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,3,23,00:03:23,18,11,65496,"Trae Bell-Haynes","Devin Robinson","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
 104556,11,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",94,"Canasta de 3","3-Point Shot Made",FALSE,1,3,5,00:03:05,18,14,65514,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,4
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,2,43,00:02:43,18,14,65536,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,2,43,00:02:43,18,14,65536,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
 104556,11,"MBA",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,1,2,43,00:02:43,18,14,65536,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",115,"Sale Pista","Substitution - Out",TRUE,1,2,39,00:02:39,18,14,65548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,1,2,39,00:02:39,18,14,65548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,1,2,39,00:02:39,18,14,65548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104556,11,"CAZ",30003817,"DJ Stephens","D.J. Stephens","Stephens",112,"Entra Pista","Substitution - In",TRUE,1,2,39,00:02:39,18,14,65548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104556,11,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",TRUE,1,2,39,00:02:39,18,14,65548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",115,"Sale Pista","Substitution - Out",FALSE,1,2,39,00:02:39,18,14,65548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
@@ -54665,12 +54665,12 @@
 104556,11,"CAZ",30003817,"DJ Stephens","D.J. Stephens","Stephens",115,"Sale Pista","Substitution - Out",TRUE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",115,"Sale Pista","Substitution - Out",TRUE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",112,"Entra Pista","Substitution - In",TRUE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",TRUE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",TRUE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"MBA",20210232,"Kyle Kuric","K. Kuric","Kuric",115,"Sale Pista","Substitution - Out",FALSE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"MBA",30003968,"Aaron Best","A. Best","Best",112,"Entra Pista","Substitution - In",FALSE,2,5,59,00:05:59,29,29,66468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",92,"Canasta de 1","Free Throw Made",FALSE,2,5,59,00:05:59,29,30,66489,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",92,"Canasta de 1","Free Throw Made",FALSE,2,5,59,00:05:59,29,31,66502,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,2
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",159,"Personal no TL","Foul No FT",TRUE,2,5,59,00:05:59,29,31,66503,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",159,"Personal no TL","Foul No FT",TRUE,2,5,59,00:05:59,29,31,66503,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
 104556,11,"MBA",30003367,"Kostas Kostadinov","K. Kostadinov","Kostadinov",110,"Falta recibida","Foul Received",FALSE,2,5,59,00:05:59,29,31,66503,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
 104556,11,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",106,"Pérdida","Turnover",FALSE,2,5,52,00:05:52,29,31,66538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",103,"Recuperación","Steal",TRUE,2,5,52,00:05:52,29,31,66538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
@@ -54683,10 +54683,10 @@
 104556,11,"CAZ",20212476,"Miguel González","M. González","González",106,"Pérdida","Turnover",TRUE,2,5,24,00:05:24,32,32,66612,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
 104556,11,"MBA",30003367,"Kostas Kostadinov","K. Kostadinov","Kostadinov",106,"Pérdida","Turnover",FALSE,2,5,13,00:05:13,32,32,66627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,5,5,00:05:05,32,32,66638,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,5,5,00:05:05,32,32,66638,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",100,"Mate","Dunk",TRUE,2,5,1,00:05:01,34,32,66643,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,2
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,5,5,00:05:05,32,32,66638,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",100,"Mate","Dunk",TRUE,2,5,1,00:05:01,34,32,66643,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,2
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,4,46,00:04:46,34,32,66658,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,4,46,00:04:46,34,32,66658,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,4,46,00:04:46,34,32,66658,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
 104556,11,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",159,"Personal no TL","Foul No FT",FALSE,2,4,43,00:04:43,34,32,66669,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
 104556,11,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",110,"Falta recibida","Foul Received",TRUE,2,4,43,00:04:43,34,32,66669,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
 104556,11,"MBA",20210959,"Chumi Ortega","C. Ortega","Ortega",115,"Sale Pista","Substitution - Out",FALSE,2,4,43,00:04:43,34,32,66681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
@@ -54697,7 +54697,7 @@
 104556,11,"MBA",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,4,30,00:04:30,34,32,66705,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,4,19,00:04:19,34,32,66719,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,2
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,4,19,00:04:19,34,32,66719,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",TRUE,2,4,11,00:04:11,34,32,66730,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",TRUE,2,4,11,00:04:11,34,32,66730,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
 104556,11,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",110,"Falta recibida","Foul Received",FALSE,2,4,11,00:04:11,34,32,66730,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
 104556,11,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",92,"Canasta de 1","Free Throw Made",FALSE,2,4,11,00:04:11,34,33,66757,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
 104556,11,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",92,"Canasta de 1","Free Throw Made",FALSE,2,4,11,00:04:11,34,34,66772,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0
@@ -54707,9 +54707,9 @@
 104556,11,"MBA",30002671,"Yves Pons","Y. Pons","Pons",94,"Canasta de 3","3-Point Shot Made",FALSE,2,3,30,00:03:30,37,37,66837,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0
 104556,11,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,3,30,00:03:30,37,37,66837,"Stan Okoye","Yves Pons","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,3,15,00:03:15,37,37,66852,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",TRUE,2,3,13,00:03:13,37,37,66864,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",TRUE,2,3,13,00:03:13,37,37,66864,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",110,"Falta recibida","Foul Received",FALSE,2,3,13,00:03:13,37,37,66864,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,2,3,13,00:03:13,37,37,66887,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,2,3,13,00:03:13,37,37,66887,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",TRUE,2,3,13,00:03:13,37,37,66887,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",92,"Canasta de 1","Free Throw Made",FALSE,2,3,13,00:03:13,37,38,66894,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",92,"Canasta de 1","Free Throw Made",FALSE,2,3,13,00:03:13,37,39,66905,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,2
@@ -54913,7 +54913,7 @@
 104556,11,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,72,69,70098,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,72,69,70098,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"CAZ",30002813,"Youssouf Traoré","Y. Traoré","Traoré",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,72,69,70102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,72,69,70102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,72,69,70102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"MBA",20200274,"Rafa Luz","R. Luz","Luz",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,72,69,70102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"MBA",30002671,"Yves Pons","Y. Pons","Pons",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,72,69,70102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,72,69,70102,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
@@ -54925,9 +54925,9 @@
 104556,11,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,9,31,00:09:31,74,69,70212,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
 104556,11,"CAZ",30003817,"DJ Stephens","D.J. Stephens","Stephens",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,9,31,00:09:31,74,69,70212,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
 104556,11,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",93,"Canasta de 2","2-Point Shot Made",TRUE,4,9,7,00:09:07,76,69,70236,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",TRUE,4,8,57,00:08:57,76,69,70248,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",161,"Personal 2TL","Foul 2FT",TRUE,4,8,57,00:08:57,76,69,70248,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",110,"Falta recibida","Foul Received",FALSE,4,8,57,00:08:57,76,69,70248,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,4,8,57,00:08:57,76,69,70267,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,4,8,57,00:08:57,76,69,70267,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
 104556,11,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",TRUE,4,8,57,00:08:57,76,69,70267,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",FALSE,4,8,57,00:08:57,76,70,70290,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",92,"Canasta de 1","Free Throw Made",FALSE,4,8,57,00:08:57,76,71,70306,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
@@ -55028,7 +55028,7 @@
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",161,"Personal 2TL","Foul 2FT",FALSE,4,3,7,00:03:07,87,82,71716,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",110,"Falta recibida","Foul Received",TRUE,4,3,7,00:03:07,87,82,71716,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
 104556,11,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",115,"Sale Pista","Substitution - Out",TRUE,4,3,7,00:03:07,87,82,71724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",TRUE,4,3,7,00:03:07,87,82,71724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",TRUE,4,3,7,00:03:07,87,82,71724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
 104556,11,"MBA",20200274,"Rafa Luz","R. Luz","Luz",115,"Sale Pista","Substitution - Out",FALSE,4,3,7,00:03:07,87,82,71724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
 104556,11,"MBA",20212966,"Stan Okoye","S. Okoye","Okoye",112,"Entra Pista","Substitution - In",FALSE,4,3,7,00:03:07,87,82,71724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",92,"Canasta de 1","Free Throw Made",TRUE,4,3,7,00:03:07,88,82,71747,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
@@ -55040,10 +55040,10 @@
 104556,11,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,56,00:02:56,89,85,71809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,35,00:02:35,92,85,71831,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
 104556,11,"MBA",30001134,"Shannon Evans","S. Evans","Evans",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,28,00:02:28,92,85,71838,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,28,00:02:28,92,85,71838,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,28,00:02:28,92,85,71838,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
 104556,11,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,7,00:02:07,95,85,71859,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,10
 104556,11,"MBA",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,2,6,00:02:06,95,85,71867,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
-104556,11,"CAZ",30000550,"Khalifa Koumadje","K. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,4,2,6,00:02:06,95,85,71938,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104556,11,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",115,"Sale Pista","Substitution - Out",TRUE,4,2,6,00:02:06,95,85,71938,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 104556,11,"CAZ",20210254,"Bojan Dubljevic","B. Dubljevic","Dubljevic",112,"Entra Pista","Substitution - In",TRUE,4,2,6,00:02:06,95,85,71938,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 104556,11,"MBA",20211643,"Artem Pustovyi","A. Pustovyi","Pustovyi",115,"Sale Pista","Substitution - Out",FALSE,4,2,6,00:02:06,95,85,71938,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 104556,11,"MBA",30003970,"Morris Udeze","M. Udeze","Udeze",112,"Entra Pista","Substitution - In",FALSE,4,2,6,00:02:06,95,85,71938,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10

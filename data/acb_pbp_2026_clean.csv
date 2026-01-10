@@ -64777,16 +64777,16 @@
 104558,12,"BUR",30000294,"Leo Meindl","L. Meindl","Meindl",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,0,0,00:00:00,89,77,72126,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
 104558,12,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,89,77,72133,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104558,12,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,89,77,72133,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
-104573,13,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104573,13,"BAX",30003414,"Retin Obasohan","R. Obasohan","Obasohan",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"GIR",20211466,"Nikola Maric","N. Maric","Maric",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104573,13,"GIR",30000138,"Juan Fernández","J. Fernández","Fernández",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"GIR",30003946,"Derek Needham","D. Needham","Needham",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104573,13,"BAX",30000133,"Marcis Steinbergs","M. Steinbergs","Steinbergs",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"BAX",20204133,"Álex Reyes","A. Reyes","Reyes",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"BAX",30005189,"Eli Brooks","E. Brooks","Brooks",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"BAX",30003945,"Grant Golden","G. Golden","Golden",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104573,13,"BAX",30003414,"Retin Obasohan","R. Obasohan","Obasohan",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104573,13,"BAX",30000133,"Marcis Steinbergs","M. Steinbergs","Steinbergs",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,75228,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,75228,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104573,13,"BAX",30003945,"Grant Golden","G. Golden","Golden",106,"Pérdida","Turnover",TRUE,1,9,59,00:09:59,0,0,75647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0

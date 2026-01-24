@@ -82351,7 +82351,7 @@
 104601,16,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",159,"Personal no TL","Foul No FT",TRUE,1,5,12,00:05:12,8,12,65377,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",110,"Falta recibida","Foul Received",FALSE,1,5,12,00:05:12,8,12,65377,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
 104601,16,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",115,"Sale Pista","Substitution - Out",TRUE,1,5,12,00:05:12,8,12,65387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",112,"Entra Pista","Substitution - In",TRUE,1,5,12,00:05:12,8,12,65387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",112,"Entra Pista","Substitution - In",TRUE,1,5,12,00:05:12,8,12,65387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104601,16,"CAZ",20212476,"Miguel González","M. González","González",115,"Sale Pista","Substitution - Out",FALSE,1,5,12,00:05:12,8,12,65387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104601,16,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",112,"Entra Pista","Substitution - In",FALSE,1,5,12,00:05:12,8,12,65387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,5,3,00:05:03,8,12,65415,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
@@ -82365,14 +82365,14 @@
 104601,16,"CAZ",30003817,"DJ Stephens","D.J. Stephens","Stephens",115,"Sale Pista","Substitution - Out",FALSE,1,4,53,00:04:53,8,12,65436,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104601,16,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",112,"Entra Pista","Substitution - In",FALSE,1,4,53,00:04:53,8,12,65436,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,4,46,00:04:46,8,12,65462,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,4,46,00:04:46,8,12,65462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,4,46,00:04:46,8,12,65462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,4,37,00:04:37,8,12,65472,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,37,00:04:37,8,12,65472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104601,16,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",106,"Pérdida","Turnover",FALSE,1,4,24,00:04:24,8,12,67862,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
 104601,16,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",103,"Recuperación","Steal",TRUE,1,4,24,00:04:24,8,12,67862,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,4,19,00:04:19,8,12,65490,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,4,19,00:04:19,8,12,65490,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,4,19,00:04:19,8,12,65490,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,4,11,00:04:11,8,12,65498,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,4,11,00:04:11,8,12,65498,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
 104601,16,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,11,00:04:11,8,12,65498,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",93,"Canasta de 2","2-Point Shot Made",FALSE,1,3,47,00:03:47,8,14,65521,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",94,"Canasta de 3","3-Point Shot Made",TRUE,1,3,32,00:03:32,11,14,65536,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
@@ -82408,7 +82408,7 @@
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,2,9,00:02:09,16,18,65748,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,1,51,00:01:51,16,18,65766,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,2
 104601,16,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,1,51,00:01:51,16,18,65766,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",161,"Personal 2TL","Foul 2FT",TRUE,1,1,48,00:01:48,16,18,65774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",161,"Personal 2TL","Foul 2FT",TRUE,1,1,48,00:01:48,16,18,65774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
 104601,16,"CAZ",30000550,"Christ Koumadje","C. Koumadje","Koumadje",110,"Falta recibida","Foul Received",FALSE,1,1,48,00:01:48,16,18,65774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",115,"Sale Pista","Substitution - Out",TRUE,1,1,48,00:01:48,16,18,65782,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
 104601,16,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",112,"Entra Pista","Substitution - In",TRUE,1,1,48,00:01:48,16,18,65782,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
@@ -82424,7 +82424,7 @@
 104601,16,"CAZ",30002813,"Youssouf Traoré","Y. Traoré","Traoré",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,0,43,00:00:43,18,20,65890,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,0,43,00:00:43,18,20,65890,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,39,00:00:39,18,22,65895,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,0,23,00:00:23,18,22,65910,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,0,23,00:00:23,18,22,65910,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,0,23,00:00:23,18,22,65910,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,0,00:00:00,18,24,65934,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
 104601,16,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,18,24,65945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
@@ -82440,17 +82440,17 @@
 104601,16,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,9,17,00:09:17,18,26,66171,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
 104601,16,"CAZ",30002813,"Youssouf Traoré","Y. Traoré","Traoré",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,9,17,00:09:17,18,26,66171,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,9,9,00:09:09,18,26,66177,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,9,9,00:09:09,18,26,66177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,9,9,00:09:09,18,26,66177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
 104601,16,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,8,53,00:08:53,18,26,66194,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,53,00:08:53,18,26,66194,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,8,44,00:08:44,18,26,66203,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
 104601,16,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,44,00:08:44,18,26,66203,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
 104601,16,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",94,"Canasta de 3","3-Point Shot Made",TRUE,2,8,28,00:08:28,21,26,66219,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",106,"Pérdida","Turnover",FALSE,2,8,2,00:08:02,21,26,66244,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",103,"Recuperación","Steal",TRUE,2,8,2,00:08:02,21,26,66244,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",103,"Recuperación","Steal",TRUE,2,8,2,00:08:02,21,26,66244,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
 104601,16,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",94,"Canasta de 3","3-Point Shot Made",TRUE,2,7,44,00:07:44,24,26,66263,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,2
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",115,"Sale Pista","Substitution - Out",TRUE,2,7,30,00:07:30,24,26,66279,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",115,"Sale Pista","Substitution - Out",TRUE,2,7,30,00:07:30,24,26,66279,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",115,"Sale Pista","Substitution - Out",TRUE,2,7,30,00:07:30,24,26,66279,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
 104601,16,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",112,"Entra Pista","Substitution - In",TRUE,2,7,30,00:07:30,24,26,66279,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
 104601,16,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",112,"Entra Pista","Substitution - In",TRUE,2,7,30,00:07:30,24,26,66279,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
 104601,16,"CAZ",30002813,"Youssouf Traoré","Y. Traoré","Traoré",115,"Sale Pista","Substitution - Out",FALSE,2,7,30,00:07:30,24,26,66279,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
@@ -82679,11 +82679,11 @@
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",161,"Personal 2TL","Foul 2FT",FALSE,3,4,6,00:04:06,60,48,69455,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",110,"Falta recibida","Foul Received",TRUE,3,4,6,00:04:06,60,48,69455,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
 104601,16,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",115,"Sale Pista","Substitution - Out",TRUE,3,4,6,00:04:06,60,48,69465,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",112,"Entra Pista","Substitution - In",TRUE,3,4,6,00:04:06,60,48,69465,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",112,"Entra Pista","Substitution - In",TRUE,3,4,6,00:04:06,60,48,69465,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",TRUE,3,4,6,00:04:06,61,48,69481,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",TRUE,3,4,6,00:04:06,62,48,69494,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,3,57,00:03:57,62,48,69507,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,57,00:03:57,62,48,69507,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,57,00:03:57,62,48,69507,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",106,"Pérdida","Turnover",TRUE,3,3,37,00:03:37,62,48,69529,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",115,"Sale Pista","Substitution - Out",FALSE,3,3,37,00:03:37,62,48,69532,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",112,"Entra Pista","Substitution - In",FALSE,3,3,37,00:03:37,62,48,69532,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
@@ -82698,7 +82698,7 @@
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,2,59,00:02:59,67,48,69618,"David DeJulius","Sander Raieste","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19
 104601,16,"CAZ",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,3,2,59,00:02:59,67,48,69631,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
 104601,16,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",106,"Pérdida","Turnover",FALSE,3,2,50,00:02:50,67,48,69750,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",103,"Recuperación","Steal",TRUE,3,2,50,00:02:50,67,48,69750,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",103,"Recuperación","Steal",TRUE,3,2,50,00:02:50,67,48,69750,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",106,"Pérdida","Turnover",TRUE,3,2,41,00:02:41,67,48,69759,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",103,"Recuperación","Steal",FALSE,3,2,41,00:02:41,67,48,69759,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
 104601,16,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",161,"Personal 2TL","Foul 2FT",TRUE,3,2,37,00:02:37,67,48,69766,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
@@ -82707,7 +82707,7 @@
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",92,"Canasta de 1","Free Throw Made",FALSE,3,2,37,00:02:37,67,50,69801,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
 104601,16,"CAZ",30003817,"DJ Stephens","D.J. Stephens","Stephens",115,"Sale Pista","Substitution - Out",FALSE,3,2,37,00:02:37,67,50,69803,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
 104601,16,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",112,"Entra Pista","Substitution - In",FALSE,3,2,37,00:02:37,67,50,69803,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",106,"Pérdida","Turnover",TRUE,3,2,23,00:02:23,67,50,69825,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",106,"Pérdida","Turnover",TRUE,3,2,23,00:02:23,67,50,69825,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
 104601,16,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",103,"Recuperación","Steal",FALSE,3,2,23,00:02:23,67,50,69825,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",106,"Pérdida","Turnover",FALSE,3,2,15,00:02:15,67,50,69833,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
 104601,16,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",103,"Recuperación","Steal",TRUE,3,2,15,00:02:15,67,50,69833,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
@@ -82716,8 +82716,8 @@
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",110,"Falta recibida","Foul Received",FALSE,3,1,48,00:01:48,69,50,69861,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",92,"Canasta de 1","Free Throw Made",FALSE,3,1,48,00:01:48,69,51,69900,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,18
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",92,"Canasta de 1","Free Throw Made",FALSE,3,1,48,00:01:48,69,52,69916,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",94,"Canasta de 3","3-Point Shot Made",TRUE,3,1,34,00:01:34,72,52,69937,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,20
-104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,1,34,00:01:34,72,52,69937,"Emanuel Cate","Kelan Dewayne Martin","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,20
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",94,"Canasta de 3","3-Point Shot Made",TRUE,3,1,34,00:01:34,72,52,69937,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,20
+104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,1,34,00:01:34,72,52,69937,"Emanuel Cate","Kelan Martin","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,20
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",106,"Pérdida","Turnover",FALSE,3,1,22,00:01:22,72,52,69949,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
 104601,16,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",103,"Recuperación","Steal",TRUE,3,1,22,00:01:22,72,52,69949,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
 104601,16,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",100,"Mate","Dunk",TRUE,3,1,17,00:01:17,74,52,69954,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,22
@@ -82728,7 +82728,7 @@
 104601,16,"CAZ",30001171,"Trae Bell-Haynes","T. Bell-Haynes","Bell-Haynes",112,"Entra Pista","Substitution - In",FALSE,3,1,17,00:01:17,74,52,70035,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
 104601,16,"CAZ",30003936,"Joel Soriano","J. Soriano","Soriano",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,1,0,00:01:00,74,52,70078,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,22
 104601,16,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,1,0,00:01:00,74,52,70078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,22
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,0,41,00:00:41,74,52,70097,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,22
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,0,41,00:00:41,74,52,70097,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,22
 104601,16,"CAZ",20212348,"Jaime Fernández","J. Fernández","Fernández",161,"Personal 2TL","Foul 2FT",FALSE,3,0,38,00:00:38,74,52,70111,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",110,"Falta recibida","Foul Received",TRUE,3,0,38,00:00:38,74,52,70111,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
 104601,16,"CAZ",30003403,"Joaquin Rodriguez","J. Rodríguez","Rodríguez",115,"Sale Pista","Substitution - Out",FALSE,3,0,38,00:00:38,74,52,70119,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
@@ -82756,13 +82756,13 @@
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,9,47,00:09:47,77,56,70403,"Marco Spissu","Youssouf Traoré","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,21
 104601,16,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",93,"Canasta de 2","2-Point Shot Made",TRUE,4,9,24,00:09:24,79,56,70426,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,23
 104601,16,"CAZ",30002813,"Youssouf Traoré","Y. Traoré","Traoré",93,"Canasta de 2","2-Point Shot Made",FALSE,4,9,14,00:09:14,79,58,70436,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,21
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,8,47,00:08:47,79,58,70462,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,21
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,8,47,00:08:47,79,58,70462,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,21
 104601,16,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,8,47,00:08:47,79,58,70462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,21
 104601,16,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,8,44,00:08:44,79,58,72821,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,21
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,8,44,00:08:44,79,58,72821,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,21
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,8,44,00:08:44,79,58,70466,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,21
 104601,16,"CAZ",30002444,"Devin Robinson","D. Robinson","Robinson",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,8,44,00:08:44,79,58,70466,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,21
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",161,"Personal 2TL","Foul 2FT",TRUE,4,8,31,00:08:31,79,58,70479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,21
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",161,"Personal 2TL","Foul 2FT",TRUE,4,8,31,00:08:31,79,58,70479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,21
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",110,"Falta recibida","Foul Received",FALSE,4,8,31,00:08:31,79,58,70479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,8,31,00:08:31,79,58,70503,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,21
 104601,16,"CAZ",20210918,"Santi Yusta","S. Yusta","Yusta",92,"Canasta de 1","Free Throw Made",FALSE,4,8,31,00:08:31,79,59,70517,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
@@ -82782,7 +82782,7 @@
 104601,16,"CAZ",30001155,"Marco Spissu","M. Spissu","Spissu",159,"Personal no TL","Foul No FT",FALSE,4,6,50,00:06:50,83,66,70756,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
 104601,16,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",110,"Falta recibida","Foul Received",TRUE,4,6,50,00:06:50,83,66,70756,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
 104601,16,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",115,"Sale Pista","Substitution - Out",TRUE,4,6,50,00:06:50,83,66,70763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
-104601,16,"UCM",30005200,"Kelan Dewayne Martin","K. Martin","Martin",115,"Sale Pista","Substitution - Out",TRUE,4,6,50,00:06:50,83,66,70763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104601,16,"UCM",30005200,"Kelan Martin","K. Martin","Martin",115,"Sale Pista","Substitution - Out",TRUE,4,6,50,00:06:50,83,66,70763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
 104601,16,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",112,"Entra Pista","Substitution - In",TRUE,4,6,50,00:06:50,83,66,70763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
 104601,16,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",112,"Entra Pista","Substitution - In",TRUE,4,6,50,00:06:50,83,66,70763,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
 104601,16,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,6,30,00:06:30,83,66,70798,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,17

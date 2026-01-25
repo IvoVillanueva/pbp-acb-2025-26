@@ -87142,6 +87142,622 @@
 104594,16,NA,NA,NA,NA,NA,407,"IR - Revisión de la validez de una canasta",NA,FALSE,4,0,0,00:00:00,88,79,72283,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,9
 104594,16,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,88,79,72331,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
 104594,16,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,88,79,72331,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,42696,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,42696,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",178,"Salto ganado","Won jump",FALSE,1,10,0,00:10:00,0,0,43140,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",179,"Salto perdido","Lost jump",TRUE,1,10,0,00:10:00,0,0,43140,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",93,"Canasta de 2","2-Point Shot Made",FALSE,1,9,42,00:09:42,0,2,43263,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,9,42,00:09:42,0,2,43263,"Darius Thompson","Kameron Taylor","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",93,"Canasta de 2","2-Point Shot Made",TRUE,1,9,34,00:09:34,2,2,43272,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,9,34,00:09:34,2,2,43272,"Andrew Albicy","Pierre Pelos","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",93,"Canasta de 2","2-Point Shot Made",FALSE,1,9,24,00:09:24,2,4,43281,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,9,24,00:09:24,2,4,43281,"Darius Thompson","Nate Reuvers","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",94,"Canasta de 3","3-Point Shot Made",TRUE,1,9,6,00:09:06,5,4,43300,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,1
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,9,6,00:09:06,5,4,43300,"Andrew Albicy","Pierre Pelos","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",93,"Canasta de 2","2-Point Shot Made",FALSE,1,8,53,00:08:53,5,6,43312,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,8,30,00:08:30,5,6,43336,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,8,30,00:08:30,5,6,43336,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,8,21,00:08:21,5,6,43344,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,8,21,00:08:21,5,6,43344,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,8,10,00:08:10,5,6,43356,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,8,10,00:08:10,5,6,43356,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,7,47,00:07:47,5,6,43378,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,7,47,00:07:47,5,6,43378,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,7,35,00:07:35,5,6,43418,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,7,35,00:07:35,5,6,43418,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",93,"Canasta de 2","2-Point Shot Made",FALSE,1,7,34,00:07:34,5,8,43425,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",160,"Personal 1TL","Foul 1FT",TRUE,1,7,34,00:07:34,5,8,43431,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",110,"Falta recibida","Foul Received",FALSE,1,7,34,00:07:34,5,8,43431,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",92,"Canasta de 1","Free Throw Made",FALSE,1,7,34,00:07:34,5,9,43443,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,8,00:07:08,5,9,43472,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,7,8,00:07:08,5,9,43472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",93,"Canasta de 2","2-Point Shot Made",TRUE,1,7,8,00:07:08,7,9,43477,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,6,52,00:06:52,7,9,43492,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,6,52,00:06:52,7,9,43492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,6,27,00:06:27,7,9,43515,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,6,27,00:06:27,7,9,43515,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",93,"Canasta de 2","2-Point Shot Made",FALSE,1,6,20,00:06:20,7,11,43523,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,6,20,00:06:20,7,11,43523,"Jaime Pradilla","Darius Thompson","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",93,"Canasta de 2","2-Point Shot Made",TRUE,1,5,57,00:05:57,9,11,43545,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",160,"Personal 1TL","Foul 1FT",FALSE,1,5,57,00:05:57,9,11,43550,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",110,"Falta recibida","Foul Received",TRUE,1,5,57,00:05:57,9,11,43550,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",115,"Sale Pista","Substitution - Out",TRUE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",112,"Entra Pista","Substitution - In",TRUE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",FALSE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",FALSE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",FALSE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",FALSE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",FALSE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",FALSE,1,5,57,00:05:57,9,11,43557,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",92,"Canasta de 1","Free Throw Made",TRUE,1,5,57,00:05:57,10,11,43576,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",115,"Sale Pista","Substitution - Out",TRUE,1,5,57,00:05:57,10,11,43577,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",112,"Entra Pista","Substitution - In",TRUE,1,5,57,00:05:57,10,11,43577,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,5,47,00:05:47,10,11,43595,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,5,47,00:05:47,10,11,43595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",93,"Canasta de 2","2-Point Shot Made",TRUE,1,5,36,00:05:36,12,11,43607,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",106,"Pérdida","Turnover",FALSE,1,5,25,00:05:25,12,11,43617,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",103,"Recuperación","Steal",TRUE,1,5,25,00:05:25,12,11,43617,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,5,5,00:05:05,12,11,43638,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,5,5,00:05:05,12,11,43638,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,4,39,00:04:39,12,11,43664,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,4,39,00:04:39,12,11,43664,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,4,30,00:04:30,12,11,43673,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,4,30,00:04:30,12,11,43673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",115,"Sale Pista","Substitution - Out",TRUE,1,4,16,00:04:16,12,11,43689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",112,"Entra Pista","Substitution - In",TRUE,1,4,16,00:04:16,12,11,43689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",115,"Sale Pista","Substitution - Out",FALSE,1,4,16,00:04:16,12,11,43689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",FALSE,1,4,16,00:04:16,12,11,43689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",FALSE,1,4,16,00:04:16,12,11,43689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",FALSE,1,4,16,00:04:16,12,11,43689,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,4,16,00:04:16,12,11,43716,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,4,16,00:04:16,12,11,43716,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,4,2,00:04:02,12,11,43727,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,4,2,00:04:02,12,11,43727,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",106,"Pérdida","Turnover",TRUE,1,4,11,00:04:11,12,11,43738,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,3,50,00:03:50,12,11,43747,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,3,50,00:03:50,12,11,43747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,3,35,00:03:35,12,11,43762,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",105,"Tapón Recibido","Block Received",TRUE,1,3,35,00:03:35,12,11,43762,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",102,"Tapón","Block",FALSE,1,3,35,00:03:35,12,11,43762,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,3,35,00:03:35,12,11,43762,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,3,28,00:03:28,12,11,43769,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,3,28,00:03:28,12,11,43769,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,3,4,00:03:04,12,11,43790,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,3,4,00:03:04,12,11,43790,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",93,"Canasta de 2","2-Point Shot Made",TRUE,1,2,59,00:02:59,14,11,43795,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",93,"Canasta de 2","2-Point Shot Made",FALSE,1,2,40,00:02:40,14,13,43814,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",159,"Personal no TL","Foul No FT",FALSE,1,2,21,00:02:21,14,13,43835,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",110,"Falta recibida","Foul Received",TRUE,1,2,21,00:02:21,14,13,43835,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",115,"Sale Pista","Substitution - Out",TRUE,1,2,21,00:02:21,14,13,43841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",115,"Sale Pista","Substitution - Out",TRUE,1,2,21,00:02:21,14,13,43841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20213002,"Louis  Labeyrie","L. Labeyrie","Labeyrie",112,"Entra Pista","Substitution - In",TRUE,1,2,21,00:02:21,14,13,43841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",112,"Entra Pista","Substitution - In",TRUE,1,2,21,00:02:21,14,13,43841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",FALSE,1,2,21,00:02:21,14,13,43841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",FALSE,1,2,21,00:02:21,14,13,43841,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",FALSE,1,2,21,00:02:21,14,13,43863,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",FALSE,1,2,21,00:02:21,14,13,43863,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",93,"Canasta de 2","2-Point Shot Made",TRUE,1,2,15,00:02:15,16,13,43876,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",533,"Mate fuera","Missed Dunk",FALSE,1,1,50,00:01:50,16,13,43903,"0","0","0",0,0,1,0,0,0,0,0,0,0,1,-1,0,0,0,0,3
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,1,50,00:01:50,16,13,43903,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",161,"Personal 2TL","Foul 2FT",TRUE,1,1,48,00:01:48,16,13,43910,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",110,"Falta recibida","Foul Received",FALSE,1,1,48,00:01:48,16,13,43910,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",FALSE,1,1,48,00:01:48,16,13,43917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",FALSE,1,1,48,00:01:48,16,13,43917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",92,"Canasta de 1","Free Throw Made",FALSE,1,1,48,00:01:48,16,14,43929,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,2
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",92,"Canasta de 1","Free Throw Made",FALSE,1,1,48,00:01:48,16,15,43932,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",115,"Sale Pista","Substitution - Out",TRUE,1,1,48,00:01:48,16,15,43935,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",112,"Entra Pista","Substitution - In",TRUE,1,1,48,00:01:48,16,15,43935,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",93,"Canasta de 2","2-Point Shot Made",TRUE,1,1,25,00:01:25,18,15,43963,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",159,"Personal no TL","Foul No FT",TRUE,1,1,19,00:01:19,18,15,43971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",FALSE,1,1,19,00:01:19,18,15,43971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",FALSE,1,1,19,00:01:19,18,15,43977,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",FALSE,1,1,19,00:01:19,18,15,43977,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",FALSE,1,1,19,00:01:19,18,15,43977,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",112,"Entra Pista","Substitution - In",FALSE,1,1,19,00:01:19,18,15,43977,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",115,"Sale Pista","Substitution - Out",TRUE,1,1,19,00:01:19,18,15,43985,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",112,"Entra Pista","Substitution - In",TRUE,1,1,19,00:01:19,18,15,43985,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,1,10,00:01:10,18,15,44008,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,3
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,1,10,00:01:10,18,15,44008,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104608,17,"DGC",20213002,"Louis  Labeyrie","L. Labeyrie","Labeyrie",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,0,47,00:00:47,18,15,44030,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,0,47,00:00:47,18,15,44030,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,37,00:00:37,18,17,44041,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,0,23,00:00:23,18,17,44054,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,0,23,00:00:23,18,17,44054,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,15,00:00:15,18,19,44062,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,0,15,00:00:15,18,19,44062,"Kameron Taylor","Nate Reuvers","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",115,"Sale Pista","Substitution - Out",TRUE,1,0,4,00:00:04,18,19,44091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",112,"Entra Pista","Substitution - In",TRUE,1,0,4,00:00:04,18,19,44091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",FALSE,1,0,4,00:00:04,18,19,44091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",FALSE,1,0,4,00:00:04,18,19,44091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",162,"Personal 3TL","Foul 3FT",FALSE,1,0,1,00:00:01,18,19,44140,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",110,"Falta recibida","Foul Received",TRUE,1,0,1,00:00:01,18,19,44140,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104608,17,"VBC",NA,NA,NA,NA,417,"IR - Challenge entrenador visitante",NA,FALSE,1,0,1,00:00:01,18,19,44157,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,1
+104608,17,"VBC",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",FALSE,1,0,1,00:00:01,18,19,44218,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",92,"Canasta de 1","Free Throw Made",TRUE,1,0,1,00:00:01,19,19,44243,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,0,1,00:00:01,19,19,44254,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,0
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",92,"Canasta de 1","Free Throw Made",TRUE,1,0,1,00:00:01,20,19,44263,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+104608,17,"VBC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,1,0,1,00:00:01,20,19,44268,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",FALSE,1,0,1,00:00:01,20,19,44300,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",FALSE,1,0,1,00:00:01,20,19,44300,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,0,1,00:00:01,20,19,44373,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,20,19,44382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,20,19,44382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,20,19,44493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,20,19,44493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,20,19,44493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,20,19,44493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,9,41,00:09:41,20,19,44539,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,9,41,00:09:41,20,19,44539,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",161,"Personal 2TL","Foul 2FT",TRUE,2,9,18,00:09:18,20,19,44576,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",110,"Falta recibida","Foul Received",FALSE,2,9,18,00:09:18,20,19,44576,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,9,18,00:09:18,20,19,44598,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,1
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,9,18,00:09:18,20,19,44608,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,9,18,00:09:18,20,19,44608,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,9,11,00:09:11,20,19,44618,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,9,11,00:09:11,20,19,44618,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",93,"Canasta de 2","2-Point Shot Made",FALSE,2,9,9,00:09:09,20,21,44633,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,1
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,9,9,00:09:09,20,21,44633,"Neal Sako","Darius Thompson","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,8,43,00:08:43,20,21,44669,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,8,43,00:08:43,20,21,44669,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,8,37,00:08:37,20,21,44674,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"DGC",20213002,"Louis  Labeyrie","L. Labeyrie","Labeyrie",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,8,37,00:08:37,20,21,44674,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,8,27,00:08:27,20,21,44687,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104608,17,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,27,00:08:27,20,21,44687,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",93,"Canasta de 2","2-Point Shot Made",FALSE,2,8,14,00:08:14,20,23,44704,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,8,2,00:08:02,20,23,44716,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,2,00:08:02,20,23,44716,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",94,"Canasta de 3","3-Point Shot Made",FALSE,2,7,55,00:07:55,20,26,44725,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,7,55,00:07:55,20,26,44725,"Kameron Taylor","Darius Thompson","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104608,17,"DGC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,2,7,55,00:07:55,20,26,44730,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",20213002,"Louis  Labeyrie","L. Labeyrie","Labeyrie",115,"Sale Pista","Substitution - Out",TRUE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",115,"Sale Pista","Substitution - Out",TRUE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",112,"Entra Pista","Substitution - In",TRUE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",112,"Entra Pista","Substitution - In",TRUE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",FALSE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",FALSE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",FALSE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",FALSE,2,7,55,00:07:55,20,26,44774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,7,31,00:07:31,20,26,44848,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"DGC",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,7,31,00:07:31,20,26,44848,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,6
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,7,18,00:07:18,20,26,44882,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,7,18,00:07:18,20,26,44882,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,6,56,00:06:56,20,26,44907,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",105,"Tapón Recibido","Block Received",FALSE,2,6,56,00:06:56,20,26,44907,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",102,"Tapón","Block",TRUE,2,6,56,00:06:56,20,26,44907,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104608,17,"VBC",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,6,56,00:06:56,20,26,44907,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,6
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",115,"Sale Pista","Substitution - Out",TRUE,2,6,56,00:06:56,20,26,44913,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",115,"Sale Pista","Substitution - Out",TRUE,2,6,56,00:06:56,20,26,44913,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",112,"Entra Pista","Substitution - In",TRUE,2,6,56,00:06:56,20,26,44913,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",112,"Entra Pista","Substitution - In",TRUE,2,6,56,00:06:56,20,26,44913,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",FALSE,2,6,56,00:06:56,20,26,44913,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",FALSE,2,6,56,00:06:56,20,26,44913,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,6,50,00:06:50,20,26,44940,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104608,17,"DGC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,2,6,50,00:06:50,20,26,44940,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",161,"Personal 2TL","Foul 2FT",FALSE,2,6,35,00:06:35,20,26,44965,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",110,"Falta recibida","Foul Received",TRUE,2,6,35,00:06:35,20,26,44965,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",FALSE,2,6,35,00:06:35,20,26,44971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",115,"Sale Pista","Substitution - Out",FALSE,2,6,35,00:06:35,20,26,44971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",FALSE,2,6,35,00:06:35,20,26,44971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",FALSE,2,6,35,00:06:35,20,26,44971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",92,"Canasta de 1","Free Throw Made",TRUE,2,6,35,00:06:35,21,26,44993,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",92,"Canasta de 1","Free Throw Made",TRUE,2,6,35,00:06:35,22,26,45012,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",FALSE,2,6,25,00:06:25,22,29,45027,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,6,6,00:06:06,22,29,45046,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,6,6,00:06:06,22,29,45046,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",161,"Personal 2TL","Foul 2FT",TRUE,2,6,1,00:06:01,22,29,45057,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",110,"Falta recibida","Foul Received",FALSE,2,6,1,00:06:01,22,29,45057,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",115,"Sale Pista","Substitution - Out",TRUE,2,6,1,00:06:01,22,29,45071,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",112,"Entra Pista","Substitution - In",TRUE,2,6,1,00:06:01,22,29,45071,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",92,"Canasta de 1","Free Throw Made",FALSE,2,6,1,00:06:01,22,30,45090,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",92,"Canasta de 1","Free Throw Made",FALSE,2,6,1,00:06:01,22,31,45104,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",93,"Canasta de 2","2-Point Shot Made",TRUE,2,5,36,00:05:36,24,31,45132,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,5,36,00:05:36,24,31,45132,"Pierre Pelos","Nico Brussino","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",161,"Personal 2TL","Foul 2FT",TRUE,2,5,29,00:05:29,24,31,45144,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",110,"Falta recibida","Foul Received",FALSE,2,5,29,00:05:29,24,31,45144,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",92,"Canasta de 1","Free Throw Made",FALSE,2,5,29,00:05:29,24,32,45162,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,5,29,00:05:29,24,32,45176,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,5,29,00:05:29,24,32,45176,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,5,11,00:05:11,24,32,45196,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,5,11,00:05:11,24,32,45196,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,5,7,00:05:07,24,32,45200,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,5,7,00:05:07,24,32,45200,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",106,"Pérdida","Turnover",FALSE,2,4,51,00:04:51,24,32,45218,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",103,"Recuperación","Steal",TRUE,2,4,51,00:04:51,24,32,45218,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",159,"Personal no TL","Foul No FT",FALSE,2,4,47,00:04:47,24,32,45224,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",110,"Falta recibida","Foul Received",TRUE,2,4,47,00:04:47,24,32,45224,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,4,33,00:04:33,24,32,45255,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,4,33,00:04:33,24,32,45255,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",100,"Mate","Dunk",FALSE,2,4,29,00:04:29,24,34,45280,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,4,29,00:04:29,24,34,45280,"Xabi López-Arostegui","Matt Costello","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104608,17,"DGC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,2,4,29,00:04:29,24,34,45283,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",93,"Canasta de 2","2-Point Shot Made",TRUE,2,4,10,00:04:10,26,34,45398,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,4,10,00:04:10,26,34,45398,"Isaiah Wong","Mike Tobey","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,4,8,00:04:08,26,34,45423,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",105,"Tapón Recibido","Block Received",FALSE,2,4,8,00:04:08,26,34,45423,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",102,"Tapón","Block",TRUE,2,4,8,00:04:08,26,34,45423,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,4,8,00:04:08,26,34,45423,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",94,"Canasta de 3","3-Point Shot Made",FALSE,2,3,56,00:03:56,26,37,45436,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,3,56,00:03:56,26,37,45436,"Matt Costello","Xabi López-Arostegui","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",159,"Personal no TL","Foul No FT",FALSE,2,3,36,00:03:36,26,37,45447,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",110,"Falta recibida","Foul Received",TRUE,2,3,36,00:03:36,26,37,45447,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",FALSE,2,3,36,00:03:36,26,37,45454,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",112,"Entra Pista","Substitution - In",FALSE,2,3,36,00:03:36,26,37,45454,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,3,23,00:03:23,26,37,45468,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,2,3,23,00:03:23,26,37,45468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,3,10,00:03:10,26,37,45484,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,3,10,00:03:10,26,37,45484,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",100,"Mate","Dunk",TRUE,2,3,5,00:03:05,28,37,45489,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,9
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,3,5,00:03:05,28,37,45489,"Isaiah Wong","Nico Brussino","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",94,"Canasta de 3","3-Point Shot Made",FALSE,2,2,52,00:02:52,28,40,45502,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,12
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,2,52,00:02:52,28,40,45502,"Jean Montero","Matt Costello","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",100,"Mate","Dunk",TRUE,2,2,33,00:02:33,30,40,45525,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,10
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,2,33,00:02:33,30,40,45525,"Pierre Pelos","Isaiah Wong","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",160,"Personal 1TL","Foul 1FT",FALSE,2,2,33,00:02:33,30,40,45531,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",110,"Falta recibida","Foul Received",TRUE,2,2,33,00:02:33,30,40,45531,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104608,17,"DGC",20210357,"Carlos Alocén","C. Alocén","Alocén",115,"Sale Pista","Substitution - Out",TRUE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",115,"Sale Pista","Substitution - Out",TRUE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",112,"Entra Pista","Substitution - In",TRUE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",112,"Entra Pista","Substitution - In",TRUE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",FALSE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",FALSE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",FALSE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",FALSE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",FALSE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",FALSE,2,2,33,00:02:33,30,40,45541,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,2,33,00:02:33,30,40,45574,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,33,00:02:33,30,40,45574,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,2,17,00:02:17,30,40,46056,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,2,17,00:02:17,30,40,46056,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,2,13,00:02:13,30,40,45586,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",105,"Tapón Recibido","Block Received",FALSE,2,2,13,00:02:13,30,40,45586,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",102,"Tapón","Block",TRUE,2,2,13,00:02:13,30,40,45586,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,2,13,00:02:13,30,40,45586,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,2,0,00:02:00,30,40,45600,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,0,00:02:00,30,40,45600,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104608,17,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",106,"Pérdida","Turnover",FALSE,2,1,40,00:01:40,30,40,45639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",161,"Personal 2TL","Foul 2FT",FALSE,2,1,34,00:01:34,30,40,45655,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",110,"Falta recibida","Foul Received",TRUE,2,1,34,00:01:34,30,40,45655,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",92,"Canasta de 1","Free Throw Made",TRUE,2,1,34,00:01:34,31,40,45691,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",92,"Canasta de 1","Free Throw Made",TRUE,2,1,34,00:01:34,32,40,45692,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",115,"Sale Pista","Substitution - Out",TRUE,2,1,34,00:01:34,32,40,45694,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",112,"Entra Pista","Substitution - In",TRUE,2,1,34,00:01:34,32,40,45694,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",106,"Pérdida","Turnover",FALSE,2,1,23,00:01:23,32,40,45737,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",106,"Pérdida","Turnover",TRUE,2,1,9,00:01:09,32,40,45746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",103,"Recuperación","Steal",FALSE,2,1,9,00:01:09,32,40,45746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",159,"Personal no TL","Foul No FT",TRUE,2,0,58,00:00:58,32,40,45758,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",FALSE,2,0,58,00:00:58,32,40,45758,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",20213230,"Yankuba Sima","Y. Sima","Sima",115,"Sale Pista","Substitution - Out",FALSE,2,0,58,00:00:58,32,40,45765,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",FALSE,2,0,58,00:00:58,32,40,45765,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",161,"Personal 2TL","Foul 2FT",TRUE,2,0,54,00:00:54,32,40,45793,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",FALSE,2,0,54,00:00:54,32,40,45793,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",92,"Canasta de 1","Free Throw Made",FALSE,2,0,54,00:00:54,32,41,45814,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",92,"Canasta de 1","Free Throw Made",FALSE,2,0,54,00:00:54,32,42,45829,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,10
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,0,31,00:00:31,32,42,45855,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,0,31,00:00:31,32,42,45855,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,0,26,00:00:26,32,42,45860,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,0,26,00:00:26,32,42,45860,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",93,"Canasta de 2","2-Point Shot Made",TRUE,2,0,20,00:00:20,34,42,45866,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,0,20,00:00:20,34,42,45866,"Pierre Pelos","Mike Tobey","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",94,"Canasta de 3","3-Point Shot Made",FALSE,2,0,0,00:00:00,34,45,45887,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,0,0,00:00:00,34,45,45887,"Brancou Badio","Darius Thompson","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104608,17,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,34,45,45894,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,34,45,45894,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,34,45,46760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",159,"Personal no TL","Foul No FT",TRUE,3,9,49,00:09:49,34,45,46821,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",110,"Falta recibida","Foul Received",FALSE,3,9,49,00:09:49,34,45,46821,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",159,"Personal no TL","Foul No FT",TRUE,3,9,41,00:09:41,34,45,46849,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",FALSE,3,9,41,00:09:41,34,45,46849,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104608,17,NA,NA,NA,NA,NA,408,"IR - Revisión reloj de posesión",NA,FALSE,3,9,28,00:09:28,34,45,50173,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,11
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",FALSE,3,9,26,00:09:26,34,48,47014,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,9,26,00:09:26,34,48,47014,"Kameron Taylor","Jean Montero","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,9,3,00:09:03,34,48,47038,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,9,3,00:09:03,34,48,47038,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",159,"Personal no TL","Foul No FT",TRUE,3,8,54,00:08:54,34,48,47054,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",110,"Falta recibida","Foul Received",FALSE,3,8,54,00:08:54,34,48,47054,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,41,00:08:41,34,50,47100,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,16
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,8,41,00:08:41,34,50,47100,"Jean Montero","Kameron Taylor","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",100,"Mate","Dunk",TRUE,3,8,24,00:08:24,36,50,47117,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,14
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,8,24,00:08:24,36,50,47117,"Ziga Samar","Mike Tobey","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",FALSE,3,8,8,00:08:08,36,53,47133,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,17
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",93,"Canasta de 2","2-Point Shot Made",TRUE,3,8,0,00:08:00,38,53,47140,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",94,"Canasta de 3","3-Point Shot Made",FALSE,3,7,40,00:07:40,38,56,47157,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,7,40,00:07:40,38,56,47157,"Kameron Taylor","Jaime Pradilla","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104608,17,"DGC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,3,7,40,00:07:40,38,56,47167,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"DGC",20212648,"Nico Brussino","N. Brussino","Brussino",115,"Sale Pista","Substitution - Out",TRUE,3,7,40,00:07:40,38,56,47246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",115,"Sale Pista","Substitution - Out",TRUE,3,7,40,00:07:40,38,56,47246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",112,"Entra Pista","Substitution - In",TRUE,3,7,40,00:07:40,38,56,47246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",112,"Entra Pista","Substitution - In",TRUE,3,7,40,00:07:40,38,56,47246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",94,"Canasta de 3","3-Point Shot Made",TRUE,3,7,27,00:07:27,41,56,47269,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,15
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,7,27,00:07:27,41,56,47269,"Ziga Samar","Mike Tobey","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",94,"Canasta de 3","3-Point Shot Made",FALSE,3,7,16,00:07:16,41,59,47281,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,7,16,00:07:16,41,59,47281,"Jean Montero","Nate Reuvers","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",159,"Personal no TL","Foul No FT",FALSE,3,7,11,00:07:11,41,59,47290,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",110,"Falta recibida","Foul Received",TRUE,3,7,11,00:07:11,41,59,47290,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",115,"Sale Pista","Substitution - Out",FALSE,3,7,11,00:07:11,41,59,47298,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",FALSE,3,7,11,00:07:11,41,59,47298,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",FALSE,3,7,11,00:07:11,41,59,47298,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",FALSE,3,7,11,00:07:11,41,59,47298,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",FALSE,3,7,11,00:07:11,41,59,47298,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",FALSE,3,7,11,00:07:11,41,59,47298,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",161,"Personal 2TL","Foul 2FT",FALSE,3,7,9,00:07:09,41,59,47329,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",110,"Falta recibida","Foul Received",TRUE,3,7,9,00:07:09,41,59,47329,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,3,7,9,00:07:09,41,59,47329,"Miquel Salvó","Isaiah Wong","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,7,9,00:07:09,41,59,47365,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,18
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,7,9,00:07:09,41,59,47366,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,18
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,7,9,00:07:09,41,59,47366,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",161,"Personal 2TL","Foul 2FT",TRUE,3,7,3,00:07:03,41,59,47373,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",110,"Falta recibida","Foul Received",FALSE,3,7,3,00:07:03,41,59,47373,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",92,"Canasta de 1","Free Throw Made",FALSE,3,7,3,00:07:03,41,60,47389,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,19
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,7,3,00:07:03,41,60,47405,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,19
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,7,3,00:07:03,41,60,47405,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",94,"Canasta de 3","3-Point Shot Made",TRUE,3,6,40,00:06:40,44,60,47430,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,16
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",93,"Canasta de 2","2-Point Shot Made",FALSE,3,6,25,00:06:25,44,62,47445,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,18
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",93,"Canasta de 2","2-Point Shot Made",TRUE,3,6,21,00:06:21,46,62,47449,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,16
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,6,21,00:06:21,46,62,47449,"Mike Tobey","Miquel Salvó","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,6,8,00:06:08,46,62,47462,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,6,8,00:06:08,46,62,47462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,5,55,00:05:55,46,62,47475,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,16
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,5,55,00:05:55,46,62,47475,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,5,50,00:05:50,46,62,47480,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,5,50,00:05:50,46,62,47480,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,5,44,00:05:44,46,62,48216,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,5,44,00:05:44,46,62,48216,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,5,42,00:05:42,46,62,47488,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,16
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,5,42,00:05:42,46,62,47488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,5,32,00:05:32,46,62,47498,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,5,32,00:05:32,46,62,47498,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",161,"Personal 2TL","Foul 2FT",TRUE,3,5,27,00:05:27,46,62,47511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",110,"Falta recibida","Foul Received",FALSE,3,5,27,00:05:27,46,62,47511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",115,"Sale Pista","Substitution - Out",TRUE,3,5,27,00:05:27,46,62,47518,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",115,"Sale Pista","Substitution - Out",TRUE,3,5,27,00:05:27,46,62,47518,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",112,"Entra Pista","Substitution - In",TRUE,3,5,27,00:05:27,46,62,47518,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",112,"Entra Pista","Substitution - In",TRUE,3,5,27,00:05:27,46,62,47518,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",FALSE,3,5,27,00:05:27,46,62,47518,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",FALSE,3,5,27,00:05:27,46,62,47518,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,5,27,00:05:27,46,62,47539,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,16
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",92,"Canasta de 1","Free Throw Made",FALSE,3,5,27,00:05:27,46,63,47556,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",FALSE,3,5,27,00:05:27,46,63,47562,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",FALSE,3,5,27,00:05:27,46,63,47562,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",159,"Personal no TL","Foul No FT",FALSE,3,5,12,00:05:12,46,63,47587,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",110,"Falta recibida","Foul Received",TRUE,3,5,12,00:05:12,46,63,47587,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",115,"Sale Pista","Substitution - Out",TRUE,3,5,13,00:05:13,46,63,47597,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",112,"Entra Pista","Substitution - In",TRUE,3,5,13,00:05:13,46,63,47597,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,5,6,00:05:06,46,63,47608,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,17
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,5,6,00:05:06,46,63,47608,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,17
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,5,2,00:05:02,46,63,47612,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,17
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,5,2,00:05:02,46,63,47612,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,17
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",109,"Falta en Ataque","Offensive Foul",FALSE,3,4,47,00:04:47,46,63,47627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",106,"Pérdida","Turnover",FALSE,3,4,47,00:04:47,46,63,47627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",110,"Falta recibida","Foul Received",TRUE,3,4,47,00:04:47,46,63,47627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
+104608,17,"DGC",NA,NA,NA,NA,416,"IR - Challenge entrenador local",NA,TRUE,3,4,47,00:04:47,46,63,47642,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,17
+104608,17,"DGC",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",TRUE,3,4,47,00:04:47,46,63,47691,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",94,"Canasta de 3","3-Point Shot Made",TRUE,3,4,25,00:04:25,49,63,47733,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,3,58,00:03:58,49,63,47766,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
+104608,17,"DGC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,58,00:03:58,49,63,47766,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",94,"Canasta de 3","3-Point Shot Made",TRUE,3,3,32,00:03:32,52,63,47810,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,3,32,00:03:32,52,63,47810,"Andrew Albicy","Miquel Salvó","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,3,23,00:03:23,52,63,47819,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,23,00:03:23,52,63,47819,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",94,"Canasta de 3","3-Point Shot Made",TRUE,3,3,17,00:03:17,55,63,47830,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,3,17,00:03:17,55,63,47830,"Isaiah Wong","Eric Vila","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104608,17,"VBC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,3,3,17,00:03:17,55,63,47836,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",FALSE,3,3,17,00:03:17,55,63,47917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",FALSE,3,3,17,00:03:17,55,63,47917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",FALSE,3,3,17,00:03:17,55,63,47917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",112,"Entra Pista","Substitution - In",FALSE,3,3,17,00:03:17,55,63,47917,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",106,"Pérdida","Turnover",FALSE,3,3,10,00:03:10,55,63,49091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",103,"Recuperación","Steal",TRUE,3,3,10,00:03:10,55,63,49091,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,3,2,00:03:02,55,63,47947,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,3,2,00:03:02,55,63,47947,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",93,"Canasta de 2","2-Point Shot Made",TRUE,3,2,52,00:02:52,57,63,47959,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",93,"Canasta de 2","2-Point Shot Made",FALSE,3,2,47,00:02:47,57,65,47973,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,2,30,00:02:30,57,65,47985,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,2,30,00:02:30,57,65,47985,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,2,26,00:02:26,57,65,47989,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,2,26,00:02:26,57,65,47989,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,2,4,00:02:04,57,65,48005,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",105,"Tapón Recibido","Block Received",FALSE,3,2,4,00:02:04,57,65,48005,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",102,"Tapón","Block",TRUE,3,2,4,00:02:04,57,65,48005,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,2,4,00:02:04,57,65,48005,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",93,"Canasta de 2","2-Point Shot Made",TRUE,3,1,47,00:01:47,59,65,48022,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",161,"Personal 2TL","Foul 2FT",TRUE,3,1,38,00:01:38,59,65,48036,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",110,"Falta recibida","Foul Received",FALSE,3,1,38,00:01:38,59,65,48036,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",115,"Sale Pista","Substitution - Out",TRUE,3,1,38,00:01:38,59,65,48043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",112,"Entra Pista","Substitution - In",TRUE,3,1,38,00:01:38,59,65,48043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",FALSE,3,1,38,00:01:38,59,65,48043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",FALSE,3,1,38,00:01:38,59,65,48043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",FALSE,3,1,38,00:01:38,59,65,48043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",FALSE,3,1,38,00:01:38,59,65,48043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",92,"Canasta de 1","Free Throw Made",FALSE,3,1,38,00:01:38,59,66,48063,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",92,"Canasta de 1","Free Throw Made",FALSE,3,1,38,00:01:38,59,67,48074,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",FALSE,3,1,38,00:01:38,59,67,48076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",FALSE,3,1,38,00:01:38,59,67,48076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",161,"Personal 2TL","Foul 2FT",FALSE,3,1,28,00:01:28,59,67,48096,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",110,"Falta recibida","Foul Received",TRUE,3,1,28,00:01:28,59,67,48096,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,1,28,00:01:28,59,67,48125,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,8
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",92,"Canasta de 1","Free Throw Made",TRUE,3,1,28,00:01:28,60,67,48141,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,1,8,00:01:08,60,67,48167,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,1,8,00:01:08,60,67,48167,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,0,51,00:00:51,60,67,48184,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,0,51,00:00:51,60,67,48184,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",161,"Personal 2TL","Foul 2FT",TRUE,3,0,50,00:00:50,60,67,48192,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",110,"Falta recibida","Foul Received",FALSE,3,0,50,00:00:50,60,67,48192,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",92,"Canasta de 1","Free Throw Made",FALSE,3,0,50,00:00:50,60,68,48236,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",92,"Canasta de 1","Free Throw Made",FALSE,3,0,50,00:00:50,60,69,48239,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,0,29,00:00:29,60,69,48267,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,9
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,0,29,00:00:29,60,69,48267,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,9
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",161,"Personal 2TL","Foul 2FT",FALSE,3,0,21,00:00:21,60,69,48278,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",110,"Falta recibida","Foul Received",TRUE,3,0,21,00:00:21,60,69,48278,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",92,"Canasta de 1","Free Throw Made",TRUE,3,0,21,00:00:21,61,69,48306,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",92,"Canasta de 1","Free Throw Made",TRUE,3,0,21,00:00:21,62,69,48313,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",115,"Sale Pista","Substitution - Out",TRUE,3,0,21,00:00:21,62,69,48323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",112,"Entra Pista","Substitution - In",TRUE,3,0,21,00:00:21,62,69,48323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",159,"Personal no TL","Foul No FT",FALSE,3,0,13,00:00:13,62,69,48343,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",110,"Falta recibida","Foul Received",TRUE,3,0,13,00:00:13,62,69,48343,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",FALSE,3,0,13,00:00:13,62,69,48357,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",FALSE,3,0,13,00:00:13,62,69,48357,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,0,1,00:00:01,62,69,48380,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104608,17,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,62,69,48387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,62,69,48387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,62,69,48511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,62,69,48511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,62,69,48511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,62,69,48511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",106,"Pérdida","Turnover",TRUE,4,9,52,00:09:52,62,69,48533,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",103,"Recuperación","Steal",FALSE,4,9,52,00:09:52,62,69,48533,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",FALSE,4,9,40,00:09:40,62,71,48541,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",160,"Personal 1TL","Foul 1FT",TRUE,4,9,40,00:09:40,62,71,48546,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",FALSE,4,9,40,00:09:40,62,71,48546,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",92,"Canasta de 1","Free Throw Made",FALSE,4,9,40,00:09:40,62,72,48565,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,10
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,9,14,00:09:14,62,72,48597,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,4,9,14,00:09:14,62,72,48597,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,8,50,00:08:50,62,72,48626,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,8,50,00:08:50,62,72,48626,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",106,"Pérdida","Turnover",FALSE,4,8,50,00:08:50,62,72,50313,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",103,"Recuperación","Steal",TRUE,4,8,50,00:08:50,62,72,50313,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",106,"Pérdida","Turnover",TRUE,4,8,27,00:08:27,62,72,48648,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",103,"Recuperación","Steal",FALSE,4,8,27,00:08:27,62,72,48648,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",93,"Canasta de 2","2-Point Shot Made",FALSE,4,8,22,00:08:22,62,74,48654,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,8,22,00:08:22,62,74,48654,"Jaime Pradilla","Kameron Taylor","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104608,17,"DGC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,4,8,22,00:08:22,62,74,48659,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",115,"Sale Pista","Substitution - Out",TRUE,4,8,22,00:08:22,62,74,48747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",115,"Sale Pista","Substitution - Out",TRUE,4,8,22,00:08:22,62,74,48747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",115,"Sale Pista","Substitution - Out",TRUE,4,8,22,00:08:22,62,74,48747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",112,"Entra Pista","Substitution - In",TRUE,4,8,22,00:08:22,62,74,48747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",112,"Entra Pista","Substitution - In",TRUE,4,8,22,00:08:22,62,74,48747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",112,"Entra Pista","Substitution - In",TRUE,4,8,22,00:08:22,62,74,48747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",94,"Canasta de 3","3-Point Shot Made",TRUE,4,8,0,00:08:00,65,74,48779,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,9
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,7,44,00:07:44,65,74,48795,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,9
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,7,44,00:07:44,65,74,48795,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,9
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",94,"Canasta de 3","3-Point Shot Made",TRUE,4,7,37,00:07:37,68,74,50555,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,7,9,00:07:09,68,74,48830,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,7,9,00:07:09,68,74,48830,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,6,45,00:06:45,68,74,48854,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,6,45,00:06:45,68,74,48854,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",166,"Antidep 2TL","Unsportsmanlike 2FT",TRUE,4,6,41,00:06:41,68,74,48865,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",110,"Falta recibida","Foul Received",FALSE,4,6,41,00:06:41,68,74,48865,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",FALSE,4,6,41,00:06:41,68,74,48878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",FALSE,4,6,41,00:06:41,68,74,48878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",FALSE,4,6,41,00:06:41,68,74,48878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",FALSE,4,6,41,00:06:41,68,74,48878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",FALSE,4,6,41,00:06:41,68,74,48878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",FALSE,4,6,41,00:06:41,68,74,48878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",NA,NA,NA,NA,416,"IR - Challenge entrenador local",NA,TRUE,4,6,41,00:06:41,68,74,48921,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,6
+104608,17,"DGC",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",TRUE,4,6,41,00:06:41,68,74,48951,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,6,41,00:06:41,68,74,48977,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,6,41,00:06:41,68,74,48993,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,6
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",106,"Pérdida","Turnover",TRUE,4,6,41,00:06:41,68,74,48997,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",FALSE,4,6,41,00:06:41,68,74,49000,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",FALSE,4,6,41,00:06:41,68,74,49000,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",106,"Pérdida","Turnover",FALSE,4,6,36,00:06:36,68,74,49018,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",103,"Recuperación","Steal",TRUE,4,6,36,00:06:36,68,74,49018,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",93,"Canasta de 2","2-Point Shot Made",TRUE,4,6,26,00:06:26,70,74,49029,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104608,17,"VBC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,6,25,00:06:25,70,74,49036,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104608,17,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",FALSE,4,6,25,00:06:25,70,74,49110,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",FALSE,4,6,25,00:06:25,70,74,49110,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",100,"Mate","Dunk",FALSE,4,6,11,00:06:11,70,76,49166,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,6
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,6,11,00:06:11,70,76,49166,"Kameron Taylor","Nate Reuvers","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",93,"Canasta de 2","2-Point Shot Made",TRUE,4,5,52,00:05:52,72,76,49185,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",160,"Personal 1TL","Foul 1FT",FALSE,4,5,52,00:05:52,72,76,49190,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",110,"Falta recibida","Foul Received",TRUE,4,5,52,00:05:52,72,76,49190,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104608,17,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",115,"Sale Pista","Substitution - Out",FALSE,4,5,52,00:05:52,72,76,49199,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",FALSE,4,5,52,00:05:52,72,76,49199,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,5,52,00:05:52,72,76,49212,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,5,52,00:05:52,72,76,49212,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",159,"Personal no TL","Foul No FT",TRUE,4,5,34,00:05:34,72,76,49233,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",110,"Falta recibida","Foul Received",FALSE,4,5,34,00:05:34,72,76,49233,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",159,"Personal no TL","Foul No FT",TRUE,4,5,25,00:05:25,72,76,49283,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",110,"Falta recibida","Foul Received",FALSE,4,5,25,00:05:25,72,76,49283,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,5,21,00:05:21,72,76,49302,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,5,21,00:05:21,72,76,49302,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,5,0,00:05:00,72,76,49323,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,5,0,00:05:00,72,76,49323,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104608,17,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,51,00:04:51,72,78,49332,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",FALSE,4,4,41,00:04:41,72,78,49345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",FALSE,4,4,41,00:04:41,72,78,49345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",FALSE,4,4,41,00:04:41,72,78,49345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",FALSE,4,4,41,00:04:41,72,78,49345,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",106,"Pérdida","Turnover",TRUE,4,4,32,00:04:32,72,78,49375,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",103,"Recuperación","Steal",FALSE,4,4,32,00:04:32,72,78,49375,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,28,00:04:28,72,80,49380,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104608,17,"DGC",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,4,4,28,00:04:28,72,80,49595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,4,5,00:04:05,72,80,49500,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,4,5,00:04:05,72,80,49500,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",161,"Personal 2TL","Foul 2FT",TRUE,4,4,3,00:04:03,72,80,49509,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",110,"Falta recibida","Foul Received",FALSE,4,4,3,00:04:03,72,80,49509,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",92,"Canasta de 1","Free Throw Made",FALSE,4,4,3,00:04:03,72,81,49536,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,4,3,00:04:03,72,81,49558,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,9
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,4,3,00:04:03,72,81,49558,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,9
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",159,"Personal no TL","Foul No FT",FALSE,4,3,57,00:03:57,72,81,49569,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",110,"Falta recibida","Foul Received",TRUE,4,3,57,00:03:57,72,81,49569,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,3,54,00:03:54,72,81,49609,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,9
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,3,54,00:03:54,72,81,49609,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,9
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,3,39,00:03:39,72,81,49619,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,9
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,3,39,00:03:39,72,81,49619,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,9
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",93,"Canasta de 2","2-Point Shot Made",FALSE,4,3,35,00:03:35,72,83,49623,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,3,17,00:03:17,72,83,49632,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,3,17,00:03:17,72,83,49632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,3,4,00:03:04,72,83,49644,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",159,"Personal no TL","Foul No FT",FALSE,4,3,3,00:03:03,72,83,49652,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",110,"Falta recibida","Foul Received",TRUE,4,3,3,00:03:03,72,83,49652,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104608,17,"DGC",20212190,"Andrew Albicy","A. Albicy","Albicy",115,"Sale Pista","Substitution - Out",TRUE,4,3,3,00:03:03,72,83,49660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",30003992,"Isaiah Wong","I. Wong","Wong",115,"Sale Pista","Substitution - Out",TRUE,4,3,3,00:03:03,72,83,49660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",112,"Entra Pista","Substitution - In",TRUE,4,3,3,00:03:03,72,83,49660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",112,"Entra Pista","Substitution - In",TRUE,4,3,3,00:03:03,72,83,49660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",FALSE,4,3,3,00:03:03,72,83,49660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",FALSE,4,3,3,00:03:03,72,83,49660,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,2,59,00:02:59,72,83,49673,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",105,"Tapón Recibido","Block Received",TRUE,4,2,59,00:02:59,72,83,49673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",102,"Tapón","Block",FALSE,4,2,59,00:02:59,72,83,49673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104608,17,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,4,2,59,00:02:59,72,83,49673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",FALSE,4,2,35,00:02:35,72,86,49698,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",100,"Mate","Dunk",TRUE,4,2,24,00:02:24,74,86,49708,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,12
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,2,24,00:02:24,74,86,49708,"Ziga Samar","Mike Tobey","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,3,00:02:03,74,86,49730,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,3,00:02:03,74,86,49730,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",106,"Pérdida","Turnover",TRUE,4,1,58,00:01:58,74,86,49741,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",103,"Recuperación","Steal",FALSE,4,1,58,00:01:58,74,86,49741,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104608,17,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,1,31,00:01:31,74,86,49766,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,1,31,00:01:31,74,86,49766,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104608,17,"VBC",NA,NA,NA,NA,106,"Pérdida","Turnover",FALSE,4,1,31,00:01:31,74,86,49771,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104608,17,"DGC",NA,NA,NA,NA,103,"Recuperación","Steal",TRUE,4,1,31,00:01:31,74,86,49771,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104608,17,"DGC",30002718,"Pierre Pelos","P. Pelos","Pelos",115,"Sale Pista","Substitution - Out",TRUE,4,1,31,00:01:31,74,86,49775,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",20212399,"Mike Tobey","M. Tobey","Tobey",115,"Sale Pista","Substitution - Out",TRUE,4,1,31,00:01:31,74,86,49775,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",112,"Entra Pista","Substitution - In",TRUE,4,1,31,00:01:31,74,86,49775,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",30003949,"Kur Kuath","K. Kuath","Kuath",112,"Entra Pista","Substitution - In",TRUE,4,1,31,00:01:31,74,86,49775,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",FALSE,4,1,31,00:01:31,74,86,49782,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",FALSE,4,1,31,00:01:31,74,86,49782,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",93,"Canasta de 2","2-Point Shot Made",TRUE,4,1,5,00:01:05,76,86,49838,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",100,"Mate","Dunk",FALSE,4,0,52,00:00:52,76,88,49855,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,12
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,0,52,00:00:52,76,88,49855,"Jaime Pradilla","Matt Costello","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104608,17,"VBC",30000032,"Matt Costello","M. Costello","Costello",537,"Técnica 1TL","Technical Foul 1FT",FALSE,4,0,52,00:00:52,76,88,49882,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104608,17,"DGC",30000287,"Kassius Robertson","K. Robertson","Robertson",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,0,52,00:00:52,76,88,49888,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,12
+104608,17,"VBC",NA,NA,NA,NA,106,"Pérdida","Turnover",FALSE,4,0,52,00:00:52,76,88,49904,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",93,"Canasta de 2","2-Point Shot Made",TRUE,4,0,41,00:00:41,78,88,49917,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104608,17,"DGC",20211456,"Eric Vila","E. Vila","Vila",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,0,41,00:00:41,78,88,49917,"Eric Vila","Miquel Salvó","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104608,17,"VBC",30000107,"Brancou Badio","B. Badio","Badio",93,"Canasta de 2","2-Point Shot Made",FALSE,4,0,18,00:00:18,78,90,49947,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104608,17,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,0,18,00:00:18,78,90,49947,"Jaime Pradilla","Brancou Badio","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104608,17,"DGC",20212441,"Miquel Salvó","M. Salvó","Salvó",93,"Canasta de 2","2-Point Shot Made",TRUE,4,0,5,00:00:05,80,90,49966,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104608,17,"DGC",30000291,"Ziga Samar","Z. Samar","Samar",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,0,5,00:00:05,80,90,50367,"Ziga Samar","Miquel Salvó","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104608,17,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,80,90,49986,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104608,17,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,80,90,49986,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
 104607,17,"MBA",30003367,"Kostas Kostadinov","K. Kostadinov","Kostadinov",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104607,17,"MBA",30003968,"Aaron Best","A. Best","Best",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104607,17,"MBA",30001134,"Shannon Evans","S. Evans","Evans",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

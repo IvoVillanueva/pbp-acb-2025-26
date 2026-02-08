@@ -98374,6 +98374,574 @@
 104612,18,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,0,23,00:00:23,64,83,71441,"Jonathan Rousselle","Amida Brimah","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19
 104612,18,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,64,83,71472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
 104612,18,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,64,83,71472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,67937,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,67937,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,68478,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",179,"Salto perdido","Lost jump",FALSE,1,10,0,00:10:00,0,0,68478,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",93,"Canasta de 2","2-Point Shot Made",TRUE,1,9,45,00:09:45,2,0,68526,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,9,45,00:09:45,2,0,68526,"Will Clyburn","Willy Hernangómez","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,9,26,00:09:26,2,0,68546,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,2
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,9,26,00:09:26,2,0,68546,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,9,12,00:09:12,2,0,68577,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,9,12,00:09:12,2,0,68577,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",106,"Pérdida","Turnover",TRUE,1,8,54,00:08:54,2,0,68595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",103,"Recuperación","Steal",FALSE,1,8,54,00:08:54,2,0,68595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",93,"Canasta de 2","2-Point Shot Made",FALSE,1,8,50,00:08:50,2,2,68599,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,8,50,00:08:50,2,2,69730,"Otis Livingston","Derek Needham","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",93,"Canasta de 2","2-Point Shot Made",TRUE,1,8,34,00:08:34,4,2,68615,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,2
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,1,8,27,00:08:27,4,4,68623,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,8,27,00:08:27,4,4,68623,"Derek Needham","Pep Busquets","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",160,"Personal 1TL","Foul 1FT",TRUE,1,8,27,00:08:27,4,4,68627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",110,"Falta recibida","Foul Received",FALSE,1,8,27,00:08:27,4,4,68627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",92,"Canasta de 1","Free Throw Made",FALSE,1,8,27,00:08:27,4,5,68649,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",94,"Canasta de 3","3-Point Shot Made",TRUE,1,8,11,00:08:11,7,5,68671,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,2
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,8,11,00:08:11,7,5,68671,"Myles Cale","Will Clyburn","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,8,1,00:08:01,7,5,68681,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,2
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",105,"Tapón Recibido","Block Received",FALSE,1,8,1,00:08:01,7,5,68681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",102,"Tapón","Block",TRUE,1,8,1,00:08:01,7,5,68681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,8,1,00:08:01,7,5,68681,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",94,"Canasta de 3","3-Point Shot Made",TRUE,1,7,55,00:07:55,10,5,68687,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,7,55,00:07:55,10,5,70468,"Juani Marcos","Will Clyburn","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,7,35,00:07:35,10,5,68707,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,7,35,00:07:35,10,5,68707,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",159,"Personal no TL","Foul No FT",FALSE,1,7,33,00:07:33,10,5,68714,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",110,"Falta recibida","Foul Received",TRUE,1,7,33,00:07:33,10,5,68714,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",94,"Canasta de 3","3-Point Shot Made",TRUE,1,7,19,00:07:19,13,5,68741,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,7,19,00:07:19,13,5,68741,"Juani Marcos","Myles Cale","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",100,"Mate","Dunk",FALSE,1,7,0,00:07:00,13,7,68759,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,6
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,7,0,00:07:00,13,7,68759,"Otis Livingston","Martinas Geben","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",94,"Canasta de 3","3-Point Shot Made",TRUE,1,6,38,00:06:38,16,7,68782,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,9
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",115,"Sale Pista","Substitution - Out",FALSE,1,6,23,00:06:23,16,7,68805,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",112,"Entra Pista","Substitution - In",FALSE,1,6,23,00:06:23,16,7,68805,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",93,"Canasta de 2","2-Point Shot Made",FALSE,1,6,13,00:06:13,16,9,68831,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,6,13,00:06:13,16,9,68831,"Otis Livingston","Nikola Maric","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,5,53,00:05:53,16,9,68851,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,5,53,00:05:53,16,9,68851,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,5,41,00:05:41,16,9,68863,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,5,41,00:05:41,16,9,68863,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,5,26,00:05:26,16,9,68878,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,5,26,00:05:26,16,9,68878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",93,"Canasta de 2","2-Point Shot Made",TRUE,1,5,20,00:05:20,18,9,68884,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,5,20,00:05:20,18,9,68884,"Willy Hernangómez","Will Clyburn","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,5,6,00:05:06,18,9,68899,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,9
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,5,6,00:05:06,18,9,68899,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,9
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",159,"Personal no TL","Foul No FT",FALSE,1,4,58,00:04:58,18,9,68912,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",110,"Falta recibida","Foul Received",TRUE,1,4,58,00:04:58,18,9,68912,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",115,"Sale Pista","Substitution - Out",TRUE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",112,"Entra Pista","Substitution - In",TRUE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",115,"Sale Pista","Substitution - Out",FALSE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",115,"Sale Pista","Substitution - Out",FALSE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",115,"Sale Pista","Substitution - Out",FALSE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",FALSE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",112,"Entra Pista","Substitution - In",FALSE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",112,"Entra Pista","Substitution - In",FALSE,1,4,58,00:04:58,18,9,68918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",94,"Canasta de 3","3-Point Shot Made",TRUE,1,4,52,00:04:52,21,9,68949,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,12
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,4,52,00:04:52,21,9,68949,"Juani Marcos","Will Clyburn","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,1,4,35,00:04:35,21,11,68965,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",94,"Canasta de 3","3-Point Shot Made",TRUE,1,4,14,00:04:14,24,11,68986,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,13
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,4,14,00:04:14,24,11,68986,"Myles Cale","Juani Marcos","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",115,"Sale Pista","Substitution - Out",TRUE,1,4,9,00:04:09,24,11,68998,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",112,"Entra Pista","Substitution - In",TRUE,1,4,9,00:04:09,24,11,68998,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",115,"Sale Pista","Substitution - Out",FALSE,1,4,9,00:04:09,24,11,68998,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",112,"Entra Pista","Substitution - In",FALSE,1,4,9,00:04:09,24,11,68998,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,4,0,00:04:00,24,11,69030,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,4,0,00:04:00,24,11,69030,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",106,"Pérdida","Turnover",TRUE,1,3,49,00:03:49,24,11,70496,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",93,"Canasta de 2","2-Point Shot Made",FALSE,1,3,41,00:03:41,24,13,69051,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,3,41,00:03:41,24,13,69051,"Maxi Fjellerup","Nikola Maric","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",159,"Personal no TL","Foul No FT",FALSE,1,3,24,00:03:24,24,13,69070,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",110,"Falta recibida","Foul Received",TRUE,1,3,24,00:03:24,24,13,69070,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",115,"Sale Pista","Substitution - Out",TRUE,1,3,24,00:03:24,24,13,69083,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",112,"Entra Pista","Substitution - In",TRUE,1,3,24,00:03:24,24,13,69083,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",FALSE,1,3,24,00:03:24,24,13,69083,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,1,3,24,00:03:24,24,13,69083,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",109,"Falta en Ataque","Offensive Foul",TRUE,1,3,22,00:03:22,24,13,69121,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",106,"Pérdida","Turnover",TRUE,1,3,22,00:03:22,24,13,69121,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",110,"Falta recibida","Foul Received",FALSE,1,3,22,00:03:22,24,13,69121,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",115,"Sale Pista","Substitution - Out",TRUE,1,3,22,00:03:22,24,13,69129,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"BAR",30004065,"Nikola Kusturica","N. Kusturica","Kusturica",112,"Entra Pista","Substitution - In",TRUE,1,3,22,00:03:22,24,13,69129,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",93,"Canasta de 2","2-Point Shot Made",FALSE,1,3,4,00:03:04,24,15,69165,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,3,4,00:03:04,24,15,69165,"Martinas Geben","Maxi Fjellerup","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",106,"Pérdida","Turnover",TRUE,1,2,49,00:02:49,24,15,69182,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",115,"Sale Pista","Substitution - Out",TRUE,1,2,49,00:02:49,24,15,69185,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",112,"Entra Pista","Substitution - In",TRUE,1,2,49,00:02:49,24,15,69185,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",109,"Falta en Ataque","Offensive Foul",FALSE,1,2,42,00:02:42,24,15,69222,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",106,"Pérdida","Turnover",FALSE,1,2,42,00:02:42,24,15,69222,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"BAR",30004065,"Nikola Kusturica","N. Kusturica","Kusturica",110,"Falta recibida","Foul Received",TRUE,1,2,42,00:02:42,24,15,69222,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",161,"Personal 2TL","Foul 2FT",FALSE,1,2,39,00:02:39,24,15,69242,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",110,"Falta recibida","Foul Received",TRUE,1,2,39,00:02:39,24,15,69242,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,2,39,00:02:39,24,15,69266,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,9
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",92,"Canasta de 1","Free Throw Made",TRUE,1,2,39,00:02:39,25,15,69279,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,10
+104629,19,"BAR",30004065,"Nikola Kusturica","N. Kusturica","Kusturica",159,"Personal no TL","Foul No FT",TRUE,1,2,31,00:02:31,25,15,69297,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",110,"Falta recibida","Foul Received",FALSE,1,2,31,00:02:31,25,15,69297,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,2,22,00:02:22,25,15,69327,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,2,22,00:02:22,25,15,69327,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",93,"Canasta de 2","2-Point Shot Made",TRUE,1,2,7,00:02:07,27,15,69341,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,2,7,00:02:07,27,15,69341,"Jan Vesely","Joel Parra","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"GIR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,1,2,7,00:02:07,27,15,69346,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",115,"Sale Pista","Substitution - Out",FALSE,1,2,7,00:02:07,27,15,69428,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",112,"Entra Pista","Substitution - In",FALSE,1,2,7,00:02:07,27,15,69428,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",106,"Pérdida","Turnover",FALSE,1,1,48,00:01:48,27,15,69479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,1,36,00:01:36,27,15,69493,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,1,36,00:01:36,27,15,69493,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",106,"Pérdida","Turnover",FALSE,1,1,27,00:01:27,27,15,69505,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",94,"Canasta de 3","3-Point Shot Made",TRUE,1,1,15,00:01:15,30,15,69537,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,15
+104629,19,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,1,4,00:01:04,30,15,69548,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,1,4,00:01:04,30,15,69548,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,15
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,0,54,00:00:54,30,15,69558,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,0,54,00:00:54,30,15,69558,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,15
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",94,"Canasta de 3","3-Point Shot Made",FALSE,1,0,47,00:00:47,30,18,69565,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,12
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,0,47,00:00:47,30,18,69565,"Mark Hughes","Martinas Geben","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",93,"Canasta de 2","2-Point Shot Made",TRUE,1,0,28,00:00:28,32,18,69584,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,3,00:00:03,32,20,69609,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",160,"Personal 1TL","Foul 1FT",TRUE,1,0,3,00:00:03,32,20,69615,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",110,"Falta recibida","Foul Received",FALSE,1,0,3,00:00:03,32,20,69615,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",96,"Intento fallado de 1","Free Throw Missed",FALSE,1,0,3,00:00:03,32,20,69635,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,12
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,0,3,00:00:03,32,20,69635,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,0,00:00:00,32,22,69638,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104629,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,32,22,69644,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,32,22,69644,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,32,22,69753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",30004065,"Nikola Kusturica","N. Kusturica","Kusturica",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,32,22,69753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,32,22,69753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,32,22,69753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"GIR",20212102,"Guillem Ferrando","G. Ferrando","Ferrando",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,32,22,69753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,32,22,69753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",93,"Canasta de 2","2-Point Shot Made",FALSE,2,9,41,00:09:41,32,24,69814,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,9,41,00:09:41,32,24,69814,"Otis Livingston","Martinas Geben","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",94,"Canasta de 3","3-Point Shot Made",TRUE,2,9,15,00:09:15,35,24,69841,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,8,55,00:08:55,35,24,69861,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,55,00:08:55,35,24,69861,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",159,"Personal no TL","Foul No FT",FALSE,2,8,41,00:08:41,35,24,69892,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",110,"Falta recibida","Foul Received",TRUE,2,8,41,00:08:41,35,24,69892,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",115,"Sale Pista","Substitution - Out",FALSE,2,8,41,00:08:41,35,24,69903,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",115,"Sale Pista","Substitution - Out",FALSE,2,8,41,00:08:41,35,24,69903,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",FALSE,2,8,41,00:08:41,35,24,69903,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",112,"Entra Pista","Substitution - In",FALSE,2,8,41,00:08:41,35,24,69903,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,8,32,00:08:32,35,24,69922,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,32,00:08:32,35,24,69922,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",159,"Personal no TL","Foul No FT",TRUE,2,8,30,00:08:30,35,24,69934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",110,"Falta recibida","Foul Received",FALSE,2,8,30,00:08:30,35,24,69934,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",115,"Sale Pista","Substitution - Out",TRUE,2,8,30,00:08:30,35,24,69942,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",112,"Entra Pista","Substitution - In",TRUE,2,8,30,00:08:30,35,24,69942,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,8,15,00:08:15,35,24,69962,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,15,00:08:15,35,24,69962,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",161,"Personal 2TL","Foul 2FT",FALSE,2,8,2,00:08:02,35,24,69980,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",110,"Falta recibida","Foul Received",TRUE,2,8,2,00:08:02,35,24,69980,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,8,2,00:08:02,35,24,70001,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,11
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",92,"Canasta de 1","Free Throw Made",TRUE,2,8,2,00:08:02,36,24,70015,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",115,"Sale Pista","Substitution - Out",FALSE,2,8,2,00:08:02,36,24,70016,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",112,"Entra Pista","Substitution - In",FALSE,2,8,2,00:08:02,36,24,70016,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",93,"Canasta de 2","2-Point Shot Made",FALSE,2,7,44,00:07:44,36,26,70047,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,7,44,00:07:44,36,26,70047,"Nikola Maric","Sergi Martínez","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",94,"Canasta de 3","3-Point Shot Made",TRUE,2,7,28,00:07:28,39,26,70064,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,13
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,7,28,00:07:28,39,26,70064,"Will Clyburn","Juani Marcos","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",94,"Canasta de 3","3-Point Shot Made",FALSE,2,7,10,00:07:10,39,29,70081,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,10
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,7,10,00:07:10,39,29,70081,"Derek Needham","Pep Busquets","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,6,48,00:06:48,39,29,70104,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,6,48,00:06:48,39,29,70104,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",159,"Personal no TL","Foul No FT",TRUE,2,6,45,00:06:45,39,29,70110,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",110,"Falta recibida","Foul Received",FALSE,2,6,45,00:06:45,39,29,70110,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",115,"Sale Pista","Substitution - Out",TRUE,2,6,45,00:06:45,39,29,70117,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",115,"Sale Pista","Substitution - Out",TRUE,2,6,45,00:06:45,39,29,70117,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",112,"Entra Pista","Substitution - In",TRUE,2,6,45,00:06:45,39,29,70117,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",112,"Entra Pista","Substitution - In",TRUE,2,6,45,00:06:45,39,29,70117,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,6,23,00:06:23,39,29,70153,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,6,23,00:06:23,39,29,70153,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,6,6,00:06:06,39,29,70170,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,6,6,00:06:06,39,29,70170,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",93,"Canasta de 2","2-Point Shot Made",TRUE,2,5,55,00:05:55,41,29,70181,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,5,55,00:05:55,41,29,70181,"Juani Marcos","Willy Hernangómez","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",93,"Canasta de 2","2-Point Shot Made",FALSE,2,5,37,00:05:37,41,31,70199,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,5,37,00:05:37,41,31,70199,"Otis Livingston","Nikola Maric","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,5,8,00:05:08,41,31,70228,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,5,8,00:05:08,41,31,70228,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,4,53,00:04:53,41,31,70243,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,4,53,00:04:53,41,31,70243,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,4,41,00:04:41,41,31,70255,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,4,41,00:04:41,41,31,70255,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",93,"Canasta de 2","2-Point Shot Made",TRUE,2,4,17,00:04:17,43,31,70279,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",93,"Canasta de 2","2-Point Shot Made",FALSE,2,4,8,00:04:08,43,33,70289,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",93,"Canasta de 2","2-Point Shot Made",TRUE,2,3,47,00:03:47,45,33,70309,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,3,47,00:03:47,45,33,70309,"Juani Marcos","Willy Hernangómez","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",115,"Sale Pista","Substitution - Out",TRUE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",112,"Entra Pista","Substitution - In",TRUE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",115,"Sale Pista","Substitution - Out",FALSE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",FALSE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",115,"Sale Pista","Substitution - Out",FALSE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",112,"Entra Pista","Substitution - In",FALSE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",112,"Entra Pista","Substitution - In",FALSE,2,3,48,00:03:48,45,33,70315,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",106,"Pérdida","Turnover",FALSE,2,3,28,00:03:28,45,33,70350,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",103,"Recuperación","Steal",TRUE,2,3,28,00:03:28,45,33,70350,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",159,"Personal no TL","Foul No FT",FALSE,2,3,26,00:03:26,45,33,70358,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",110,"Falta recibida","Foul Received",TRUE,2,3,26,00:03:26,45,33,70358,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",115,"Sale Pista","Substitution - Out",FALSE,2,3,26,00:03:26,45,33,70366,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",115,"Sale Pista","Substitution - Out",FALSE,2,3,26,00:03:26,45,33,70366,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",FALSE,2,3,26,00:03:26,45,33,70366,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",112,"Entra Pista","Substitution - In",FALSE,2,3,26,00:03:26,45,33,70366,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,3,15,00:03:15,45,33,70401,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,3,15,00:03:15,45,33,70401,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",94,"Canasta de 3","3-Point Shot Made",FALSE,2,3,1,00:03:01,45,36,70415,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,9
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,3,1,00:03:01,45,36,71176,"Mindaugas Susinskas","Mark Hughes","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",106,"Pérdida","Turnover",TRUE,2,2,46,00:02:46,45,36,70430,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",103,"Recuperación","Steal",FALSE,2,2,46,00:02:46,45,36,70430,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",93,"Canasta de 2","2-Point Shot Made",FALSE,2,2,41,00:02:41,45,38,70435,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,2,41,00:02:41,45,38,70435,"Pepe Vildoza","Maxi Fjellerup","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104629,19,"BAR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,2,2,41,00:02:41,45,38,70441,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,2,21,00:02:21,45,38,70560,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,21,00:02:21,45,38,70560,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",106,"Pérdida","Turnover",FALSE,2,2,1,00:02:01,45,38,70580,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",103,"Recuperación","Steal",TRUE,2,2,1,00:02:01,45,38,70580,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",161,"Personal 2TL","Foul 2FT",FALSE,2,1,57,00:01:57,45,38,70592,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",110,"Falta recibida","Foul Received",TRUE,2,1,57,00:01:57,45,38,70592,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",92,"Canasta de 1","Free Throw Made",TRUE,2,1,57,00:01:57,46,38,70623,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,1,57,00:01:57,46,38,70628,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,8
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,1,57,00:01:57,46,38,70628,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",106,"Pérdida","Turnover",FALSE,2,1,42,00:01:42,46,38,70643,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",103,"Recuperación","Steal",TRUE,2,1,42,00:01:42,46,38,70643,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,1,29,00:01:29,46,38,70655,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,1,29,00:01:29,46,38,70655,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",159,"Personal no TL","Foul No FT",TRUE,2,1,25,00:01:25,46,38,70664,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",110,"Falta recibida","Foul Received",FALSE,2,1,25,00:01:25,46,38,70664,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104629,19,"GIR",NA,NA,NA,NA,417,"IR - Challenge entrenador visitante",NA,FALSE,2,1,25,00:01:25,46,38,70674,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,8
+104629,19,"GIR",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",FALSE,2,1,25,00:01:25,46,38,70752,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",115,"Sale Pista","Substitution - Out",TRUE,2,1,25,00:01:25,46,38,70753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",112,"Entra Pista","Substitution - In",TRUE,2,1,25,00:01:25,46,38,70753,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",100,"Mate","Dunk",FALSE,2,1,5,00:01:05,46,40,70790,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",94,"Canasta de 3","3-Point Shot Made",TRUE,2,0,45,00:00:45,49,40,70810,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,9
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,0,45,00:00:45,49,40,70810,"Tornike Shengelia","Myles Cale","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",106,"Pérdida","Turnover",FALSE,2,0,24,00:00:24,49,40,70833,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",94,"Canasta de 3","3-Point Shot Made",TRUE,2,0,2,00:00:02,52,40,70862,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,12
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,0,2,00:00:02,52,40,70862,"Darío Brizuela","Myles Cale","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"GIR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,2,0,1,00:00:01,52,40,70869,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,NA,NA,NA,NA,NA,409,"IR - Revisión del reloj de partido",NA,FALSE,2,0,5,00:00:05,52,40,70893,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,12
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",115,"Sale Pista","Substitution - Out",TRUE,2,0,1,00:00:01,52,40,71039,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",115,"Sale Pista","Substitution - Out",TRUE,2,0,1,00:00:01,52,40,71039,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",30004065,"Nikola Kusturica","N. Kusturica","Kusturica",112,"Entra Pista","Substitution - In",TRUE,2,0,1,00:00:01,52,40,71039,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",112,"Entra Pista","Substitution - In",TRUE,2,0,1,00:00:01,52,40,71039,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",106,"Pérdida","Turnover",FALSE,2,0,0,00:00:00,52,40,71064,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",103,"Recuperación","Steal",TRUE,2,0,0,00:00:00,52,40,71064,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104629,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,52,40,71070,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,52,40,71070,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",30004065,"Nikola Kusturica","N. Kusturica","Kusturica",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,52,40,71954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",106,"Pérdida","Turnover",TRUE,3,9,41,00:09:41,52,40,72036,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",103,"Recuperación","Steal",FALSE,3,9,41,00:09:41,52,40,72036,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",161,"Personal 2TL","Foul 2FT",TRUE,3,9,37,00:09:37,52,40,72044,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",110,"Falta recibida","Foul Received",FALSE,3,9,37,00:09:37,52,40,72044,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",119,"Asistencia Falta Recibida","Assist Foul Received",FALSE,3,9,37,00:09:37,52,40,73628,"Otis Livingston","Pep Busquets","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",92,"Canasta de 1","Free Throw Made",FALSE,3,9,37,00:09:37,52,41,72068,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,11
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,9,37,00:09:37,52,41,72085,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,11
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,9,37,00:09:37,52,41,72085,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,9,16,00:09:16,52,41,72105,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,9,16,00:09:16,52,41,72105,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",94,"Canasta de 3","3-Point Shot Made",TRUE,3,9,8,00:09:08,55,41,72128,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",94,"Canasta de 3","3-Point Shot Made",FALSE,3,8,50,00:08:50,55,44,72145,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,8,50,00:08:50,55,44,72145,"Otis Livingston","Martinas Geben","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",106,"Pérdida","Turnover",TRUE,3,8,26,00:08:26,55,44,72171,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,8,12,00:08:12,55,44,72186,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,8,12,00:08:12,55,44,72186,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,8,00:08:08,55,46,72190,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",106,"Pérdida","Turnover",TRUE,3,7,52,00:07:52,55,46,72207,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",103,"Recuperación","Steal",FALSE,3,7,52,00:07:52,55,46,72207,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",100,"Mate","Dunk",FALSE,3,7,48,00:07:48,55,48,72211,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,7
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",93,"Canasta de 2","2-Point Shot Made",TRUE,3,7,27,00:07:27,57,48,72232,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",93,"Canasta de 2","2-Point Shot Made",FALSE,3,7,20,00:07:20,57,50,72241,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,7,20,00:07:20,57,50,72241,"Pep Busquets","Martinas Geben","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",160,"Personal 1TL","Foul 1FT",TRUE,3,7,20,00:07:20,57,50,72245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",110,"Falta recibida","Foul Received",FALSE,3,7,20,00:07:20,57,50,72245,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",92,"Canasta de 1","Free Throw Made",FALSE,3,7,20,00:07:20,57,51,72282,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",93,"Canasta de 2","2-Point Shot Made",TRUE,3,7,0,00:07:00,59,51,72303,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",160,"Personal 1TL","Foul 1FT",FALSE,3,7,0,00:07:00,59,51,72309,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",110,"Falta recibida","Foul Received",TRUE,3,7,0,00:07:00,59,51,72309,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",115,"Sale Pista","Substitution - Out",TRUE,3,7,0,00:07:00,59,51,72316,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",112,"Entra Pista","Substitution - In",TRUE,3,7,0,00:07:00,59,51,72316,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",115,"Sale Pista","Substitution - Out",FALSE,3,7,0,00:07:00,59,51,72322,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",112,"Entra Pista","Substitution - In",FALSE,3,7,0,00:07:00,59,51,72322,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",92,"Canasta de 1","Free Throw Made",TRUE,3,7,0,00:07:00,60,51,72348,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,6,46,00:06:46,60,51,72364,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"GIR",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,6,46,00:06:46,60,51,72364,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,9
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,3,6,42,00:06:42,60,53,72385,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,6,42,00:06:42,60,53,72385,"Otis Livingston","Pep Busquets","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,6,18,00:06:18,60,53,72432,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,6,18,00:06:18,60,53,72432,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",100,"Mate","Dunk",FALSE,3,6,5,00:06:05,60,55,72445,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,6,5,00:06:05,60,55,72445,"Otis Livingston","Martinas Geben","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,5,44,00:05:44,60,55,72466,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,5,44,00:05:44,60,55,72466,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",159,"Personal no TL","Foul No FT",TRUE,3,5,39,00:05:39,60,55,72477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",110,"Falta recibida","Foul Received",FALSE,3,5,39,00:05:39,60,55,72477,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",115,"Sale Pista","Substitution - Out",TRUE,3,5,39,00:05:39,60,55,72485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",115,"Sale Pista","Substitution - Out",TRUE,3,5,39,00:05:39,60,55,72485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",112,"Entra Pista","Substitution - In",TRUE,3,5,39,00:05:39,60,55,72485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",112,"Entra Pista","Substitution - In",TRUE,3,5,39,00:05:39,60,55,72485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",106,"Pérdida","Turnover",FALSE,3,5,29,00:05:29,60,55,72510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",103,"Recuperación","Steal",TRUE,3,5,29,00:05:29,60,55,72510,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",159,"Personal no TL","Foul No FT",FALSE,3,5,28,00:05:28,60,55,72515,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",110,"Falta recibida","Foul Received",TRUE,3,5,28,00:05:28,60,55,72515,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",115,"Sale Pista","Substitution - Out",FALSE,3,5,28,00:05:28,60,55,72521,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",112,"Entra Pista","Substitution - In",FALSE,3,5,28,00:05:28,60,55,72521,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,5,15,00:05:15,60,55,72545,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,5,15,00:05:15,60,55,72545,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",159,"Personal no TL","Foul No FT",TRUE,3,5,13,00:05:13,60,55,72555,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",110,"Falta recibida","Foul Received",FALSE,3,5,13,00:05:13,60,55,72555,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",115,"Sale Pista","Substitution - Out",TRUE,3,5,13,00:05:13,60,55,72564,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",112,"Entra Pista","Substitution - In",TRUE,3,5,13,00:05:13,60,55,72564,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",115,"Sale Pista","Substitution - Out",FALSE,3,5,13,00:05:13,60,55,72564,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",112,"Entra Pista","Substitution - In",FALSE,3,5,13,00:05:13,60,55,72564,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,4,50,00:04:50,60,55,72606,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,4,50,00:04:50,60,55,72606,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",106,"Pérdida","Turnover",TRUE,3,4,32,00:04:32,60,55,72625,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",106,"Pérdida","Turnover",FALSE,3,4,18,00:04:18,60,55,72647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",161,"Personal 2TL","Foul 2FT",FALSE,3,4,6,00:04:06,60,55,72667,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",110,"Falta recibida","Foul Received",TRUE,3,4,6,00:04:06,60,55,72667,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",115,"Sale Pista","Substitution - Out",FALSE,3,4,6,00:04:06,60,55,72673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",115,"Sale Pista","Substitution - Out",FALSE,3,4,6,00:04:06,60,55,72673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",115,"Sale Pista","Substitution - Out",FALSE,3,4,6,00:04:06,60,55,72673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",FALSE,3,4,6,00:04:06,60,55,72673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",112,"Entra Pista","Substitution - In",FALSE,3,4,6,00:04:06,60,55,72673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",112,"Entra Pista","Substitution - In",FALSE,3,4,6,00:04:06,60,55,72673,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,4,6,00:04:06,60,55,72709,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",92,"Canasta de 1","Free Throw Made",TRUE,3,4,6,00:04:06,61,55,72715,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",161,"Personal 2TL","Foul 2FT",TRUE,3,3,51,00:03:51,61,55,72738,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",110,"Falta recibida","Foul Received",FALSE,3,3,51,00:03:51,61,55,72738,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"GIR",NA,NA,NA,NA,417,"IR - Challenge entrenador visitante",NA,FALSE,3,3,51,00:03:51,61,55,72750,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,6
+104629,19,"GIR",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",FALSE,3,3,51,00:03:51,61,55,72789,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",92,"Canasta de 1","Free Throw Made",FALSE,3,3,51,00:03:51,61,56,72808,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",92,"Canasta de 1","Free Throw Made",FALSE,3,3,51,00:03:51,61,57,72823,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",94,"Canasta de 3","3-Point Shot Made",TRUE,3,3,36,00:03:36,64,57,72840,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,3,36,00:03:36,64,57,72840,"Nico Laprovittola","Darío Brizuela","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",93,"Canasta de 2","2-Point Shot Made",FALSE,3,3,23,00:03:23,64,59,72853,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,3,23,00:03:23,64,59,72853,"Sergi Martínez","Mark Hughes","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",159,"Personal no TL","Foul No FT",FALSE,3,3,9,00:03:09,64,59,72869,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",110,"Falta recibida","Foul Received",TRUE,3,3,9,00:03:09,64,59,72869,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",115,"Sale Pista","Substitution - Out",TRUE,3,3,9,00:03:09,64,59,72878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",112,"Entra Pista","Substitution - In",TRUE,3,3,9,00:03:09,64,59,72878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",93,"Canasta de 2","2-Point Shot Made",TRUE,3,3,1,00:03:01,66,59,72895,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,3,1,00:03:01,66,59,72895,"Nico Laprovittola","Jan Vesely","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",161,"Personal 2TL","Foul 2FT",TRUE,3,2,38,00:02:38,66,59,72921,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",110,"Falta recibida","Foul Received",FALSE,3,2,38,00:02:38,66,59,72921,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",92,"Canasta de 1","Free Throw Made",FALSE,3,2,38,00:02:38,66,60,72953,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",92,"Canasta de 1","Free Throw Made",FALSE,3,2,38,00:02:38,66,61,72971,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",161,"Personal 2TL","Foul 2FT",FALSE,3,2,29,00:02:29,66,61,72988,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",110,"Falta recibida","Foul Received",TRUE,3,2,29,00:02:29,66,61,72988,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,3,2,29,00:02:29,66,61,73001,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",115,"Sale Pista","Substitution - Out",FALSE,3,2,29,00:02:29,66,61,73072,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",112,"Entra Pista","Substitution - In",FALSE,3,2,29,00:02:29,66,61,73072,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",92,"Canasta de 1","Free Throw Made",TRUE,3,2,29,00:02:29,67,61,73109,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",92,"Canasta de 1","Free Throw Made",TRUE,3,2,29,00:02:29,68,61,73125,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,2,20,00:02:20,68,61,73136,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,2,20,00:02:20,68,61,73136,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,1,58,00:01:58,68,61,73158,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,1,58,00:01:58,68,61,73158,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",106,"Pérdida","Turnover",TRUE,3,1,54,00:01:54,68,61,73165,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,1,45,00:01:45,68,61,73173,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,1,45,00:01:45,68,61,73173,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",161,"Personal 2TL","Foul 2FT",FALSE,3,1,44,00:01:44,68,61,73183,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",110,"Falta recibida","Foul Received",TRUE,3,1,44,00:01:44,68,61,73183,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,1,44,00:01:44,68,61,73215,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",92,"Canasta de 1","Free Throw Made",TRUE,3,1,44,00:01:44,69,61,73230,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",93,"Canasta de 2","2-Point Shot Made",FALSE,3,1,26,00:01:26,69,63,73249,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,1,26,00:01:26,69,63,73249,"Mark Hughes","Nikola Maric","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",109,"Falta en Ataque","Offensive Foul",TRUE,3,1,13,00:01:13,69,63,73268,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",106,"Pérdida","Turnover",TRUE,3,1,13,00:01:13,69,63,73268,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",110,"Falta recibida","Foul Received",FALSE,3,1,13,00:01:13,69,63,73268,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",115,"Sale Pista","Substitution - Out",FALSE,3,1,13,00:01:13,69,63,73287,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",FALSE,3,1,13,00:01:13,69,63,73287,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",106,"Pérdida","Turnover",FALSE,3,0,58,00:00:58,69,63,73321,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",161,"Personal 2TL","Foul 2FT",FALSE,3,0,49,00:00:49,69,63,73344,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",110,"Falta recibida","Foul Received",TRUE,3,0,49,00:00:49,69,63,73344,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",115,"Sale Pista","Substitution - Out",TRUE,3,0,49,00:00:49,69,63,73357,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",112,"Entra Pista","Substitution - In",TRUE,3,0,49,00:00:49,69,63,73357,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,0,49,00:00:49,69,63,73376,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",92,"Canasta de 1","Free Throw Made",TRUE,3,0,49,00:00:49,70,63,73389,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,0,43,00:00:43,70,63,73398,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,0,43,00:00:43,70,63,73398,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",161,"Personal 2TL","Foul 2FT",FALSE,3,0,35,00:00:35,70,63,73409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",110,"Falta recibida","Foul Received",TRUE,3,0,35,00:00:35,70,63,73409,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",92,"Canasta de 1","Free Throw Made",TRUE,3,0,35,00:00:35,71,63,73428,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",92,"Canasta de 1","Free Throw Made",TRUE,3,0,35,00:00:35,72,63,73442,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,9
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",161,"Personal 2TL","Foul 2FT",TRUE,3,0,20,00:00:20,72,63,73461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",110,"Falta recibida","Foul Received",FALSE,3,0,20,00:00:20,72,63,73461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",92,"Canasta de 1","Free Throw Made",FALSE,3,0,20,00:00:20,72,64,73485,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",92,"Canasta de 1","Free Throw Made",FALSE,3,0,20,00:00:20,72,65,73509,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",115,"Sale Pista","Substitution - Out",TRUE,3,0,20,00:00:20,72,65,73512,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",112,"Entra Pista","Substitution - In",TRUE,3,0,20,00:00:20,72,65,73512,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",106,"Pérdida","Turnover",TRUE,3,0,12,00:00:12,72,65,73533,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",103,"Recuperación","Steal",FALSE,3,0,12,00:00:12,72,65,73533,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,3,0,9,00:00:09,72,67,73536,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,0,9,00:00:09,72,67,73536,"Derek Needham","Pep Busquets","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,0,4,00:00:04,72,67,73556,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,72,67,73562,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,72,67,73562,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,72,67,73678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",106,"Pérdida","Turnover",FALSE,4,9,45,00:09:45,72,67,73723,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",106,"Pérdida","Turnover",TRUE,4,9,23,00:09:23,72,67,73755,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",106,"Pérdida","Turnover",FALSE,4,9,6,00:09:06,72,67,73778,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",103,"Recuperación","Steal",TRUE,4,9,6,00:09:06,72,67,73778,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",106,"Pérdida","Turnover",TRUE,4,8,48,00:08:48,72,67,73796,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",93,"Canasta de 2","2-Point Shot Made",FALSE,4,8,34,00:08:34,72,69,73820,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,8,34,00:08:34,72,69,73820,"Otis Livingston","Martinas Geben","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",100,"Mate","Dunk",TRUE,4,8,13,00:08:13,74,69,73854,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,5
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,7,46,00:07:46,74,69,73881,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,7,46,00:07:46,74,69,73881,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,7,42,00:07:42,74,69,73885,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,7,42,00:07:42,74,69,73885,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",93,"Canasta de 2","2-Point Shot Made",FALSE,4,7,31,00:07:31,74,71,73896,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",159,"Personal no TL","Foul No FT",FALSE,4,7,11,00:07:11,74,71,73919,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",110,"Falta recibida","Foul Received",TRUE,4,7,11,00:07:11,74,71,73919,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104629,19,"BAR",20212265,"Joel Parra","J. Parra","Parra",115,"Sale Pista","Substitution - Out",TRUE,4,7,11,00:07:11,74,71,73925,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",112,"Entra Pista","Substitution - In",TRUE,4,7,11,00:07:11,74,71,73925,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",94,"Canasta de 3","3-Point Shot Made",TRUE,4,7,0,00:07:00,77,71,73950,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,7,0,00:07:00,77,71,73950,"Jan Vesely","Myles Cale","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",159,"Personal no TL","Foul No FT",TRUE,4,6,51,00:06:51,77,71,73963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",110,"Falta recibida","Foul Received",FALSE,4,6,51,00:06:51,77,71,73963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",30001949,"Jan Vesely","J. Vesely","Vesely",115,"Sale Pista","Substitution - Out",TRUE,4,6,51,00:06:51,77,71,73967,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",112,"Entra Pista","Substitution - In",TRUE,4,6,51,00:06:51,77,71,73967,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",115,"Sale Pista","Substitution - Out",FALSE,4,6,51,00:06:51,77,71,73967,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",112,"Entra Pista","Substitution - In",FALSE,4,6,51,00:06:51,77,71,73967,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,6,40,00:06:40,77,71,73997,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,6,40,00:06:40,77,71,73997,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",93,"Canasta de 2","2-Point Shot Made",TRUE,4,6,34,00:06:34,79,71,74002,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",159,"Personal no TL","Foul No FT",TRUE,4,6,16,00:06:16,79,71,74023,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",110,"Falta recibida","Foul Received",FALSE,4,6,16,00:06:16,79,71,74023,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,6,8,00:06:08,79,71,74046,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,6,8,00:06:08,79,71,74046,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",109,"Falta en Ataque","Offensive Foul",TRUE,4,5,44,00:05:44,79,71,74074,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",106,"Pérdida","Turnover",TRUE,4,5,44,00:05:44,79,71,74074,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",110,"Falta recibida","Foul Received",FALSE,4,5,44,00:05:44,79,71,74074,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104629,19,"BAR",30000108,"Juani Marcos","J. Marcos","Marcos",115,"Sale Pista","Substitution - Out",TRUE,4,5,44,00:05:44,79,71,74078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",112,"Entra Pista","Substitution - In",TRUE,4,5,44,00:05:44,79,71,74078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",115,"Sale Pista","Substitution - Out",FALSE,4,5,44,00:05:44,79,71,74092,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",FALSE,4,5,44,00:05:44,79,71,74092,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",94,"Canasta de 3","3-Point Shot Made",FALSE,4,5,19,00:05:19,79,74,74130,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",106,"Pérdida","Turnover",TRUE,4,4,57,00:04:57,79,74,74155,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,4,51,00:04:51,79,74,74163,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"BAR",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,4,4,51,00:04:51,79,74,74163,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,4,33,00:04:33,79,74,74193,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,4,33,00:04:33,79,74,74193,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,24,00:04:24,79,76,74202,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",93,"Canasta de 2","2-Point Shot Made",TRUE,4,4,12,00:04:12,81,76,74215,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",161,"Personal 2TL","Foul 2FT",TRUE,4,3,49,00:03:49,81,76,74242,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",110,"Falta recibida","Foul Received",FALSE,4,3,49,00:03:49,81,76,74242,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",102,"Tapón","Block",TRUE,4,3,49,00:03:49,81,76,74252,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",NA,NA,NA,NA,416,"IR - Challenge entrenador local",NA,TRUE,4,3,49,00:03:49,81,76,74257,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,5
+104629,19,"BAR",NA,NA,NA,NA,749,"IR - Challenge perdido","IR - Challenge lost",TRUE,4,3,49,00:03:49,81,76,74309,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",115,"Sale Pista","Substitution - Out",TRUE,4,3,49,00:03:49,81,76,74324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",112,"Entra Pista","Substitution - In",TRUE,4,3,49,00:03:49,81,76,74324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",115,"Sale Pista","Substitution - Out",FALSE,4,3,49,00:03:49,81,76,74324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",115,"Sale Pista","Substitution - Out",FALSE,4,3,49,00:03:49,81,76,74324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",112,"Entra Pista","Substitution - In",FALSE,4,3,49,00:03:49,81,76,74324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",112,"Entra Pista","Substitution - In",FALSE,4,3,49,00:03:49,81,76,74324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",92,"Canasta de 1","Free Throw Made",FALSE,4,3,49,00:03:49,81,77,74370,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",92,"Canasta de 1","Free Throw Made",FALSE,4,3,49,00:03:49,81,78,74384,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,3
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",94,"Canasta de 3","3-Point Shot Made",TRUE,4,3,30,00:03:30,84,78,74405,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,3,30,00:03:30,84,78,74405,"Nico Laprovittola","Darío Brizuela","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,3,19,00:03:19,84,78,74417,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",105,"Tapón Recibido","Block Received",FALSE,4,3,19,00:03:19,84,78,74417,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",102,"Tapón","Block",TRUE,4,3,19,00:03:19,84,78,74417,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"GIR",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,3,19,00:03:19,84,78,74417,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,6
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",93,"Canasta de 2","2-Point Shot Made",FALSE,4,3,17,00:03:17,84,80,74439,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,3,17,00:03:17,84,80,74439,"Pepe Vildoza","Nikola Maric","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",93,"Canasta de 2","2-Point Shot Made",TRUE,4,2,59,00:02:59,86,80,74457,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,2,59,00:02:59,86,80,74457,"Nico Laprovittola","Willy Hernangómez","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"GIR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,2,58,00:02:58,86,80,74462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,NA,NA,NA,NA,NA,406,"IR - Comprobación del tipo de tiro convertido",NA,FALSE,4,2,57,00:02:57,86,80,74484,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,6
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",115,"Sale Pista","Substitution - Out",FALSE,4,2,58,00:02:58,86,80,74589,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",FALSE,4,2,58,00:02:58,86,80,74589,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",112,"Entra Pista","Substitution - In",FALSE,4,2,58,00:02:58,86,80,74589,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,4,2,58,00:02:58,86,80,74589,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,2,40,00:02:40,86,80,74639,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,40,00:02:40,86,80,74639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,24,00:02:24,89,80,74657,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,9
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,2,24,00:02:24,89,80,75701,"Nico Laprovittola","Darío Brizuela","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",94,"Canasta de 3","3-Point Shot Made",FALSE,4,2,9,00:02:09,89,83,74669,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,4,2,9,00:02:09,89,83,74669,"Pepe Vildoza","Pep Busquets","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",159,"Personal no TL","Foul No FT",FALSE,4,1,55,00:01:55,89,83,74697,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",110,"Falta recibida","Foul Received",TRUE,4,1,55,00:01:55,89,83,74697,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"GIR",20210335,"Sergi Martínez","S. Martínez","Martínez",115,"Sale Pista","Substitution - Out",FALSE,4,1,55,00:01:55,89,83,74707,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",115,"Sale Pista","Substitution - Out",FALSE,4,1,55,00:01:55,89,83,74707,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",112,"Entra Pista","Substitution - In",FALSE,4,1,55,00:01:55,89,83,74707,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",112,"Entra Pista","Substitution - In",FALSE,4,1,55,00:01:55,89,83,74707,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",100,"Mate","Dunk",TRUE,4,1,49,00:01:49,91,83,74731,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,8
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,1,49,00:01:49,91,83,74731,"Willy Hernangómez","Myles Cale","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",93,"Canasta de 2","2-Point Shot Made",FALSE,4,1,35,00:01:35,91,85,74751,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",106,"Pérdida","Turnover",TRUE,4,1,13,00:01:13,91,85,75740,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",103,"Recuperación","Steal",FALSE,4,1,13,00:01:13,91,85,75740,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",161,"Personal 2TL","Foul 2FT",TRUE,4,1,10,00:01:10,91,85,74785,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",110,"Falta recibida","Foul Received",FALSE,4,1,10,00:01:10,91,85,74785,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",115,"Sale Pista","Substitution - Out",TRUE,4,1,10,00:01:10,91,85,74804,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",112,"Entra Pista","Substitution - In",TRUE,4,1,10,00:01:10,91,85,74804,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",92,"Canasta de 1","Free Throw Made",FALSE,4,1,10,00:01:10,91,86,74833,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104629,19,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",92,"Canasta de 1","Free Throw Made",FALSE,4,1,10,00:01:10,91,87,74848,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104629,19,"BAR",20203955,"Tornike Shengelia","T. Shengelia","Shengelia",93,"Canasta de 2","2-Point Shot Made",TRUE,4,0,51,00:00:51,93,87,74873,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104629,19,"GIR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,0,51,00:00:51,93,87,74877,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104629,19,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,45,00:00:45,93,87,74993,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,0,45,00:00:45,93,87,74993,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,6
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",93,"Canasta de 2","2-Point Shot Made",FALSE,4,0,41,00:00:41,93,89,74997,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,0,21,00:00:21,93,89,75022,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,0,21,00:00:21,93,89,75022,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",159,"Personal no TL","Foul No FT",FALSE,4,0,19,00:00:19,93,89,75032,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",110,"Falta recibida","Foul Received",TRUE,4,0,19,00:00:19,93,89,75032,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",115,"Sale Pista","Substitution - Out",TRUE,4,0,19,00:00:19,93,89,75040,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",112,"Entra Pista","Substitution - In",TRUE,4,0,19,00:00:19,93,89,75040,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104629,19,"BAR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,4,0,19,00:00:19,93,89,75075,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",93,"Canasta de 2","2-Point Shot Made",TRUE,4,0,17,00:00:17,95,89,75179,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104629,19,"BAR",20211947,"Nico Laprovittola","N. Laprovittola","Laprovittola",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,0,17,00:00:17,95,89,75179,"Nico Laprovittola","Darío Brizuela","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",94,"Canasta de 3","3-Point Shot Made",FALSE,4,0,9,00:00:09,95,92,75190,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,4,0,9,00:00:09,95,92,75190,"Martinas Geben","Mindaugas Susinskas","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",159,"Personal no TL","Foul No FT",FALSE,4,0,6,00:00:06,95,92,75200,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104629,19,"BAR",20209919,"Darío Brizuela","D. Brizuela","Brizuela",110,"Falta recibida","Foul Received",TRUE,4,0,6,00:00:06,95,92,75200,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104629,19,"BAR",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,4,0,6,00:00:06,95,92,75220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",115,"Sale Pista","Substitution - Out",FALSE,4,0,6,00:00:06,95,92,75281,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",112,"Entra Pista","Substitution - In",FALSE,4,0,6,00:00:06,95,92,75281,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",160,"Personal 1TL","Foul 1FT",FALSE,4,0,6,00:00:06,95,92,75330,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",110,"Falta recibida","Foul Received",TRUE,4,0,6,00:00:06,95,92,75330,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104629,19,"GIR",20211754,"Pep Busquets","P. Busquets","Busquets",115,"Sale Pista","Substitution - Out",FALSE,4,0,6,00:00:06,95,92,75347,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",FALSE,4,0,6,00:00:06,95,92,75347,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104629,19,"BAR",30003977,"Will Clyburn","W. Clyburn","Clyburn",92,"Canasta de 1","Free Throw Made",TRUE,4,0,6,00:00:06,96,92,75387,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104629,19,"GIR",NA,NA,NA,NA,106,"Pérdida","Turnover",FALSE,4,0,6,00:00:06,96,92,75791,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",161,"Personal 2TL","Foul 2FT",FALSE,4,0,4,00:00:04,96,92,75420,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",110,"Falta recibida","Foul Received",TRUE,4,0,4,00:00:04,96,92,75420,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104629,19,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",115,"Sale Pista","Substitution - Out",FALSE,4,0,4,00:00:04,96,92,75430,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104629,19,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",FALSE,4,0,4,00:00:04,96,92,75430,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,0,4,00:00:04,96,92,75444,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",92,"Canasta de 1","Free Throw Made",TRUE,4,0,4,00:00:04,97,92,75462,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104629,19,"BAR",20209187,"Willy Hernangómez","W. Hernangómez","Hernangómez",115,"Sale Pista","Substitution - Out",TRUE,4,0,4,00:00:04,97,92,75463,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"BAR",30003948,"Myles Cale","M. Cale","Cale",112,"Entra Pista","Substitution - In",TRUE,4,0,4,00:00:04,97,92,75463,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,"GIR",30001997,"Maxi Fjellerup","M. Fjellerup","Fjellerup",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,0,0,00:00:00,97,92,75486,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104629,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,97,92,75565,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104629,19,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,97,92,75565,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
 104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

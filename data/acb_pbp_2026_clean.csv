@@ -97806,6 +97806,548 @@
 104612,18,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,0,23,00:00:23,64,83,71441,"Jonathan Rousselle","Amida Brimah","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19
 104612,18,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,64,83,71472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
 104612,18,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,64,83,71472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,60828,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,60828,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",178,"Salto ganado","Won jump",TRUE,1,10,0,00:10:00,0,0,61436,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",179,"Salto perdido","Lost jump",FALSE,1,10,0,00:10:00,0,0,61436,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",94,"Canasta de 3","3-Point Shot Made",TRUE,1,9,47,00:09:47,3,0,61540,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,9,47,00:09:47,3,0,61540,"Trey Lyles","Gabriele Procida","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,9,22,00:09:22,3,0,61565,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",105,"Tapón Recibido","Block Received",FALSE,1,9,22,00:09:22,3,0,61565,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",102,"Tapón","Block",TRUE,1,9,22,00:09:22,3,0,61565,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,9,22,00:09:22,3,0,61565,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,9,4,00:09:04,3,0,61584,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,9,4,00:09:04,3,0,61584,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,8,58,00:08:58,3,0,61590,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",105,"Tapón Recibido","Block Received",FALSE,1,8,58,00:08:58,3,0,61590,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",102,"Tapón","Block",TRUE,1,8,58,00:08:58,3,0,61590,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,8,58,00:08:58,3,0,61590,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",159,"Personal no TL","Foul No FT",FALSE,1,8,50,00:08:50,3,0,61602,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",110,"Falta recibida","Foul Received",TRUE,1,8,50,00:08:50,3,0,61602,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,8,45,00:08:45,3,0,61619,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,8,45,00:08:45,3,0,61619,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",159,"Personal no TL","Foul No FT",TRUE,1,8,35,00:08:35,3,0,61630,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",110,"Falta recibida","Foul Received",FALSE,1,8,35,00:08:35,3,0,61630,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",94,"Canasta de 3","3-Point Shot Made",FALSE,1,8,29,00:08:29,3,3,61655,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,8,29,00:08:29,3,3,61655,"Luka Bozic","Amar Alibegovic","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,8,12,00:08:12,3,3,61672,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,8,12,00:08:12,3,3,61672,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,8,0,00:08:00,3,3,61684,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,0
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,8,0,00:08:00,3,3,61684,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",161,"Personal 2TL","Foul 2FT",FALSE,1,7,49,00:07:49,3,3,61701,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",110,"Falta recibida","Foul Received",TRUE,1,7,49,00:07:49,3,3,61701,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,1,7,49,00:07:49,3,3,61701,"Alex Len","Trey Lyles","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",102,"Tapón","Block",FALSE,1,7,49,00:07:49,3,3,61710,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,7,49,00:07:49,3,3,61721,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,0
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",92,"Canasta de 1","Free Throw Made",TRUE,1,7,49,00:07:49,4,3,61738,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,7,33,00:07:33,4,3,61759,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,1
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,7,33,00:07:33,4,3,61759,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",94,"Canasta de 3","3-Point Shot Made",TRUE,1,7,25,00:07:25,7,3,61767,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,4
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,7,25,00:07:25,7,3,61767,"Facu Campazzo","Gabriele Procida","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",106,"Pérdida","Turnover",FALSE,1,7,4,00:07:04,7,3,61789,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",161,"Personal 2TL","Foul 2FT",FALSE,1,6,58,00:06:58,7,3,61802,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",110,"Falta recibida","Foul Received",TRUE,1,6,58,00:06:58,7,3,61802,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",115,"Sale Pista","Substitution - Out",FALSE,1,6,58,00:06:58,7,3,61817,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",112,"Entra Pista","Substitution - In",FALSE,1,6,58,00:06:58,7,3,61817,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",92,"Canasta de 1","Free Throw Made",TRUE,1,6,58,00:06:58,8,3,61826,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",92,"Canasta de 1","Free Throw Made",TRUE,1,6,58,00:06:58,9,3,61840,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",106,"Pérdida","Turnover",FALSE,1,6,48,00:06:48,9,3,61857,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",106,"Pérdida","Turnover",TRUE,1,6,38,00:06:38,9,3,61874,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",103,"Recuperación","Steal",FALSE,1,6,38,00:06:38,9,3,61874,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,6,31,00:06:31,9,3,61880,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,6,31,00:06:31,9,3,61880,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",106,"Pérdida","Turnover",TRUE,1,6,23,00:06:23,9,3,61889,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",103,"Recuperación","Steal",FALSE,1,6,23,00:06:23,9,3,61889,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",100,"Mate","Dunk",FALSE,1,6,19,00:06:19,9,5,61893,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,4
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,6,19,00:06:19,9,5,61893,"Jonathan Rousselle","Jassel Perez","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,6,1,00:06:01,9,5,61911,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,6,1,00:06:01,9,5,61911,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,5,46,00:05:46,9,5,61925,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,5,46,00:05:46,9,5,61925,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",93,"Canasta de 2","2-Point Shot Made",TRUE,1,5,41,00:05:41,11,5,61930,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,5,41,00:05:41,11,5,61930,"Trey Lyles","Alberto Abalde","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,5,13,00:05:13,11,5,61959,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,5,13,00:05:13,11,5,61959,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",161,"Personal 2TL","Foul 2FT",FALSE,1,5,0,00:05:00,11,5,61976,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",110,"Falta recibida","Foul Received",TRUE,1,5,0,00:05:00,11,5,61976,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",115,"Sale Pista","Substitution - Out",FALSE,1,5,0,00:05:00,11,5,61984,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",115,"Sale Pista","Substitution - Out",FALSE,1,5,0,00:05:00,11,5,61984,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",112,"Entra Pista","Substitution - In",FALSE,1,5,0,00:05:00,11,5,61984,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",112,"Entra Pista","Substitution - In",FALSE,1,5,0,00:05:00,11,5,61984,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",92,"Canasta de 1","Free Throw Made",TRUE,1,5,0,00:05:00,12,5,62003,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,5,0,00:05:00,12,5,62018,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,7
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,5,0,00:05:00,12,5,62018,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",93,"Canasta de 2","2-Point Shot Made",FALSE,1,4,48,00:04:48,12,7,62033,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,4,48,00:04:48,12,7,62033,"Mehdy Ngouama","Amar Alibegovic","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",94,"Canasta de 3","3-Point Shot Made",TRUE,1,4,38,00:04:38,15,7,62042,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,4,26,00:04:26,15,7,62055,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,4,26,00:04:26,15,7,62055,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,4,10,00:04:10,15,7,62071,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,8
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,4,10,00:04:10,15,7,62071,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,8
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",93,"Canasta de 2","2-Point Shot Made",FALSE,1,4,6,00:04:06,15,9,62075,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",93,"Canasta de 2","2-Point Shot Made",TRUE,1,3,55,00:03:55,17,9,62085,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,8
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",94,"Canasta de 3","3-Point Shot Made",FALSE,1,3,35,00:03:35,17,12,62106,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,3,35,00:03:35,17,12,62106,"Mehdy Ngouama","Jassel Perez","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",106,"Pérdida","Turnover",TRUE,1,3,12,00:03:12,17,12,62129,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",103,"Recuperación","Steal",FALSE,1,3,12,00:03:12,17,12,62129,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,2,55,00:02:55,17,12,62143,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,2,55,00:02:55,17,12,62143,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,2,52,00:02:52,17,12,62147,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",105,"Tapón Recibido","Block Received",FALSE,1,2,52,00:02:52,17,12,62147,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",102,"Tapón","Block",TRUE,1,2,52,00:02:52,17,12,62147,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,2,52,00:02:52,17,12,62147,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,2,45,00:02:45,17,12,62154,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,2,45,00:02:45,17,12,62154,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",93,"Canasta de 2","2-Point Shot Made",TRUE,1,2,37,00:02:37,19,12,62164,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",160,"Personal 1TL","Foul 1FT",FALSE,1,2,37,00:02:37,19,12,62168,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",110,"Falta recibida","Foul Received",TRUE,1,2,37,00:02:37,19,12,62168,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",115,"Sale Pista","Substitution - Out",TRUE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",115,"Sale Pista","Substitution - Out",TRUE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",115,"Sale Pista","Substitution - Out",TRUE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",112,"Entra Pista","Substitution - In",TRUE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",112,"Entra Pista","Substitution - In",TRUE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",112,"Entra Pista","Substitution - In",TRUE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",115,"Sale Pista","Substitution - Out",FALSE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",115,"Sale Pista","Substitution - Out",FALSE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"COV",20213001,"Edu Durán","E. Durán","Durán",112,"Entra Pista","Substitution - In",FALSE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",112,"Entra Pista","Substitution - In",FALSE,1,2,37,00:02:37,19,12,62177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",92,"Canasta de 1","Free Throw Made",TRUE,1,2,37,00:02:37,20,12,62205,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",115,"Sale Pista","Substitution - Out",TRUE,1,2,37,00:02:37,20,12,62208,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",112,"Entra Pista","Substitution - In",TRUE,1,2,37,00:02:37,20,12,62208,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,2,15,00:02:15,20,12,62241,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,2,15,00:02:15,20,12,62241,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",106,"Pérdida","Turnover",TRUE,1,2,10,00:02:10,20,12,62246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",103,"Recuperación","Steal",FALSE,1,2,10,00:02:10,20,12,62246,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",94,"Canasta de 3","3-Point Shot Made",FALSE,1,2,0,00:02:00,20,15,62256,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,5
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",93,"Canasta de 2","2-Point Shot Made",TRUE,1,1,43,00:01:43,22,15,62273,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",93,"Canasta de 2","2-Point Shot Made",FALSE,1,1,20,00:01:20,22,17,62297,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",93,"Canasta de 2","2-Point Shot Made",TRUE,1,0,53,00:00:53,24,17,62323,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,7
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",159,"Personal no TL","Foul No FT",TRUE,1,0,40,00:00:40,24,17,62338,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104627,19,"COV",20213001,"Edu Durán","E. Durán","Durán",110,"Falta recibida","Foul Received",FALSE,1,0,40,00:00:40,24,17,62338,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",115,"Sale Pista","Substitution - Out",TRUE,1,0,40,00:00:40,24,17,62344,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",112,"Entra Pista","Substitution - In",TRUE,1,0,40,00:00:40,24,17,62344,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,28,00:00:28,24,19,62368,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,0,1,00:00:01,24,19,62395,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,24,19,62400,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,24,19,62400,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,9,45,00:09:45,24,19,62552,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,9,45,00:09:45,24,19,62552,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",106,"Pérdida","Turnover",TRUE,2,9,37,00:09:37,24,19,62560,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",103,"Recuperación","Steal",FALSE,2,9,37,00:09:37,24,19,62560,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"COV",20213001,"Edu Durán","E. Durán","Durán",106,"Pérdida","Turnover",FALSE,2,9,18,00:09:18,24,19,62579,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",103,"Recuperación","Steal",TRUE,2,9,18,00:09:18,24,19,62579,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,9,14,00:09:14,24,19,62583,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,9,14,00:09:14,24,19,62583,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104627,19,"COV",20213001,"Edu Durán","E. Durán","Durán",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,9,7,00:09:07,24,19,62590,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,9,7,00:09:07,24,19,62590,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104627,19,"COV",NA,NA,NA,NA,106,"Pérdida","Turnover",FALSE,2,8,48,00:08:48,24,19,62611,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",NA,NA,NA,NA,103,"Recuperación","Steal",TRUE,2,8,48,00:08:48,24,19,62611,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",94,"Canasta de 3","3-Point Shot Made",TRUE,2,8,35,00:08:35,27,19,62635,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,8,35,00:08:35,27,19,62635,"Sergio Llull","David Kramer","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,8,15,00:08:15,27,19,62655,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,8
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,15,00:08:15,27,19,62655,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,8
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",159,"Personal no TL","Foul No FT",FALSE,2,8,11,00:08:11,27,19,62661,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",110,"Falta recibida","Foul Received",TRUE,2,8,11,00:08:11,27,19,62661,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",115,"Sale Pista","Substitution - Out",FALSE,2,8,11,00:08:11,27,19,62674,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104627,19,"COV",20213001,"Edu Durán","E. Durán","Durán",115,"Sale Pista","Substitution - Out",FALSE,2,8,11,00:08:11,27,19,62674,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",112,"Entra Pista","Substitution - In",FALSE,2,8,11,00:08:11,27,19,62674,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",112,"Entra Pista","Substitution - In",FALSE,2,8,11,00:08:11,27,19,62674,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",94,"Canasta de 3","3-Point Shot Made",TRUE,2,8,2,00:08:02,30,19,62696,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",93,"Canasta de 2","2-Point Shot Made",FALSE,2,7,45,00:07:45,30,21,62712,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",106,"Pérdida","Turnover",TRUE,2,7,33,00:07:33,30,21,62723,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",94,"Canasta de 3","3-Point Shot Made",FALSE,2,7,24,00:07:24,30,24,62736,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",106,"Pérdida","Turnover",TRUE,2,7,5,00:07:05,30,24,62755,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",103,"Recuperación","Steal",FALSE,2,7,5,00:07:05,30,24,62755,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",106,"Pérdida","Turnover",FALSE,2,7,2,00:07:02,30,24,62759,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,6,50,00:06:50,30,24,62801,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,6,50,00:06:50,30,24,62801,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",166,"Antidep 2TL","Unsportsmanlike 2FT",TRUE,2,6,37,00:06:37,30,24,62820,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",110,"Falta recibida","Foul Received",FALSE,2,6,37,00:06:37,30,24,62820,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",115,"Sale Pista","Substitution - Out",FALSE,2,6,37,00:06:37,30,24,62839,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",115,"Sale Pista","Substitution - Out",FALSE,2,6,37,00:06:37,30,24,62839,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",112,"Entra Pista","Substitution - In",FALSE,2,6,37,00:06:37,30,24,62839,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",20203675,"Pere Tomàs","P. Tomàs","Tomàs",112,"Entra Pista","Substitution - In",FALSE,2,6,37,00:06:37,30,24,62839,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",92,"Canasta de 1","Free Throw Made",FALSE,2,6,37,00:06:37,30,25,62854,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",96,"Intento fallado de 1","Free Throw Missed",FALSE,2,6,37,00:06:37,30,25,62854,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,5
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",115,"Sale Pista","Substitution - Out",FALSE,2,6,37,00:06:37,30,25,62857,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",112,"Entra Pista","Substitution - In",FALSE,2,6,37,00:06:37,30,25,62857,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",106,"Pérdida","Turnover",TRUE,2,6,37,00:06:37,30,25,62864,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,6,29,00:06:29,30,25,62877,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,6,29,00:06:29,30,25,62877,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,6,4,00:06:04,30,25,62902,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,6,4,00:06:04,30,25,62902,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,5,39,00:05:39,30,25,62927,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,5,39,00:05:39,30,25,62927,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104627,19,"COV",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,2,5,35,00:05:35,30,25,62940,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,5,26,00:05:26,30,25,63051,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,5,26,00:05:26,30,25,63051,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,5,21,00:05:21,30,25,63056,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,5,21,00:05:21,30,25,63056,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,5
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",93,"Canasta de 2","2-Point Shot Made",FALSE,2,5,17,00:05:17,30,27,63060,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,5,3,00:05:03,30,27,63074,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,3
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",105,"Tapón Recibido","Block Received",TRUE,2,5,3,00:05:03,30,27,63074,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",102,"Tapón","Block",FALSE,2,5,3,00:05:03,30,27,63074,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104627,19,"RMB",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,5,3,00:05:03,30,27,63074,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3
+104627,19,"RMB",20212174,"Usman Garuba","U. Garuba","Garuba",115,"Sale Pista","Substitution - Out",TRUE,2,5,1,00:05:01,30,27,63081,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",112,"Entra Pista","Substitution - In",TRUE,2,5,1,00:05:01,30,27,63081,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",100,"Mate","Dunk",TRUE,2,4,49,00:04:49,32,27,63126,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,5
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,4,49,00:04:49,32,27,63126,"Andrés Feliz","Alex Len","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",159,"Personal no TL","Foul No FT",TRUE,2,4,34,00:04:34,32,27,63143,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",110,"Falta recibida","Foul Received",FALSE,2,4,34,00:04:34,32,27,63143,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",115,"Sale Pista","Substitution - Out",TRUE,2,4,34,00:04:34,32,27,63149,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",112,"Entra Pista","Substitution - In",TRUE,2,4,34,00:04:34,32,27,63149,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",20203675,"Pere Tomàs","P. Tomàs","Tomàs",115,"Sale Pista","Substitution - Out",FALSE,2,4,34,00:04:34,32,27,63149,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",112,"Entra Pista","Substitution - In",FALSE,2,4,34,00:04:34,32,27,63149,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",94,"Canasta de 3","3-Point Shot Made",FALSE,2,4,21,00:04:21,32,30,63191,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,2
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,4,21,00:04:21,32,30,63191,"Jonathan Rousselle","Jassel Perez","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",159,"Personal no TL","Foul No FT",FALSE,2,4,6,00:04:06,32,30,63211,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,2
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",110,"Falta recibida","Foul Received",TRUE,2,4,6,00:04:06,32,30,63211,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",115,"Sale Pista","Substitution - Out",FALSE,2,4,6,00:04:06,32,30,63219,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",112,"Entra Pista","Substitution - In",FALSE,2,4,6,00:04:06,32,30,63219,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",93,"Canasta de 2","2-Point Shot Made",TRUE,2,4,5,00:04:05,34,30,63235,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,4,5,00:04:05,34,30,63235,"Sergio Llull","Gabriele Procida","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,3,52,00:03:52,34,30,63248,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,3,52,00:03:52,34,30,63248,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,3,43,00:03:43,34,30,63258,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,3,43,00:03:43,34,30,63258,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",161,"Personal 2TL","Foul 2FT",TRUE,2,3,36,00:03:36,34,30,63266,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,2,3,36,00:03:36,34,30,63266,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",115,"Sale Pista","Substitution - Out",FALSE,2,3,36,00:03:36,34,30,63276,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",112,"Entra Pista","Substitution - In",FALSE,2,3,36,00:03:36,34,30,63276,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,2,3,36,00:03:36,34,31,63301,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,3
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,2,3,36,00:03:36,34,32,63320,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,2
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",115,"Sale Pista","Substitution - Out",TRUE,2,3,36,00:03:36,34,32,63322,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",112,"Entra Pista","Substitution - In",TRUE,2,3,36,00:03:36,34,32,63322,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",100,"Mate","Dunk",TRUE,2,3,20,00:03:20,36,32,63353,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,4
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,3,20,00:03:20,36,32,63353,"Facu Campazzo","Alex Len","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",109,"Falta en Ataque","Offensive Foul",FALSE,2,3,0,00:03:00,36,32,63377,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",106,"Pérdida","Turnover",FALSE,2,3,0,00:03:00,36,32,63377,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",110,"Falta recibida","Foul Received",TRUE,2,3,0,00:03:00,36,32,63377,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",115,"Sale Pista","Substitution - Out",TRUE,2,3,0,00:03:00,36,32,63382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",115,"Sale Pista","Substitution - Out",TRUE,2,3,0,00:03:00,36,32,63382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",112,"Entra Pista","Substitution - In",TRUE,2,3,0,00:03:00,36,32,63382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",112,"Entra Pista","Substitution - In",TRUE,2,3,0,00:03:00,36,32,63382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",93,"Canasta de 2","2-Point Shot Made",TRUE,2,2,48,00:02:48,38,32,63413,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,6
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,2,48,00:02:48,38,32,63413,"Facu Campazzo","Alex Len","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",160,"Personal 1TL","Foul 1FT",FALSE,2,2,48,00:02:48,38,32,63418,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",110,"Falta recibida","Foul Received",TRUE,2,2,48,00:02:48,38,32,63418,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,2,48,00:02:48,38,32,63443,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,6
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,48,00:02:48,38,32,63443,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",106,"Pérdida","Turnover",FALSE,2,2,33,00:02:33,38,32,63461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",103,"Recuperación","Steal",TRUE,2,2,33,00:02:33,38,32,63461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",106,"Pérdida","Turnover",TRUE,2,2,29,00:02:29,38,32,63464,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",103,"Recuperación","Steal",FALSE,2,2,29,00:02:29,38,32,63464,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",106,"Pérdida","Turnover",FALSE,2,2,26,00:02:26,38,32,63468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",103,"Recuperación","Steal",TRUE,2,2,26,00:02:26,38,32,63468,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",106,"Pérdida","Turnover",TRUE,2,2,22,00:02:22,38,32,63472,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",161,"Personal 2TL","Foul 2FT",TRUE,2,2,19,00:02:19,38,32,63485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,2,2,19,00:02:19,38,32,63485,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,2,2,19,00:02:19,38,33,63534,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,2,2,19,00:02:19,38,34,63551,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,2,5,00:02:05,38,34,63573,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",161,"Personal 2TL","Foul 2FT",FALSE,2,2,1,00:02:01,38,34,63587,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",110,"Falta recibida","Foul Received",TRUE,2,2,1,00:02:01,38,34,63587,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,2,1,00:02:01,38,34,63610,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,2,1,00:02:01,38,34,63635,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,2,1,00:02:01,38,34,63635,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",100,"Mate","Dunk",TRUE,2,1,57,00:01:57,40,34,63638,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,6
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,1,57,00:01:57,40,34,63638,"Alex Len","Trey Lyles","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,1,36,00:01:36,40,34,63663,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,1,36,00:01:36,40,34,63663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,1,18,00:01:18,40,34,63678,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,1,18,00:01:18,40,34,63678,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",161,"Personal 2TL","Foul 2FT",TRUE,2,0,54,00:00:54,40,34,63704,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,6
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,2,0,54,00:00:54,40,34,63704,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",115,"Sale Pista","Substitution - Out",FALSE,2,0,54,00:00:54,40,34,63711,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",112,"Entra Pista","Substitution - In",FALSE,2,0,54,00:00:54,40,34,63711,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,2,0,54,00:00:54,40,35,63740,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,5
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,2,0,54,00:00:54,40,36,63757,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,4
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,0,38,00:00:38,40,36,63778,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,0,38,00:00:38,40,36,63778,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",106,"Pérdida","Turnover",FALSE,2,0,22,00:00:22,40,36,63794,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",103,"Recuperación","Steal",TRUE,2,0,22,00:00:22,40,36,63794,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+104627,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,40,36,63822,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,40,36,63822,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,40,36,64744,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,40,36,64744,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,40,36,64744,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,40,36,64744,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,9,46,00:09:46,40,36,64799,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,4
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,9,46,00:09:46,40,36,64799,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,9,33,00:09:33,40,36,64812,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,4
+104627,19,"RMB",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,3,9,33,00:09:33,40,36,64812,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",94,"Canasta de 3","3-Point Shot Made",TRUE,3,9,9,00:09:09,43,36,64856,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,9,9,00:09:09,43,36,64856,"Trey Lyles","Alberto Abalde","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,50,00:08:50,43,38,64874,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",106,"Pérdida","Turnover",TRUE,3,8,38,00:08:38,43,38,64886,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",103,"Recuperación","Steal",FALSE,3,8,38,00:08:38,43,38,64886,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,34,00:08:34,43,40,64890,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,8,34,00:08:34,43,40,64890,"Jassel Perez","Jonathan Rousselle","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",159,"Personal no TL","Foul No FT",FALSE,3,8,23,00:08:23,43,40,64904,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",110,"Falta recibida","Foul Received",TRUE,3,8,23,00:08:23,43,40,64904,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",93,"Canasta de 2","2-Point Shot Made",TRUE,3,8,8,00:08:08,45,40,64936,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",106,"Pérdida","Turnover",FALSE,3,7,53,00:07:53,45,40,64959,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",100,"Mate","Dunk",TRUE,3,7,38,00:07:38,47,40,64977,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,7
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",93,"Canasta de 2","2-Point Shot Made",FALSE,3,7,14,00:07:14,47,42,65002,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,5
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",115,"Sale Pista","Substitution - Out",FALSE,3,7,14,00:07:14,47,42,65018,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",112,"Entra Pista","Substitution - In",FALSE,3,7,14,00:07:14,47,42,65018,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",94,"Canasta de 3","3-Point Shot Made",TRUE,3,6,58,00:06:58,50,42,65058,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,8
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,6,58,00:06:58,50,42,65058,"Facu Campazzo","Trey Lyles","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",109,"Falta en Ataque","Offensive Foul",FALSE,3,6,48,00:06:48,50,42,65071,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",106,"Pérdida","Turnover",FALSE,3,6,48,00:06:48,50,42,65071,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,8
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",110,"Falta recibida","Foul Received",TRUE,3,6,48,00:06:48,50,42,65071,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",94,"Canasta de 3","3-Point Shot Made",TRUE,3,6,33,00:06:33,53,42,65103,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,6,33,00:06:33,53,42,65103,"Alberto Abalde","Trey Lyles","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104627,19,"COV",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,3,6,33,00:06:33,53,42,65110,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",159,"Personal no TL","Foul No FT",TRUE,3,6,21,00:06:21,53,42,65230,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",110,"Falta recibida","Foul Received",FALSE,3,6,21,00:06:21,53,42,65230,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,6,10,00:06:10,53,42,65262,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104627,19,"COV",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,6,10,00:06:10,53,42,65262,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,5,54,00:05:54,53,42,65294,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,5,54,00:05:54,53,42,65294,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",94,"Canasta de 3","3-Point Shot Made",TRUE,3,5,48,00:05:48,56,42,65300,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",93,"Canasta de 2","2-Point Shot Made",FALSE,3,5,39,00:05:39,56,44,65309,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",159,"Personal no TL","Foul No FT",FALSE,3,5,19,00:05:19,56,44,65331,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",110,"Falta recibida","Foul Received",TRUE,3,5,19,00:05:19,56,44,65331,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",115,"Sale Pista","Substitution - Out",TRUE,3,5,19,00:05:19,56,44,65337,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",112,"Entra Pista","Substitution - In",TRUE,3,5,19,00:05:19,56,44,65337,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",30002043,"William Howard","W. Howard","Howard",115,"Sale Pista","Substitution - Out",FALSE,3,5,19,00:05:19,56,44,65337,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",115,"Sale Pista","Substitution - Out",FALSE,3,5,19,00:05:19,56,44,65337,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",112,"Entra Pista","Substitution - In",FALSE,3,5,19,00:05:19,56,44,65337,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",112,"Entra Pista","Substitution - In",FALSE,3,5,19,00:05:19,56,44,65337,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,5,11,00:05:11,56,44,65372,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,5,11,00:05:11,56,44,65372,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,5,4,00:05:04,56,44,65379,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,5,4,00:05:04,56,44,65379,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,4,59,00:04:59,56,44,65383,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",105,"Tapón Recibido","Block Received",TRUE,3,4,59,00:04:59,56,44,65383,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",102,"Tapón","Block",FALSE,3,4,59,00:04:59,56,44,65383,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,4,59,00:04:59,56,44,65383,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",161,"Personal 2TL","Foul 2FT",FALSE,3,4,48,00:04:48,56,44,65400,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",110,"Falta recibida","Foul Received",TRUE,3,4,48,00:04:48,56,44,65400,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",115,"Sale Pista","Substitution - Out",TRUE,3,4,48,00:04:48,56,44,65406,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",112,"Entra Pista","Substitution - In",TRUE,3,4,48,00:04:48,56,44,65406,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",92,"Canasta de 1","Free Throw Made",TRUE,3,4,48,00:04:48,57,44,65428,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",92,"Canasta de 1","Free Throw Made",TRUE,3,4,48,00:04:48,58,44,65441,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104627,19,"RMB",20211331,"Facu Campazzo","F. Campazzo","Campazzo",115,"Sale Pista","Substitution - Out",TRUE,3,4,48,00:04:48,58,44,65444,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",112,"Entra Pista","Substitution - In",TRUE,3,4,48,00:04:48,58,44,65444,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",100,"Mate","Dunk",FALSE,3,4,30,00:04:30,58,46,65471,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,12
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,4,30,00:04:30,58,46,65471,"Luka Bozic","Amida Brimah","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,4,6,00:04:06,58,46,65495,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"RMB",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,4,6,00:04:06,58,46,65495,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",93,"Canasta de 2","2-Point Shot Made",TRUE,3,3,58,00:03:58,60,46,65522,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",160,"Personal 1TL","Foul 1FT",FALSE,3,3,58,00:03:58,60,46,65526,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",110,"Falta recibida","Foul Received",TRUE,3,3,58,00:03:58,60,46,65526,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,3,58,00:03:58,60,46,65544,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,14
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,3,58,00:03:58,60,46,65544,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",161,"Personal 2TL","Foul 2FT",TRUE,3,3,49,00:03:49,60,46,65556,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,3,3,49,00:03:49,60,46,65556,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104627,19,"RMB",30004061,"Trey Lyles","T. Lyles","Lyles",115,"Sale Pista","Substitution - Out",TRUE,3,3,49,00:03:49,60,46,65564,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",112,"Entra Pista","Substitution - In",TRUE,3,3,49,00:03:49,60,46,65564,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,3,3,49,00:03:49,60,47,65583,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,3,3,49,00:03:49,60,48,65599,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,12
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",115,"Sale Pista","Substitution - Out",FALSE,3,3,49,00:03:49,60,48,65602,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",112,"Entra Pista","Substitution - In",FALSE,3,3,49,00:03:49,60,48,65602,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",161,"Personal 2TL","Foul 2FT",FALSE,3,3,33,00:03:33,60,48,65639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",110,"Falta recibida","Foul Received",TRUE,3,3,33,00:03:33,60,48,65639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,3,3,33,00:03:33,60,48,65639,"Sergio Llull","Alex Len","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",115,"Sale Pista","Substitution - Out",FALSE,3,3,33,00:03:33,60,48,65647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",112,"Entra Pista","Substitution - In",FALSE,3,3,33,00:03:33,60,48,65647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",92,"Canasta de 1","Free Throw Made",TRUE,3,3,33,00:03:33,61,48,65672,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",92,"Canasta de 1","Free Throw Made",TRUE,3,3,33,00:03:33,62,48,65680,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,3,9,00:03:09,62,48,65708,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,14
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,9,00:03:09,62,48,65708,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",161,"Personal 2TL","Foul 2FT",FALSE,3,3,5,00:03:05,62,48,65714,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",110,"Falta recibida","Foul Received",TRUE,3,3,5,00:03:05,62,48,65714,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",115,"Sale Pista","Substitution - Out",TRUE,3,3,5,00:03:05,62,48,65725,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",112,"Entra Pista","Substitution - In",TRUE,3,3,5,00:03:05,62,48,65725,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",92,"Canasta de 1","Free Throw Made",TRUE,3,3,5,00:03:05,63,48,65748,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",92,"Canasta de 1","Free Throw Made",TRUE,3,3,5,00:03:05,64,48,65760,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",159,"Personal no TL","Foul No FT",TRUE,3,2,54,00:02:54,64,48,65778,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",110,"Falta recibida","Foul Received",FALSE,3,2,54,00:02:54,64,48,65778,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,2,51,00:02:51,64,48,65798,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,2,51,00:02:51,64,48,65798,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",93,"Canasta de 2","2-Point Shot Made",TRUE,3,2,33,00:02:33,66,48,65816,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,18
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,2,33,00:02:33,66,48,65816,"Sergio Llull","Izan Almansa","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",106,"Pérdida","Turnover",FALSE,3,2,10,00:02:10,66,48,65837,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",103,"Recuperación","Steal",TRUE,3,2,10,00:02:10,66,48,65837,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",93,"Canasta de 2","2-Point Shot Made",TRUE,3,2,5,00:02:05,68,48,65841,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,20
+104627,19,"COV",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,3,2,5,00:02:05,68,48,65847,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",115,"Sale Pista","Substitution - Out",FALSE,3,2,5,00:02:05,68,48,65922,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",112,"Entra Pista","Substitution - In",FALSE,3,2,5,00:02:05,68,48,65922,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",93,"Canasta de 2","2-Point Shot Made",FALSE,3,1,33,00:01:33,68,50,65998,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,18
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",160,"Personal 1TL","Foul 1FT",TRUE,3,1,33,00:01:33,68,50,66002,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",110,"Falta recibida","Foul Received",FALSE,3,1,33,00:01:33,68,50,66002,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,1,33,00:01:33,68,50,66022,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,18
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,1,33,00:01:33,68,50,66022,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",161,"Personal 2TL","Foul 2FT",FALSE,3,1,24,00:01:24,68,50,66035,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",110,"Falta recibida","Foul Received",TRUE,3,1,24,00:01:24,68,50,66035,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",92,"Canasta de 1","Free Throw Made",TRUE,3,1,24,00:01:24,69,50,66058,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,19
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",92,"Canasta de 1","Free Throw Made",TRUE,3,1,24,00:01:24,70,50,66071,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",109,"Falta en Ataque","Offensive Foul",FALSE,3,1,5,00:01:05,70,50,66096,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",106,"Pérdida","Turnover",FALSE,3,1,5,00:01:05,70,50,66096,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",110,"Falta recibida","Foul Received",TRUE,3,1,5,00:01:05,70,50,66096,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",106,"Pérdida","Turnover",TRUE,3,0,54,00:00:54,70,50,68043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",103,"Recuperación","Steal",FALSE,3,0,54,00:00:54,70,50,68043,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",93,"Canasta de 2","2-Point Shot Made",FALSE,3,0,50,00:00:50,70,52,66127,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,18
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,0,22,00:00:22,70,52,66156,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,0,22,00:00:22,70,52,66156,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",161,"Personal 2TL","Foul 2FT",TRUE,3,0,2,00:00:02,70,52,66179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,3,0,2,00:00:02,70,52,66179,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",115,"Sale Pista","Substitution - Out",FALSE,3,0,2,00:00:02,70,52,66202,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"COV",20203675,"Pere Tomàs","P. Tomàs","Tomàs",112,"Entra Pista","Substitution - In",FALSE,3,0,2,00:00:02,70,52,66202,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,3,0,2,00:00:02,70,53,66227,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,3,0,2,00:00:02,70,54,66248,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104627,19,"RMB",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,3,0,2,00:00:02,70,54,66254,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,70,54,66382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,70,54,66382,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"COV",20203675,"Pere Tomàs","P. Tomàs","Tomàs",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"COV",20204145,"Beqa Burjanadze","B. Burjanadze","Burjanadze",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",115,"Sale Pista","Substitution - Out",FALSE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",112,"Entra Pista","Substitution - In",FALSE,4,10,0,00:10:00,70,54,66488,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",161,"Personal 2TL","Foul 2FT",TRUE,4,9,47,00:09:47,70,54,66513,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",110,"Falta recibida","Foul Received",FALSE,4,9,47,00:09:47,70,54,66513,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",102,"Tapón","Block",TRUE,4,9,47,00:09:47,70,54,66526,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",92,"Canasta de 1","Free Throw Made",FALSE,4,9,47,00:09:47,70,55,66535,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",92,"Canasta de 1","Free Throw Made",FALSE,4,9,47,00:09:47,70,56,66547,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",94,"Canasta de 3","3-Point Shot Made",TRUE,4,9,27,00:09:27,73,56,66572,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,17
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,9,27,00:09:27,73,56,66572,"Alberto Abalde","David Kramer","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,9,1,00:09:01,73,56,66597,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,17
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,9,1,00:09:01,73,56,66597,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,17
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",100,"Mate","Dunk",TRUE,4,8,55,00:08:55,75,56,66604,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,19
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,4,8,55,00:08:55,75,56,66604,"Sergio Llull","Izan Almansa","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,19
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",159,"Personal no TL","Foul No FT",TRUE,4,8,49,00:08:49,75,56,66612,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",110,"Falta recibida","Foul Received",FALSE,4,8,49,00:08:49,75,56,66612,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,8,40,00:08:40,75,56,66636,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,4,8,40,00:08:40,75,56,66636,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,8,19,00:08:19,75,56,66661,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,8,19,00:08:19,75,56,66661,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,8,8,00:08:08,75,56,66672,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,19
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",105,"Tapón Recibido","Block Received",FALSE,4,8,8,00:08:08,75,56,66672,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",102,"Tapón","Block",TRUE,4,8,8,00:08:08,75,56,66672,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104627,19,"COV",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,8,8,00:08:08,75,56,66672,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,19
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,7,58,00:07:58,75,56,66721,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,7,58,00:07:58,75,56,66721,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,7,42,00:07:42,75,56,66738,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,7,42,00:07:42,75,56,66738,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,7,20,00:07:20,75,56,66760,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,7,20,00:07:20,75,56,66760,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",159,"Personal no TL","Foul No FT",FALSE,4,7,13,00:07:13,75,56,66768,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",110,"Falta recibida","Foul Received",TRUE,4,7,13,00:07:13,75,56,66768,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",115,"Sale Pista","Substitution - Out",FALSE,4,7,13,00:07:13,75,56,66774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",112,"Entra Pista","Substitution - In",FALSE,4,7,13,00:07:13,75,56,66774,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,7,6,00:07:06,75,56,66804,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,19
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,7,6,00:07:06,75,56,66804,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,19
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",106,"Pérdida","Turnover",FALSE,4,6,59,00:06:59,75,56,66813,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",106,"Pérdida","Turnover",TRUE,4,6,55,00:06:55,75,56,66833,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",159,"Personal no TL","Foul No FT",TRUE,4,6,48,00:06:48,75,56,66844,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",110,"Falta recibida","Foul Received",FALSE,4,6,48,00:06:48,75,56,66844,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",93,"Canasta de 2","2-Point Shot Made",FALSE,4,6,39,00:06:39,75,58,66872,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,17
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,6,39,00:06:39,75,58,66872,"Jonathan Rousselle","Babatunde Olumuyiwa","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",159,"Personal no TL","Foul No FT",FALSE,4,6,22,00:06:22,75,58,66891,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",110,"Falta recibida","Foul Received",TRUE,4,6,22,00:06:22,75,58,66891,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,6,12,00:06:12,75,58,66918,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,17
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,6,12,00:06:12,75,58,66918,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,17
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",100,"Mate","Dunk",FALSE,4,6,6,00:06:06,75,60,66924,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,15
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,6,6,00:06:06,75,60,66924,"Jassel Perez","Amar Alibegovic","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,5,38,00:05:38,75,60,66951,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,5,38,00:05:38,75,60,66951,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",93,"Canasta de 2","2-Point Shot Made",FALSE,4,5,31,00:05:31,75,62,66958,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",93,"Canasta de 2","2-Point Shot Made",TRUE,4,5,4,00:05:04,77,62,66984,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",161,"Personal 2TL","Foul 2FT",TRUE,4,4,55,00:04:55,77,62,67004,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,4,4,55,00:04:55,77,62,67004,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",115,"Sale Pista","Substitution - Out",TRUE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",115,"Sale Pista","Substitution - Out",TRUE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",112,"Entra Pista","Substitution - In",TRUE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",112,"Entra Pista","Substitution - In",TRUE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"COV",30000213,"Babatunde Olumuyiwa","B. Olumuyiwa","Olumuyiwa",115,"Sale Pista","Substitution - Out",FALSE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",115,"Sale Pista","Substitution - Out",FALSE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",112,"Entra Pista","Substitution - In",FALSE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",112,"Entra Pista","Substitution - In",FALSE,4,4,55,00:04:55,77,62,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,4,4,55,00:04:55,77,63,67030,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,4,4,55,00:04:55,77,64,67046,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104627,19,"RMB",20210088,"Alberto Abalde","A. Abalde","Abalde",115,"Sale Pista","Substitution - Out",TRUE,4,4,55,00:04:55,77,64,67049,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",112,"Entra Pista","Substitution - In",TRUE,4,4,55,00:04:55,77,64,67049,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",106,"Pérdida","Turnover",TRUE,4,4,42,00:04:42,77,64,67078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",103,"Recuperación","Steal",FALSE,4,4,42,00:04:42,77,64,67078,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",109,"Falta en Ataque","Offensive Foul",FALSE,4,4,33,00:04:33,77,64,67088,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",106,"Pérdida","Turnover",FALSE,4,4,33,00:04:33,77,64,67088,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",110,"Falta recibida","Foul Received",TRUE,4,4,33,00:04:33,77,64,67088,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,4,18,00:04:18,77,64,67125,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104627,19,"RMB",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,4,18,00:04:18,77,64,67125,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",106,"Pérdida","Turnover",TRUE,4,4,14,00:04:14,77,64,67153,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",93,"Canasta de 2","2-Point Shot Made",FALSE,4,4,6,00:04:06,77,66,67168,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,4,6,00:04:06,77,66,67168,"Jonathan Rousselle","Amida Brimah","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104627,19,"RMB",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",TRUE,4,4,2,00:04:02,77,66,67175,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",94,"Canasta de 3","3-Point Shot Made",TRUE,4,3,50,00:03:50,80,66,67285,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",93,"Canasta de 2","2-Point Shot Made",FALSE,4,3,24,00:03:24,80,68,67310,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",94,"Canasta de 3","3-Point Shot Made",TRUE,4,3,6,00:03:06,83,68,67340,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,15
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,3,6,00:03:06,83,68,67340,"Chuma Okeke","David Kramer","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,2,54,00:02:54,83,68,67351,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,54,00:02:54,83,68,67351,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,40,00:02:40,86,68,67365,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,2,40,00:02:40,86,68,67365,"Andrés Feliz","Gabriele Procida","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104627,19,"COV",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,2,35,00:02:35,86,68,67371,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"RMB",30003981,"Chuma Okeke","C. Okeke","Okeke",115,"Sale Pista","Substitution - Out",TRUE,4,2,35,00:02:35,86,68,67461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",112,"Entra Pista","Substitution - In",TRUE,4,2,35,00:02:35,86,68,67461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",115,"Sale Pista","Substitution - Out",FALSE,4,2,35,00:02:35,86,68,67461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",112,"Entra Pista","Substitution - In",FALSE,4,2,35,00:02:35,86,68,67461,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104627,19,"RMB",20212616,"Izan Almansa","I. Almansa","Almansa",161,"Personal 2TL","Foul 2FT",TRUE,4,2,22,00:02:22,86,68,67496,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,4,2,22,00:02:22,86,68,67496,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,4,2,22,00:02:22,86,69,67522,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,4,2,22,00:02:22,86,70,67540,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104627,19,"RMB",30003980,"Gabriele Procida","G. Procida","Procida",106,"Pérdida","Turnover",TRUE,4,2,6,00:02:06,86,70,67562,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",103,"Recuperación","Steal",FALSE,4,2,6,00:02:06,86,70,67562,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,2,2,00:02:02,86,70,67566,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,16
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,2,2,00:02:02,86,70,67566,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",93,"Canasta de 2","2-Point Shot Made",FALSE,4,1,58,00:01:58,86,72,67570,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",106,"Pérdida","Turnover",TRUE,4,1,43,00:01:43,86,72,67589,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104627,19,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",103,"Recuperación","Steal",FALSE,4,1,43,00:01:43,86,72,67589,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",93,"Canasta de 2","2-Point Shot Made",FALSE,4,1,37,00:01:37,86,74,67597,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,1,37,00:01:37,86,74,67597,"Jassel Perez","Luka Bozic","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",160,"Personal 1TL","Foul 1FT",TRUE,4,1,37,00:01:37,86,74,67600,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",110,"Falta recibida","Foul Received",FALSE,4,1,37,00:01:37,86,74,67600,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104627,19,"COV",30003420,"Luka Bozic","L. Bozic","Bozic",92,"Canasta de 1","Free Throw Made",FALSE,4,1,37,00:01:37,86,75,67622,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,11
+104627,19,"RMB",30004910,"Alex Len","A. Len","Len",106,"Pérdida","Turnover",TRUE,4,1,34,00:01:34,86,75,67629,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",103,"Recuperación","Steal",FALSE,4,1,34,00:01:34,86,75,67629,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",93,"Canasta de 2","2-Point Shot Made",FALSE,4,1,30,00:01:30,86,77,67633,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,9
+104627,19,"COV",30005191,"Jassel Perez","J. Pérez","Pérez",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,1,30,00:01:30,86,77,67633,"Jassel Perez","Mehdy Ngouama","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",159,"Personal no TL","Foul No FT",FALSE,4,1,13,00:01:13,86,77,67657,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",110,"Falta recibida","Foul Received",TRUE,4,1,13,00:01:13,86,77,67657,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",161,"Personal 2TL","Foul 2FT",FALSE,4,1,10,00:01:10,86,77,67682,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",110,"Falta recibida","Foul Received",TRUE,4,1,10,00:01:10,86,77,67682,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+104627,19,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",115,"Sale Pista","Substitution - Out",FALSE,4,1,10,00:01:10,86,77,67688,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",112,"Entra Pista","Substitution - In",FALSE,4,1,10,00:01:10,86,77,67688,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",92,"Canasta de 1","Free Throw Made",TRUE,4,1,10,00:01:10,87,77,67726,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,10
+104627,19,"RMB",30001114,"Andrés Feliz","A. Feliz","Feliz",115,"Sale Pista","Substitution - Out",TRUE,4,1,10,00:01:10,87,77,67741,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",112,"Entra Pista","Substitution - In",TRUE,4,1,10,00:01:10,87,77,67741,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",92,"Canasta de 1","Free Throw Made",TRUE,4,1,10,00:01:10,88,77,67748,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,11
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",106,"Pérdida","Turnover",FALSE,4,1,5,00:01:05,88,77,67836,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",103,"Recuperación","Steal",TRUE,4,1,5,00:01:05,88,77,67836,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",94,"Canasta de 3","3-Point Shot Made",TRUE,4,0,52,00:00:52,91,77,67771,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,0,52,00:00:52,91,77,67771,"Sergio Llull","David Kramer","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104627,19,"COV",30003505,"Amida Brimah","A. Brimah","Brimah",100,"Mate","Dunk",FALSE,4,0,35,00:00:35,91,79,67785,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,12
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,0,35,00:00:35,91,79,67785,"Jonathan Rousselle","Amida Brimah","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104627,19,"RMB",30002716,"David Kramer","D. Kramer","Kramer",94,"Canasta de 3","3-Point Shot Made",TRUE,4,0,16,00:00:16,94,79,67813,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,15
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,0,16,00:00:16,94,79,67813,"Sergio Llull","David Kramer","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104627,19,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,0,10,00:00:10,94,79,67820,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104627,19,"RMB",20201774,"Sergio Llull","S. Llull","Llull",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,0,10,00:00:10,94,79,67820,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104627,19,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,94,79,67829,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104627,19,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,94,79,67829,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
 104626,19,"VBC",30004884,"Braxton Key","B. Key","Key",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104626,19,"VBC",30001981,"Kameron Taylor","K. Taylor","Taylor",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104626,19,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

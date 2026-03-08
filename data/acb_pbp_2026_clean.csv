@@ -108579,6 +108579,634 @@
 104630,20,"JOV",30002869,"Michael Ruzic","M. Ruzic","Ruzic",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,0,5,00:00:05,67,79,71599,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
 104630,20,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,67,79,71608,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
 104630,20,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,67,79,71608,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",599,"Cinco Inicial","Starting Five",TRUE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,NA,NA,NA,NA,NA,122,"Inicio de partido","Start of the Game",FALSE,1,10,0,00:10:00,0,0,60726,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,1,10,0,00:10:00,0,0,60726,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",178,"Salto ganado","Won jump",FALSE,1,10,0,00:10:00,0,0,61177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",179,"Salto perdido","Lost jump",TRUE,1,10,0,00:10:00,0,0,61177,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,9,38,00:09:38,0,0,61328,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,0
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,9,38,00:09:38,0,0,61328,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",94,"Canasta de 3","3-Point Shot Made",TRUE,1,9,22,00:09:22,3,0,61344,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,3
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,9,22,00:09:22,3,0,61344,"Jean Montero","Xabi López-Arostegui","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",106,"Pérdida","Turnover",FALSE,1,9,7,00:09:07,3,0,61358,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,3
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",103,"Recuperación","Steal",TRUE,1,9,7,00:09:07,3,0,61358,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",94,"Canasta de 3","3-Point Shot Made",TRUE,1,8,53,00:08:53,6,0,61374,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,6
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,8,53,00:08:53,6,0,61374,"Jean Montero","Nate Reuvers","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+104644,21,"UCM",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,1,8,53,00:08:53,6,0,61381,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,1,8,38,00:08:38,6,2,61487,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,4
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",94,"Canasta de 3","3-Point Shot Made",TRUE,1,8,30,00:08:30,9,2,61495,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,7
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,8,30,00:08:30,9,2,61495,"Jean Montero","Jaime Pradilla","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,8,10,00:08:10,9,2,61516,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,8,10,00:08:10,9,2,61516,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",106,"Pérdida","Turnover",TRUE,1,8,7,00:08:07,9,2,61524,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,7,54,00:07:54,9,2,61551,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,7
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,7,54,00:07:54,9,2,61551,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,7
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,7,35,00:07:35,9,2,61571,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,7
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",105,"Tapón Recibido","Block Received",TRUE,1,7,35,00:07:35,9,2,61571,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,7
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",102,"Tapón","Block",FALSE,1,7,35,00:07:35,9,2,61571,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+104644,21,"VBC",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,7,34,00:07:34,9,2,61571,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",94,"Canasta de 3","3-Point Shot Made",TRUE,1,7,32,00:07:32,12,2,61596,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,10
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,7,32,00:07:32,12,2,61596,"Jean Montero","Brancou Badio","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,7,24,00:07:24,12,2,61606,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",105,"Tapón Recibido","Block Received",FALSE,1,7,24,00:07:24,12,2,61606,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",102,"Tapón","Block",TRUE,1,7,24,00:07:24,12,2,61606,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104644,21,"UCM",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,7,24,00:07:24,12,2,61606,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,7,17,00:07:17,12,2,61631,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,7,17,00:07:17,12,2,61631,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,10
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,7,6,00:07:06,12,2,61640,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104644,21,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,1,7,6,00:07:06,12,2,61640,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",100,"Mate","Dunk",TRUE,1,6,59,00:06:59,14,2,61653,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",160,"Personal 1TL","Foul 1FT",FALSE,1,6,59,00:06:59,14,2,61657,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",TRUE,1,6,59,00:06:59,14,2,61657,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",TRUE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",TRUE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",115,"Sale Pista","Substitution - Out",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",115,"Sale Pista","Substitution - Out",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",115,"Sale Pista","Substitution - Out",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",115,"Sale Pista","Substitution - Out",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",115,"Sale Pista","Substitution - Out",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30002036,"Howard Sant-Roos","H. Sant-Roos","Sant-Roos",112,"Entra Pista","Substitution - In",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",112,"Entra Pista","Substitution - In",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",112,"Entra Pista","Substitution - In",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",112,"Entra Pista","Substitution - In",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",112,"Entra Pista","Substitution - In",FALSE,1,6,59,00:06:59,14,2,61663,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,6,59,00:06:59,14,2,61697,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,12
+104644,21,"VBC",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,6,59,00:06:59,14,2,61697,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",TRUE,1,6,58,00:06:58,14,2,61703,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",112,"Entra Pista","Substitution - In",TRUE,1,6,58,00:06:58,14,2,61703,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",TRUE,1,6,48,00:06:48,16,2,61728,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",159,"Personal no TL","Foul No FT",TRUE,1,6,37,00:06:37,16,2,61745,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",110,"Falta recibida","Foul Received",FALSE,1,6,37,00:06:37,16,2,61745,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,6,29,00:06:29,16,2,61769,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,14
+104644,21,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,1,6,29,00:06:29,16,2,61769,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,14
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",94,"Canasta de 3","3-Point Shot Made",TRUE,1,6,14,00:06:14,19,2,61786,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,17
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,1,6,14,00:06:14,19,2,61786,"Jean Montero","Jaime Pradilla","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",93,"Canasta de 2","2-Point Shot Made",FALSE,1,6,1,00:06:01,19,4,61800,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,1,6,1,00:06:01,19,4,61800,"Jonah Radebaugh","Emanuel Cate","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",106,"Pérdida","Turnover",TRUE,1,5,53,00:05:53,19,4,61808,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",103,"Recuperación","Steal",FALSE,1,5,53,00:05:53,19,4,61808,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",94,"Canasta de 3","3-Point Shot Made",FALSE,1,5,47,00:05:47,19,7,61813,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,12
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,5,47,00:05:47,19,7,61813,"Jonah Radebaugh","Kelan Martin","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",93,"Canasta de 2","2-Point Shot Made",TRUE,1,5,22,00:05:22,21,7,61839,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,14
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",94,"Canasta de 3","3-Point Shot Made",FALSE,1,5,4,00:05:04,21,10,61857,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,1,5,4,00:05:04,21,10,61857,"Michael Forrest","Jonah Radebaugh","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",93,"Canasta de 2","2-Point Shot Made",TRUE,1,4,45,00:04:45,23,10,61876,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,4,45,00:04:45,23,10,61876,"Jaime Pradilla","Neal Sako","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",93,"Canasta de 2","2-Point Shot Made",FALSE,1,4,25,00:04:25,23,12,61896,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",TRUE,1,4,8,00:04:08,25,12,61913,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,1,3,56,00:03:56,25,12,61925,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",101,"Rebote Ofensivo","Offensive Rebound",FALSE,1,3,56,00:03:56,25,12,61925,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",93,"Canasta de 2","2-Point Shot Made",FALSE,1,3,49,00:03:49,25,14,61931,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",106,"Pérdida","Turnover",TRUE,1,3,35,00:03:35,25,14,61945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",103,"Recuperación","Steal",FALSE,1,3,35,00:03:35,25,14,61945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",159,"Personal no TL","Foul No FT",TRUE,1,3,30,00:03:30,25,14,61954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",110,"Falta recibida","Foul Received",FALSE,1,3,30,00:03:30,25,14,61954,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",112,"Entra Pista","Substitution - In",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",112,"Entra Pista","Substitution - In",TRUE,1,3,30,00:03:30,25,14,61963,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,3,19,00:03:19,25,14,61987,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",105,"Tapón Recibido","Block Received",FALSE,1,3,19,00:03:19,25,14,61987,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",102,"Tapón","Block",TRUE,1,3,19,00:03:19,25,14,61987,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,3,19,00:03:19,25,14,61987,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,3,9,00:03:09,25,14,61997,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",159,"Personal no TL","Foul No FT",FALSE,1,3,8,00:03:08,25,14,62007,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",110,"Falta recibida","Foul Received",TRUE,1,3,8,00:03:08,25,14,62007,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",93,"Canasta de 2","2-Point Shot Made",TRUE,1,3,1,00:03:01,27,14,62031,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,3,1,00:03:01,27,14,62031,"Omari Moore","Braxton Key","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,2,40,00:02:40,27,14,62052,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,2,40,00:02:40,27,14,62052,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,2,26,00:02:26,27,14,62066,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,2,26,00:02:26,27,14,62066,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,2,13,00:02:13,27,14,62080,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",101,"Rebote Ofensivo","Offensive Rebound",TRUE,1,2,13,00:02:13,27,14,62080,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",93,"Canasta de 2","2-Point Shot Made",TRUE,1,2,9,00:02:09,29,14,62084,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,1,2,9,00:02:09,29,14,62084,"Matt Costello","Sergio de Larrea","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",94,"Canasta de 3","3-Point Shot Made",FALSE,1,1,49,00:01:49,29,17,62104,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,12
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,1,1,38,00:01:38,29,17,62114,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"UCM",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",FALSE,1,1,38,00:01:38,29,17,62114,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",115,"Sale Pista","Substitution - Out",TRUE,1,1,35,00:01:35,29,17,62120,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",TRUE,1,1,35,00:01:35,29,17,62120,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",115,"Sale Pista","Substitution - Out",FALSE,1,1,35,00:01:35,29,17,62120,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",112,"Entra Pista","Substitution - In",FALSE,1,1,35,00:01:35,29,17,62120,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,1,23,00:01:23,29,17,62153,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,1,23,00:01:23,29,17,62153,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,12
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",161,"Personal 2TL","Foul 2FT",FALSE,1,1,4,00:01:04,29,17,62174,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",110,"Falta recibida","Foul Received",TRUE,1,1,4,00:01:04,29,17,62174,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,1,1,4,00:01:04,29,17,62174,"Omari Moore","Matt Costello","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",96,"Intento fallado de 1","Free Throw Missed",TRUE,1,1,4,00:01:04,29,17,62198,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",92,"Canasta de 1","Free Throw Made",TRUE,1,1,4,00:01:04,30,17,62216,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",93,"Canasta de 2","2-Point Shot Made",FALSE,1,0,42,00:00:42,30,19,62242,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",106,"Pérdida","Turnover",TRUE,1,0,27,00:00:27,30,19,62257,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",159,"Personal no TL","Foul No FT",TRUE,1,0,20,00:00:20,30,19,62266,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",110,"Falta recibida","Foul Received",FALSE,1,0,20,00:00:20,30,19,62266,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",159,"Personal no TL","Foul No FT",TRUE,1,0,18,00:00:18,30,19,62290,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",110,"Falta recibida","Foul Received",FALSE,1,0,18,00:00:18,30,19,62290,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,1,0,12,00:00:12,30,19,62317,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",105,"Tapón Recibido","Block Received",FALSE,1,0,12,00:00:12,30,19,62317,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",102,"Tapón","Block",TRUE,1,0,12,00:00:12,30,19,62317,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,1,0,12,00:00:12,30,19,62317,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",159,"Personal no TL","Foul No FT",FALSE,1,0,7,00:00:07,30,19,62324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",110,"Falta recibida","Foul Received",TRUE,1,0,7,00:00:07,30,19,62324,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,1,0,0,00:00:00,30,19,62350,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,1,0,0,00:00:00,30,19,62350,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104644,21,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,1,0,0,00:00:00,30,19,62356,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,2,10,0,00:10:00,30,19,62356,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",115,"Sale Pista","Substitution - Out",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",TRUE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",115,"Sale Pista","Substitution - Out",FALSE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",112,"Entra Pista","Substitution - In",FALSE,2,10,0,00:10:00,30,19,62479,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,9,45,00:09:45,30,19,62511,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,9,45,00:09:45,30,19,62511,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,9,41,00:09:41,30,19,62515,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,9,41,00:09:41,30,19,62515,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,9,25,00:09:25,30,19,62532,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,9,25,00:09:25,30,19,62532,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,9,25,00:09:25,30,19,62538,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,9,25,00:09:25,30,19,62538,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,11
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",159,"Personal no TL","Foul No FT",FALSE,2,9,24,00:09:24,30,19,62543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",TRUE,2,9,24,00:09:24,30,19,62543,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,9,7,00:09:07,30,19,62566,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,9,7,00:09:07,30,19,62566,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,9,0,00:09:00,30,19,62573,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,11
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,9,0,00:09:00,30,19,62573,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,11
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",93,"Canasta de 2","2-Point Shot Made",TRUE,2,8,53,00:08:53,32,19,62579,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"UCM",30002036,"Howard Sant-Roos","H. Sant-Roos","Sant-Roos",106,"Pérdida","Turnover",FALSE,2,8,38,00:08:38,32,19,62613,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",103,"Recuperación","Steal",TRUE,2,8,38,00:08:38,32,19,62613,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",161,"Personal 2TL","Foul 2FT",FALSE,2,8,22,00:08:22,32,19,62632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",110,"Falta recibida","Foul Received",TRUE,2,8,22,00:08:22,32,19,62632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,2,8,22,00:08:22,32,19,62632,"Jaime Pradilla","Nate Reuvers","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,13
+104644,21,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",TRUE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",TRUE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",30002036,"Howard Sant-Roos","H. Sant-Roos","Sant-Roos",115,"Sale Pista","Substitution - Out",FALSE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",115,"Sale Pista","Substitution - Out",FALSE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",115,"Sale Pista","Substitution - Out",FALSE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",112,"Entra Pista","Substitution - In",FALSE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",112,"Entra Pista","Substitution - In",FALSE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",112,"Entra Pista","Substitution - In",FALSE,2,8,22,00:08:22,32,19,62639,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,8,22,00:08:22,32,19,62666,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,8,22,00:08:22,32,19,62687,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,13
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,8,22,00:08:22,32,19,62687,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,8,12,00:08:12,32,19,62698,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,8,12,00:08:12,32,19,62698,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",106,"Pérdida","Turnover",TRUE,2,8,12,00:08:12,32,19,63968,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",103,"Recuperación","Steal",FALSE,2,8,12,00:08:12,32,19,63968,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",93,"Canasta de 2","2-Point Shot Made",FALSE,2,8,1,00:08:01,32,21,62709,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,2,8,1,00:08:01,32,21,62709,"Dylan Ennis","Devontae Cacok","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",93,"Canasta de 2","2-Point Shot Made",TRUE,2,7,47,00:07:47,34,21,62722,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",106,"Pérdida","Turnover",FALSE,2,7,39,00:07:39,34,21,62731,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,7,25,00:07:25,34,21,62750,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,7,25,00:07:25,34,21,62750,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",94,"Canasta de 3","3-Point Shot Made",FALSE,2,7,20,00:07:20,34,24,62756,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,10
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,7,20,00:07:20,34,24,62756,"Toni Nakic","Dylan Ennis","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,6,55,00:06:55,34,24,62780,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",159,"Personal no TL","Foul No FT",FALSE,2,6,53,00:06:53,34,24,62792,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,10
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",110,"Falta recibida","Foul Received",TRUE,2,6,53,00:06:53,34,24,62792,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",TRUE,2,6,41,00:06:41,37,24,62818,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,13
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,6,12,00:06:12,37,24,62851,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",159,"Personal no TL","Foul No FT",FALSE,2,6,12,00:06:12,37,24,62855,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",110,"Falta recibida","Foul Received",TRUE,2,6,12,00:06:12,37,24,62855,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",TRUE,2,6,12,00:06:12,37,24,62866,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",TRUE,2,6,12,00:06:12,37,24,62866,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",TRUE,2,6,12,00:06:12,37,24,62866,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",112,"Entra Pista","Substitution - In",TRUE,2,6,12,00:06:12,37,24,62866,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",115,"Sale Pista","Substitution - Out",FALSE,2,6,12,00:06:12,37,24,62878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"UCM",20210278,"Moussa Diagne","M. Diagné","Diagné",112,"Entra Pista","Substitution - In",FALSE,2,6,12,00:06:12,37,24,62878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,6,2,00:06:02,37,24,62915,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,6,2,00:06:02,37,24,62915,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,5,39,00:05:39,37,24,62933,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,5,39,00:05:39,37,24,62933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",100,"Mate","Dunk",TRUE,2,5,33,00:05:33,39,24,62944,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,15
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,5,33,00:05:33,39,24,62944,"Xabi López-Arostegui","Matt Costello","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15
+104644,21,"UCM",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,2,5,33,00:05:33,39,24,62947,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,2,5,33,00:05:33,39,24,63025,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",TRUE,2,5,33,00:05:33,39,24,63025,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,5,27,00:05:27,39,24,63049,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,5,27,00:05:27,39,24,63049,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",TRUE,2,5,13,00:05:13,42,24,63062,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",159,"Personal no TL","Foul No FT",TRUE,2,5,4,00:05:04,42,24,63073,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",110,"Falta recibida","Foul Received",FALSE,2,5,4,00:05:04,42,24,63073,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,4,45,00:04:45,42,24,63108,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,4,45,00:04:45,42,24,63108,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",161,"Personal 2TL","Foul 2FT",FALSE,2,4,44,00:04:44,42,24,63114,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",TRUE,2,4,44,00:04:44,42,24,63114,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,4,44,00:04:44,42,24,63160,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,18
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",92,"Canasta de 1","Free Throw Made",TRUE,2,4,44,00:04:44,43,24,63176,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,19
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,4,23,00:04:23,43,24,63199,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,19
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,4,23,00:04:23,43,24,63199,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,19
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",161,"Personal 2TL","Foul 2FT",TRUE,2,4,19,00:04:19,43,24,63207,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",110,"Falta recibida","Foul Received",FALSE,2,4,19,00:04:19,43,24,63207,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",TRUE,2,4,19,00:04:19,43,24,63220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",112,"Entra Pista","Substitution - In",TRUE,2,4,19,00:04:19,43,24,63220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",115,"Sale Pista","Substitution - Out",FALSE,2,4,19,00:04:19,43,24,63220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",112,"Entra Pista","Substitution - In",FALSE,2,4,19,00:04:19,43,24,63220,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",FALSE,2,4,19,00:04:19,43,25,63246,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,18
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",FALSE,2,4,19,00:04:19,43,26,63261,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",106,"Pérdida","Turnover",TRUE,2,4,10,00:04:10,43,26,64033,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",103,"Recuperación","Steal",FALSE,2,4,10,00:04:10,43,26,64033,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,2,3,58,00:03:58,43,28,63286,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",93,"Canasta de 2","2-Point Shot Made",TRUE,2,3,37,00:03:37,45,28,63307,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,17
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",161,"Personal 2TL","Foul 2FT",TRUE,2,3,23,00:03:23,45,28,63322,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",110,"Falta recibida","Foul Received",FALSE,2,3,23,00:03:23,45,28,63322,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",TRUE,2,3,23,00:03:23,45,28,63330,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",112,"Entra Pista","Substitution - In",TRUE,2,3,23,00:03:23,45,28,63330,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",FALSE,2,3,23,00:03:23,45,29,63355,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",FALSE,2,3,23,00:03:23,45,30,63372,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",TRUE,2,3,23,00:03:23,45,30,63373,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",TRUE,2,3,23,00:03:23,45,30,63373,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",161,"Personal 2TL","Foul 2FT",FALSE,2,3,19,00:03:19,45,30,63397,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",110,"Falta recibida","Foul Received",TRUE,2,3,19,00:03:19,45,30,63397,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",92,"Canasta de 1","Free Throw Made",TRUE,2,3,19,00:03:19,46,30,63415,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",92,"Canasta de 1","Free Throw Made",TRUE,2,3,19,00:03:19,47,30,63429,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,2,3,5,00:03:05,47,32,63446,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,15
+104644,21,"UCM",20210278,"Moussa Diagne","M. Diagné","Diagné",161,"Personal 2TL","Foul 2FT",FALSE,2,2,50,00:02:50,47,32,63462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,15
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",110,"Falta recibida","Foul Received",TRUE,2,2,50,00:02:50,47,32,63462,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",92,"Canasta de 1","Free Throw Made",TRUE,2,2,50,00:02:50,48,32,63485,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",92,"Canasta de 1","Free Throw Made",TRUE,2,2,50,00:02:50,49,32,63501,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",94,"Canasta de 3","3-Point Shot Made",FALSE,2,2,40,00:02:40,49,35,63515,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,2,40,00:02:40,49,35,63515,"David DeJulius","Sander Raieste","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",161,"Personal 2TL","Foul 2FT",FALSE,2,2,29,00:02:29,49,35,63527,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",110,"Falta recibida","Foul Received",TRUE,2,2,29,00:02:29,49,35,63527,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",92,"Canasta de 1","Free Throw Made",TRUE,2,2,29,00:02:29,50,35,63561,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,2,29,00:02:29,50,35,63563,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,15
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,2,29,00:02:29,50,35,63563,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,2,6,00:02:06,50,35,63587,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,15
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,2,6,00:02:06,50,35,63587,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,15
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,2,2,3,00:02:03,50,37,63590,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,1,59,00:01:59,50,37,63594,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",105,"Tapón Recibido","Block Received",TRUE,2,1,59,00:01:59,50,37,63594,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",102,"Tapón","Block",FALSE,2,1,59,00:01:59,50,37,63594,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,1,59,00:01:59,50,37,63594,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,13
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,2,1,44,00:01:44,50,37,63609,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,13
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,1,44,00:01:44,50,37,63609,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,1,35,00:01:35,50,37,63618,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,1,35,00:01:35,50,37,63618,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,13
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",94,"Canasta de 3","3-Point Shot Made",TRUE,2,1,25,00:01:25,53,37,63628,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,16
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,2,1,25,00:01:25,53,37,63628,"Sergio de Larrea","Nate Reuvers","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,16
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",159,"Personal no TL","Foul No FT",TRUE,2,1,19,00:01:19,53,37,63640,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",110,"Falta recibida","Foul Received",FALSE,2,1,19,00:01:19,53,37,63640,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",115,"Sale Pista","Substitution - Out",TRUE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",115,"Sale Pista","Substitution - Out",TRUE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",TRUE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",TRUE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",112,"Entra Pista","Substitution - In",TRUE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",TRUE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",115,"Sale Pista","Substitution - Out",FALSE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",115,"Sale Pista","Substitution - Out",FALSE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",115,"Sale Pista","Substitution - Out",FALSE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30002036,"Howard Sant-Roos","H. Sant-Roos","Sant-Roos",112,"Entra Pista","Substitution - In",FALSE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",112,"Entra Pista","Substitution - In",FALSE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",112,"Entra Pista","Substitution - In",FALSE,2,1,19,00:01:19,53,37,63647,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,1,4,00:01:04,53,37,63688,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104644,21,"UCM",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,2,1,4,00:01:04,53,37,63688,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,2,1,0,00:01:00,53,37,63712,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",104,"Rebote Defensivo","Defensive Rebound",TRUE,2,1,0,00:01:00,53,37,63712,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104644,21,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",93,"Canasta de 2","2-Point Shot Made",TRUE,2,0,54,00:00:54,55,37,63718,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,18
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,2,0,54,00:00:54,55,37,63718,"Brancou Badio","Darius Thompson","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,18
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",161,"Personal 2TL","Foul 2FT",TRUE,2,0,34,00:00:34,55,37,63742,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",110,"Falta recibida","Foul Received",FALSE,2,0,34,00:00:34,55,37,63742,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,2,0,34,00:00:34,55,37,63752,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",TRUE,2,0,34,00:00:34,55,37,63752,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",20210278,"Moussa Diagne","M. Diagné","Diagné",115,"Sale Pista","Substitution - Out",FALSE,2,0,34,00:00:34,55,37,63767,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",112,"Entra Pista","Substitution - In",FALSE,2,0,34,00:00:34,55,37,63767,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",92,"Canasta de 1","Free Throw Made",FALSE,2,0,34,00:00:34,55,38,63792,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",92,"Canasta de 1","Free Throw Made",FALSE,2,0,34,00:00:34,55,39,63807,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,16
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",115,"Sale Pista","Substitution - Out",FALSE,2,0,34,00:00:34,55,39,63808,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",112,"Entra Pista","Substitution - In",FALSE,2,0,34,00:00:34,55,39,63808,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,2,0,11,00:00:11,55,39,63844,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",101,"Rebote Ofensivo","Offensive Rebound",TRUE,2,0,11,00:00:11,55,39,63844,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,16
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",106,"Pérdida","Turnover",TRUE,2,0,4,00:00:04,55,39,63850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,16
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",103,"Recuperación","Steal",FALSE,2,0,4,00:00:04,55,39,63850,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+104644,21,"UCM",30002036,"Howard Sant-Roos","H. Sant-Roos","Sant-Roos",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,2,0,1,00:00:01,55,39,63859,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,16
+104644,21,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,55,39,63870,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,55,39,63870,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30001900,"Darius Thompson","D. Thompson","Thompson",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30002036,"Howard Sant-Roos","H. Sant-Roos","Sant-Roos",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",112,"Entra Pista","Substitution - In",FALSE,3,10,0,00:10:00,55,39,64724,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,9,45,00:09:45,55,39,64827,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,16
+104644,21,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,3,9,45,00:09:45,55,39,64827,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,16
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",100,"Mate","Dunk",TRUE,3,9,24,00:09:24,57,39,64875,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,18
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",537,"Técnica 1TL","Technical Foul 1FT",TRUE,3,9,23,00:09:23,57,39,64887,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,18
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",115,"Sale Pista","Substitution - Out",FALSE,3,9,23,00:09:23,57,39,64894,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",112,"Entra Pista","Substitution - In",FALSE,3,9,23,00:09:23,57,39,64894,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",FALSE,3,9,23,00:09:23,57,40,64918,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,17
+104644,21,"VBC",NA,NA,NA,NA,106,"Pérdida","Turnover",TRUE,3,9,23,00:09:23,57,40,64919,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,17
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",94,"Canasta de 3","3-Point Shot Made",FALSE,3,9,7,00:09:07,57,43,64940,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,14
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,9,7,00:09:07,57,43,64940,"David DeJulius","Kelan Martin","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",106,"Pérdida","Turnover",TRUE,3,8,55,00:08:55,57,43,65115,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,14
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",103,"Recuperación","Steal",FALSE,3,8,55,00:08:55,57,43,65115,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,51,00:08:51,57,45,64956,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,3,8,51,00:08:51,57,45,64956,"David DeJulius","Dylan Ennis","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",159,"Personal no TL","Foul No FT",FALSE,3,8,43,00:08:43,57,45,64969,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",110,"Falta recibida","Foul Received",TRUE,3,8,43,00:08:43,57,45,64969,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",106,"Pérdida","Turnover",TRUE,3,8,42,00:08:42,57,45,64989,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",103,"Recuperación","Steal",FALSE,3,8,42,00:08:42,57,45,64989,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,8,37,00:08:37,57,45,64994,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,8,37,00:08:37,57,45,64994,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",93,"Canasta de 2","2-Point Shot Made",FALSE,3,8,32,00:08:32,57,47,64999,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,10
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,8,17,00:08:17,57,47,65014,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,10
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,8,17,00:08:17,57,47,65014,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,8,7,00:08:07,57,47,65025,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,10
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,8,7,00:08:07,57,47,65025,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,10
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",93,"Canasta de 2","2-Point Shot Made",TRUE,3,7,54,00:07:54,59,47,65045,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",160,"Personal 1TL","Foul 1FT",FALSE,3,7,54,00:07:54,59,47,65056,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",TRUE,3,7,54,00:07:54,59,47,65056,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,NA,NA,NA,NA,NA,410,"IR - Revisión por enfrentamiento",NA,FALSE,3,7,54,00:07:54,59,47,65070,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,12
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",115,"Sale Pista","Substitution - Out",FALSE,3,7,54,00:07:54,59,47,65130,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",112,"Entra Pista","Substitution - In",FALSE,3,7,54,00:07:54,59,47,65130,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",92,"Canasta de 1","Free Throw Made",TRUE,3,7,54,00:07:54,60,47,65151,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",93,"Canasta de 2","2-Point Shot Made",FALSE,3,7,39,00:07:39,60,49,65173,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,11
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",93,"Canasta de 2","2-Point Shot Made",TRUE,3,7,19,00:07:19,62,49,65194,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,13
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",160,"Personal 1TL","Foul 1FT",FALSE,3,7,19,00:07:19,62,49,65198,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,13
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",110,"Falta recibida","Foul Received",TRUE,3,7,19,00:07:19,62,49,65198,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",92,"Canasta de 1","Free Throw Made",TRUE,3,7,19,00:07:19,63,49,65225,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",93,"Canasta de 2","2-Point Shot Made",FALSE,3,6,58,00:06:58,63,51,65260,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,12
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",159,"Personal no TL","Foul No FT",FALSE,3,6,38,00:06:38,63,51,65282,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",TRUE,3,6,38,00:06:38,63,51,65282,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",TRUE,3,6,38,00:06:38,63,51,65293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,3,6,38,00:06:38,63,51,65293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",TRUE,3,6,38,00:06:38,63,51,65293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",TRUE,3,6,38,00:06:38,63,51,65293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",115,"Sale Pista","Substitution - Out",FALSE,3,6,38,00:06:38,63,51,65293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",112,"Entra Pista","Substitution - In",FALSE,3,6,38,00:06:38,63,51,65293,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,6,33,00:06:33,63,51,65318,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,6,33,00:06:33,63,51,65318,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,12
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",162,"Personal 3TL","Foul 3FT",FALSE,3,6,32,00:06:32,63,51,65325,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,12
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",TRUE,3,6,32,00:06:32,63,51,65325,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,3,6,32,00:06:32,63,51,65325,"Neal Sako","Jean Montero","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,12
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",92,"Canasta de 1","Free Throw Made",TRUE,3,6,32,00:06:32,64,51,65340,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",92,"Canasta de 1","Free Throw Made",TRUE,3,6,32,00:06:32,65,51,65355,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,14
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",92,"Canasta de 1","Free Throw Made",TRUE,3,6,32,00:06:32,66,51,65370,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,15
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,6,18,00:06:18,66,51,65387,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,15
+104644,21,"VBC",NA,NA,NA,NA,104,"Rebote Defensivo","Defensive Rebound",TRUE,3,6,18,00:06:18,66,51,65387,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,15
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",TRUE,3,6,4,00:06:04,69,51,65402,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,18
+104644,21,"UCM",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,3,6,3,00:06:03,69,51,65410,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",TRUE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",TRUE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",TRUE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",112,"Entra Pista","Substitution - In",TRUE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",112,"Entra Pista","Substitution - In",TRUE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",112,"Entra Pista","Substitution - In",TRUE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",115,"Sale Pista","Substitution - Out",FALSE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",112,"Entra Pista","Substitution - In",FALSE,3,6,3,00:06:03,69,51,65492,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,5,50,00:05:50,69,51,65530,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,18
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,5,50,00:05:50,69,51,65530,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,18
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",93,"Canasta de 2","2-Point Shot Made",TRUE,3,5,30,00:05:30,71,51,65550,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,20
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,5,30,00:05:30,71,51,65550,"Omari Moore","Neal Sako","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,20
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",94,"Canasta de 3","3-Point Shot Made",FALSE,3,5,14,00:05:14,71,54,65569,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,17
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,5,14,00:05:14,71,54,65569,"Toni Nakic","Dylan Ennis","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",93,"Canasta de 2","2-Point Shot Made",TRUE,3,4,58,00:04:58,73,54,65586,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,19
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",160,"Personal 1TL","Foul 1FT",FALSE,3,4,58,00:04:58,73,54,65590,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,19
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",110,"Falta recibida","Foul Received",TRUE,3,4,58,00:04:58,73,54,65590,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19
+104644,21,"UCM",30005200,"Kelan Martin","K. Martin","Martin",115,"Sale Pista","Substitution - Out",FALSE,3,4,58,00:04:58,73,54,65595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",115,"Sale Pista","Substitution - Out",FALSE,3,4,58,00:04:58,73,54,65595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",112,"Entra Pista","Substitution - In",FALSE,3,4,58,00:04:58,73,54,65595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",112,"Entra Pista","Substitution - In",FALSE,3,4,58,00:04:58,73,54,65595,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",92,"Canasta de 1","Free Throw Made",TRUE,3,4,58,00:04:58,74,54,65621,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,20
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,4,38,00:04:38,74,54,65644,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,20
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",105,"Tapón Recibido","Block Received",FALSE,3,4,38,00:04:38,74,54,65644,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",102,"Tapón","Block",TRUE,3,4,38,00:04:38,74,54,65644,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,4,38,00:04:38,74,54,65644,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,20
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,3,4,20,00:04:20,74,54,65662,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,20
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",105,"Tapón Recibido","Block Received",TRUE,3,4,20,00:04:20,74,54,65662,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,20
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",102,"Tapón","Block",FALSE,3,4,20,00:04:20,74,54,65662,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,4,17,00:04:17,74,54,65662,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,20
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",94,"Canasta de 3","3-Point Shot Made",TRUE,3,4,14,00:04:14,77,54,65695,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,23
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,4,14,00:04:14,77,54,65695,"Sergio de Larrea","Omari Moore","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,23
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",93,"Canasta de 2","2-Point Shot Made",FALSE,3,4,6,00:04:06,77,56,65703,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,21
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",100,"Mate","Dunk",TRUE,3,3,50,00:03:50,79,56,65720,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,23
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,3,42,00:03:42,79,56,65727,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,23
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,42,00:03:42,79,56,65727,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,23
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",161,"Personal 2TL","Foul 2FT",FALSE,3,3,35,00:03:35,79,56,65737,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,23
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",110,"Falta recibida","Foul Received",TRUE,3,3,35,00:03:35,79,56,65737,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",TRUE,3,3,35,00:03:35,79,56,65747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",TRUE,3,3,35,00:03:35,79,56,65747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",115,"Sale Pista","Substitution - Out",FALSE,3,3,35,00:03:35,79,56,65747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",112,"Entra Pista","Substitution - In",FALSE,3,3,35,00:03:35,79,56,65747,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",92,"Canasta de 1","Free Throw Made",TRUE,3,3,35,00:03:35,80,56,65768,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,24
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",96,"Intento fallado de 1","Free Throw Missed",TRUE,3,3,35,00:03:35,80,56,65781,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,24
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,3,3,35,00:03:35,80,56,65781,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,3,11,00:03:11,80,56,65807,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,3,11,00:03:11,80,56,65807,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",106,"Pérdida","Turnover",TRUE,3,3,0,00:03:00,80,56,65819,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",103,"Recuperación","Steal",FALSE,3,3,0,00:03:00,80,56,65819,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",159,"Personal no TL","Foul No FT",TRUE,3,2,55,00:02:55,80,56,65824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",110,"Falta recibida","Foul Received",FALSE,3,2,55,00:02:55,80,56,65824,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",115,"Sale Pista","Substitution - Out",TRUE,3,2,55,00:02:55,80,56,65834,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",112,"Entra Pista","Substitution - In",TRUE,3,2,55,00:02:55,80,56,65834,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,2,34,00:02:34,80,56,65870,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,2,34,00:02:34,80,56,65870,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",94,"Canasta de 3","3-Point Shot Made",TRUE,3,2,24,00:02:24,83,56,65881,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,27
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,2,24,00:02:24,83,56,65881,"Sergio de Larrea","Matt Costello","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,27
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,1,54,00:01:54,83,56,65910,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,27
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,1,54,00:01:54,83,56,65910,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,27
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",94,"Canasta de 3","3-Point Shot Made",FALSE,3,1,47,00:01:47,83,59,65916,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,24
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,3,1,47,00:01:47,83,59,65916,"Michael Forrest","Jonah Radebaugh","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,24
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,3,1,33,00:01:33,83,59,65931,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",101,"Rebote Ofensivo","Offensive Rebound",TRUE,3,1,33,00:01:33,83,59,65931,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,24
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",93,"Canasta de 2","2-Point Shot Made",TRUE,3,1,27,00:01:27,85,59,65938,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,26
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,1,27,00:01:27,85,59,65938,"Matt Costello","Sergio de Larrea","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,26
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,3,1,12,00:01:12,85,59,65952,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,26
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,1,12,00:01:12,85,59,65952,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",94,"Canasta de 3","3-Point Shot Made",TRUE,3,1,7,00:01:07,88,59,65957,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,29
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,3,1,7,00:01:07,88,59,65957,"Sergio de Larrea","Brancou Badio","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,29
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",161,"Personal 2TL","Foul 2FT",TRUE,3,0,40,00:00:40,88,59,65988,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,29
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",110,"Falta recibida","Foul Received",FALSE,3,0,40,00:00:40,88,59,65988,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,29
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",115,"Sale Pista","Substitution - Out",TRUE,3,0,40,00:00:40,88,59,65995,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",115,"Sale Pista","Substitution - Out",TRUE,3,0,40,00:00:40,88,59,65995,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",112,"Entra Pista","Substitution - In",TRUE,3,0,40,00:00:40,88,59,65995,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",112,"Entra Pista","Substitution - In",TRUE,3,0,40,00:00:40,88,59,65995,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",115,"Sale Pista","Substitution - Out",TRUE,3,0,40,00:00:40,88,59,66007,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",112,"Entra Pista","Substitution - In",TRUE,3,0,40,00:00:40,88,59,66007,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",115,"Sale Pista","Substitution - Out",FALSE,3,0,40,00:00:40,88,59,66007,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",112,"Entra Pista","Substitution - In",FALSE,3,0,40,00:00:40,88,59,66007,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",92,"Canasta de 1","Free Throw Made",FALSE,3,0,40,00:00:40,88,60,66031,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,28
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",96,"Intento fallado de 1","Free Throw Missed",FALSE,3,0,40,00:00:40,88,60,66047,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,28
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",104,"Rebote Defensivo","Defensive Rebound",TRUE,3,0,40,00:00:40,88,60,66047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,28
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",100,"Mate","Dunk",TRUE,3,0,32,00:00:32,90,60,66055,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,30
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",107,"Asistencia tiro de 2","Assist 2-Point Shot",TRUE,3,0,32,00:00:32,90,60,66055,"Jean Montero","Matt Costello","Mate",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,30
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,3,0,11,00:00:11,90,60,66076,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,30
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",101,"Rebote Ofensivo","Offensive Rebound",FALSE,3,0,11,00:00:11,90,60,66076,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,30
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,3,0,1,00:00:01,90,62,66087,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,28
+104644,21,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,3,0,0,00:00:00,90,62,66101,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+104644,21,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,4,10,0,00:10:00,90,62,66101,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",115,"Sale Pista","Substitution - Out",TRUE,4,10,0,00:10:00,90,62,66216,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",112,"Entra Pista","Substitution - In",TRUE,4,10,0,00:10:00,90,62,66216,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,9,43,00:09:43,90,62,66232,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,28
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,9,43,00:09:43,90,62,66232,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,28
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",106,"Pérdida","Turnover",TRUE,4,9,40,00:09:40,90,62,66236,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,28
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",103,"Recuperación","Steal",FALSE,4,9,40,00:09:40,90,62,66236,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",100,"Mate","Dunk",FALSE,4,9,37,00:09:37,90,64,66239,"0","0","0",0,2,2,0,0,0,0,0,0,1,0,2,0,0,0,0,26
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",106,"Pérdida","Turnover",TRUE,4,9,17,00:09:17,90,64,66258,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",159,"Personal no TL","Foul No FT",TRUE,4,9,9,00:09:09,90,64,66269,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",110,"Falta recibida","Foul Received",FALSE,4,9,9,00:09:09,90,64,66269,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,8,51,00:08:51,90,64,66319,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,8,51,00:08:51,90,64,66319,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,26
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",93,"Canasta de 2","2-Point Shot Made",FALSE,4,8,47,00:08:47,90,66,66323,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,24
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",106,"Pérdida","Turnover",TRUE,4,8,41,00:08:41,90,66,66328,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",103,"Recuperación","Steal",FALSE,4,8,41,00:08:41,90,66,66328,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,8,37,00:08:37,90,66,66333,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",105,"Tapón Recibido","Block Received",FALSE,4,8,37,00:08:37,90,66,66333,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",102,"Tapón","Block",TRUE,4,8,37,00:08:37,90,66,66333,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,"UCM",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",FALSE,4,8,36,00:08:36,90,66,66333,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,24
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,8,21,00:08:21,90,66,66371,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,8,21,00:08:21,90,66,66371,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",109,"Falta en Ataque","Offensive Foul",TRUE,4,8,10,00:08:10,90,66,66385,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",106,"Pérdida","Turnover",TRUE,4,8,10,00:08:10,90,66,66385,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",110,"Falta recibida","Foul Received",FALSE,4,8,10,00:08:10,90,66,66385,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,NA,NA,NA,NA,NA,410,"IR - Revisión por enfrentamiento",NA,FALSE,4,8,10,00:08:10,90,66,66431,"0","0","0",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,24
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",168,"Antidep TL Comp","Double Unsportsmanlike - No FT",TRUE,4,8,10,00:08:10,90,66,66586,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",110,"Falta recibida","Foul Received",FALSE,4,8,10,00:08:10,90,66,66586,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",168,"Antidep TL Comp","Double Unsportsmanlike - No FT",FALSE,4,8,10,00:08:10,90,66,66602,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",110,"Falta recibida","Foul Received",TRUE,4,8,10,00:08:10,90,66,66602,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",115,"Sale Pista","Substitution - Out",FALSE,4,8,10,00:08:10,90,66,66632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",112,"Entra Pista","Substitution - In",FALSE,4,8,10,00:08:10,90,66,66632,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,7,56,00:07:56,90,66,66656,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,24
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,7,56,00:07:56,90,66,66656,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,7,30,00:07:30,90,66,66682,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,24
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,7,30,00:07:30,90,66,66682,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,24
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,4,7,17,00:07:17,90,68,66695,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,22
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",159,"Personal no TL","Foul No FT",FALSE,4,6,57,00:06:57,90,68,66719,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",110,"Falta recibida","Foul Received",TRUE,4,6,57,00:06:57,90,68,66719,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104644,21,"VBC",30002724,"Nate Reuvers","N. Reuvers","Reuvers",115,"Sale Pista","Substitution - Out",TRUE,4,6,57,00:06:57,90,68,66729,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",112,"Entra Pista","Substitution - In",TRUE,4,6,57,00:06:57,90,68,66729,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",20212239,"Sander Raieste","S. Raieste","Raieste",115,"Sale Pista","Substitution - Out",FALSE,4,6,57,00:06:57,90,68,66729,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",112,"Entra Pista","Substitution - In",FALSE,4,6,57,00:06:57,90,68,66729,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,6,44,00:06:44,90,68,66757,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,22
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,6,44,00:06:44,90,68,66757,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,22
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",109,"Falta en Ataque","Offensive Foul",FALSE,4,6,36,00:06:36,90,68,66773,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",106,"Pérdida","Turnover",FALSE,4,6,36,00:06:36,90,68,66773,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",TRUE,4,6,36,00:06:36,90,68,66773,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104644,21,"VBC",20211660,"Xabi López-Arostegui","López-Arostegui","López-A.",115,"Sale Pista","Substitution - Out",TRUE,4,6,36,00:06:36,90,68,66809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",112,"Entra Pista","Substitution - In",TRUE,4,6,36,00:06:36,90,68,66809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",30004000,"Devontae Cacok","D. Cacok","Cacok",115,"Sale Pista","Substitution - Out",FALSE,4,6,36,00:06:36,90,68,66809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",112,"Entra Pista","Substitution - In",FALSE,4,6,36,00:06:36,90,68,66809,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",94,"Canasta de 3","3-Point Shot Made",TRUE,4,6,13,00:06:13,93,68,66858,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,25
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,6,13,00:06:13,93,68,66858,"Jaime Pradilla","Jean Montero","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,25
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,5,52,00:05:52,93,68,66878,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,5,52,00:05:52,93,68,66878,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",159,"Personal no TL","Foul No FT",FALSE,4,5,46,00:05:46,93,68,66887,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",110,"Falta recibida","Foul Received",TRUE,4,5,46,00:05:46,93,68,66887,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
+104644,21,"VBC",30000107,"Brancou Badio","B. Badio","Badio",115,"Sale Pista","Substitution - Out",TRUE,4,5,46,00:05:46,93,68,66895,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",112,"Entra Pista","Substitution - In",TRUE,4,5,46,00:05:46,93,68,66895,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",93,"Canasta de 2","2-Point Shot Made",TRUE,4,5,37,00:05:37,95,68,66916,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,27
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",93,"Canasta de 2","2-Point Shot Made",FALSE,4,5,27,00:05:27,95,70,66926,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,25
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,5,7,00:05:07,95,70,66946,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,5,7,00:05:07,95,70,66946,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,5,0,00:05:00,95,70,66952,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,5,0,00:05:00,95,70,66952,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,4,40,00:04:40,95,70,66973,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,4,40,00:04:40,95,70,66973,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,4,19,00:04:19,95,70,66997,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",159,"Personal no TL","Foul No FT",TRUE,4,4,19,00:04:19,95,70,67006,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",110,"Falta recibida","Foul Received",FALSE,4,4,19,00:04:19,95,70,67006,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
+104644,21,"VBC",20211129,"Jaime Pradilla","J. Pradilla","Pradilla",115,"Sale Pista","Substitution - Out",TRUE,4,4,19,00:04:19,95,70,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104644,21,"VBC",30000514,"Jean Montero","J. Montero","Montero",115,"Sale Pista","Substitution - Out",TRUE,4,4,19,00:04:19,95,70,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",112,"Entra Pista","Substitution - In",TRUE,4,4,19,00:04:19,95,70,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",112,"Entra Pista","Substitution - In",TRUE,4,4,19,00:04:19,95,70,67012,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",94,"Canasta de 3","3-Point Shot Made",FALSE,4,4,16,00:04:16,95,73,67031,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,22
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,4,4,16,00:04:16,95,73,67031,"Dylan Ennis","Michael Forrest","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,22
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",161,"Personal 2TL","Foul 2FT",FALSE,4,4,2,00:04:02,95,73,67047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",110,"Falta recibida","Foul Received",TRUE,4,4,2,00:04:02,95,73,67047,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104644,21,"UCM",30003919,"Michael Forrest","M. Forrest","Forrest",115,"Sale Pista","Substitution - Out",FALSE,4,4,2,00:04:02,95,73,67057,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",112,"Entra Pista","Substitution - In",FALSE,4,4,2,00:04:02,95,73,67057,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",92,"Canasta de 1","Free Throw Made",TRUE,4,4,2,00:04:02,96,73,67104,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,23
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,4,2,00:04:02,96,73,67124,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,23
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,4,2,00:04:02,96,73,67124,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,23
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,3,55,00:03:55,96,73,67133,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,23
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",105,"Tapón Recibido","Block Received",FALSE,4,3,55,00:03:55,96,73,67133,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,23
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",102,"Tapón","Block",TRUE,4,3,55,00:03:55,96,73,67133,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,3,55,00:03:55,96,73,67133,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,23
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",94,"Canasta de 3","3-Point Shot Made",TRUE,4,3,47,00:03:47,99,73,67141,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,26
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,3,47,00:03:47,99,73,67141,"Omari Moore","Josep Puerto","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,26
+104644,21,"UCM",NA,NA,NA,NA,113,"Tiempo Muerto","Timeout",FALSE,4,3,44,00:03:44,99,73,67148,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104644,21,"VBC",30003973,"Neal Sako","N. Sako","Sako",115,"Sale Pista","Substitution - Out",TRUE,4,3,44,00:03:44,99,73,67213,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",112,"Entra Pista","Substitution - In",TRUE,4,3,44,00:03:44,99,73,67213,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",115,"Sale Pista","Substitution - Out",FALSE,4,3,44,00:03:44,99,73,67213,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",112,"Entra Pista","Substitution - In",FALSE,4,3,44,00:03:44,99,73,67213,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104644,21,"UCM",30001899,"Toni Nakic","T. Nakic","Nakic",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,3,35,00:03:35,99,73,67257,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,26
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,3,35,00:03:35,99,73,67257,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,3,20,00:03:20,99,73,67272,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",161,"Personal 2TL","Foul 2FT",TRUE,4,3,16,00:03:16,99,73,67282,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",110,"Falta recibida","Foul Received",FALSE,4,3,16,00:03:16,99,73,67282,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",92,"Canasta de 1","Free Throw Made",FALSE,4,3,16,00:03:16,99,74,67327,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,25
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",92,"Canasta de 1","Free Throw Made",FALSE,4,3,16,00:03:16,99,75,67356,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,24
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",93,"Canasta de 2","2-Point Shot Made",TRUE,4,3,5,00:03:05,101,75,67373,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,26
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",160,"Personal 1TL","Foul 1FT",FALSE,4,3,5,00:03:05,101,75,67376,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",110,"Falta recibida","Foul Received",TRUE,4,3,5,00:03:05,101,75,67376,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,3,5,00:03:05,101,75,67391,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,26
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,3,5,00:03:05,101,75,67391,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,26
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",161,"Personal 2TL","Foul 2FT",TRUE,4,2,53,00:02:53,101,75,67410,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",110,"Falta recibida","Foul Received",FALSE,4,2,53,00:02:53,101,75,67410,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",92,"Canasta de 1","Free Throw Made",FALSE,4,2,53,00:02:53,101,76,67424,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,25
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",96,"Intento fallado de 1","Free Throw Missed",FALSE,4,2,53,00:02:53,101,76,67438,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,25
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,2,53,00:02:53,101,76,67438,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",98,"Intento fallado de 3","3-Point Shot Missed",TRUE,4,2,43,00:02:43,101,76,67451,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,2,43,00:02:43,101,76,67451,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,25
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",106,"Pérdida","Turnover",TRUE,4,2,43,00:02:43,101,76,68057,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",103,"Recuperación","Steal",FALSE,4,2,43,00:02:43,101,76,68057,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",93,"Canasta de 2","2-Point Shot Made",FALSE,4,2,30,00:02:30,101,78,67465,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,23
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",107,"Asistencia tiro de 2","Assist 2-Point Shot",FALSE,4,2,30,00:02:30,101,78,67465,"David DeJulius","Dylan Ennis","Canasta de 2",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,23
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",160,"Personal 1TL","Foul 1FT",TRUE,4,2,30,00:02:30,101,78,67469,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,23
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",110,"Falta recibida","Foul Received",FALSE,4,2,30,00:02:30,101,78,67469,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",92,"Canasta de 1","Free Throw Made",FALSE,4,2,30,00:02:30,101,79,67500,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,22
+104644,21,"UCM",20212941,"Dylan Ennis","D. Ennis","Ennis",115,"Sale Pista","Substitution - Out",FALSE,4,2,30,00:02:30,101,79,67504,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",112,"Entra Pista","Substitution - In",FALSE,4,2,30,00:02:30,101,79,67504,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",161,"Personal 2TL","Foul 2FT",FALSE,4,2,20,00:02:20,101,79,67528,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,22
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",110,"Falta recibida","Foul Received",TRUE,4,2,20,00:02:20,101,79,67528,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,2,20,00:02:20,101,79,67551,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,22
+104644,21,"VBC",30004884,"Braxton Key","B. Key","Key",96,"Intento fallado de 1","Free Throw Missed",TRUE,4,2,20,00:02:20,101,79,67553,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,22
+104644,21,"VBC",NA,NA,NA,NA,101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,2,18,00:02:18,101,79,67553,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,22
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",94,"Canasta de 3","3-Point Shot Made",TRUE,4,2,10,00:02:10,104,79,67576,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,25
+104644,21,"UCM",30000649,"Wilhelm Falk","W. Falk","Falk",97,"Intento fallado de 2","2-Point Shot Missed",FALSE,4,1,43,00:01:43,104,79,67603,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,1,43,00:01:43,104,79,67603,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,25
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",93,"Canasta de 2","2-Point Shot Made",TRUE,4,1,32,00:01:32,106,79,67614,"0","0","0",0,2,2,0,0,1,0,0,0,0,0,2,0,0,0,0,27
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",98,"Intento fallado de 3","3-Point Shot Missed",FALSE,4,1,19,00:01:19,106,79,67627,"0","0","0",0,0,1,0,1,0,0,0,0,0,0,-1,0,0,0,0,27
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",104,"Rebote Defensivo","Defensive Rebound",TRUE,4,1,19,00:01:19,106,79,67627,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,27
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",106,"Pérdida","Turnover",TRUE,4,1,0,00:01:00,106,79,67670,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",106,"Pérdida","Turnover",FALSE,4,0,40,00:00:40,106,79,67696,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",97,"Intento fallado de 2","2-Point Shot Missed",TRUE,4,0,24,00:00:24,106,79,67722,"0","0","0",0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,27
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",101,"Rebote Ofensivo","Offensive Rebound",TRUE,4,0,24,00:00:24,106,79,67722,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,27
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",533,"Mate fuera","Missed Dunk",TRUE,4,0,23,00:00:23,106,79,67727,"0","0","0",0,0,1,0,0,0,0,0,0,0,1,-1,0,0,0,0,27
+104644,21,"UCM",30003940,"David DeJulius","D. DeJulius","DeJulius",104,"Rebote Defensivo","Defensive Rebound",FALSE,4,0,23,00:00:23,106,79,67727,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,27
+104644,21,"VBC",30000032,"Matt Costello","M. Costello","Costello",161,"Personal 2TL","Foul 2FT",TRUE,4,0,18,00:00:18,106,79,67746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,27
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",110,"Falta recibida","Foul Received",FALSE,4,0,18,00:00:18,106,79,67746,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",92,"Canasta de 1","Free Throw Made",FALSE,4,0,18,00:00:18,106,80,67767,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,26
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",92,"Canasta de 1","Free Throw Made",FALSE,4,0,18,00:00:18,106,81,67790,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,25
+104644,21,"UCM",20210914,"Emanuel Cate","E. Cate","Cate",537,"Técnica 1TL","Technical Foul 1FT",FALSE,4,0,18,00:00:18,106,81,67805,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,25
+104644,21,"VBC",20210392,"Josep Puerto","J. Puerto","Puerto",92,"Canasta de 1","Free Throw Made",TRUE,4,0,18,00:00:18,107,81,67821,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,26
+104644,21,"UCM",NA,NA,NA,NA,106,"Pérdida","Turnover",FALSE,4,0,18,00:00:18,107,81,67822,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,26
+104644,21,"VBC",30001360,"Sergio de Larrea","S. de Larrea","De Larrea",94,"Canasta de 3","3-Point Shot Made",TRUE,4,0,8,00:00:08,110,81,67850,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,29
+104644,21,"VBC",30003991,"Omari Moore","O. Moore","Moore",108,"Asistencia tiro de 3","Assist 3-Point Shot",TRUE,4,0,8,00:00:08,110,81,67850,"Omari Moore","Sergio de Larrea","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,29
+104644,21,"UCM",30001917,"Jonah Radebaugh","J. Radebaugh","Radebaugh",94,"Canasta de 3","3-Point Shot Made",FALSE,4,0,0,00:00:00,110,84,67863,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,26
+104644,21,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,4,0,0,00:00:00,110,84,67875,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+104644,21,NA,NA,NA,NA,NA,123,"Final Partido","End of the Game",FALSE,4,0,0,00:00:00,110,84,67875,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
 104645,21,"COV",30002524,"Mehdy Ngouama","M. Ngouama","Ngouama",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104645,21,"COV",30000063,"Jonathan Rousselle","J. Rousselle","Rousselle",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 104645,21,"COV",30005193,"Amar Alibegovic","A. Alibegovic","Alibegovic",599,"Cinco Inicial","Starting Five",FALSE,1,10,0,00:10:00,0,0,NA,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

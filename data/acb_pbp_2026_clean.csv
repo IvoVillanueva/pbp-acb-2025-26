@@ -109845,7 +109845,7 @@
 104642,21,"UNI",30005183,"Chase Audige","C. Audige","Audige",161,"Personal 2TL","Foul 2FT",FALSE,2,7,36,00:07:36,22,26,44806,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
 104642,21,"GIR",20211466,"Nikola Maric","N. Maric","Maric",110,"Falta recibida","Foul Received",TRUE,2,7,36,00:07:36,22,26,44806,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
 104642,21,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",115,"Sale Pista","Substitution - Out",TRUE,2,7,36,00:07:36,22,26,44832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
-104642,21,"GIR",30004854,"K. Rosembert","K. Rosembert",NA,112,"Entra Pista","Substitution - In",TRUE,2,7,36,00:07:36,22,26,44832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104642,21,"GIR",30004854,"Khory Rosembert","K. Rosembert","Rosembert",112,"Entra Pista","Substitution - In",TRUE,2,7,36,00:07:36,22,26,44832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104642,21,"UNI",30005183,"Chase Audige","C. Audige","Audige",115,"Sale Pista","Substitution - Out",FALSE,2,7,36,00:07:36,22,26,44832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104642,21,"UNI",20200191,"Jonathan Barreiro","J. Barreiro","Barreiro",112,"Entra Pista","Substitution - In",FALSE,2,7,36,00:07:36,22,26,44832,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104642,21,"GIR",20211466,"Nikola Maric","N. Maric","Maric",92,"Canasta de 1","Free Throw Made",TRUE,2,7,36,00:07:36,23,26,44870,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,3
@@ -109857,9 +109857,9 @@
 104642,21,"UNI",20200191,"Jonathan Barreiro","J. Barreiro","Barreiro",104,"Rebote Defensivo","Defensive Rebound",FALSE,2,7,5,00:07:05,23,28,44920,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5
 104642,21,"UNI",20200191,"Jonathan Barreiro","J. Barreiro","Barreiro",106,"Pérdida","Turnover",FALSE,2,6,52,00:06:52,23,28,44933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
 104642,21,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",103,"Recuperación","Steal",TRUE,2,6,52,00:06:52,23,28,44933,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
-104642,21,"GIR",30004854,"K. Rosembert","K. Rosembert",NA,106,"Pérdida","Turnover",TRUE,2,6,46,00:06:46,23,28,44941,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104642,21,"GIR",30004854,"Khory Rosembert","K. Rosembert","Rosembert",106,"Pérdida","Turnover",TRUE,2,6,46,00:06:46,23,28,44941,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
 104642,21,"UNI",30001977,"Kendrick Perry","K. Perry","Perry",103,"Recuperación","Steal",FALSE,2,6,46,00:06:46,23,28,44941,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
-104642,21,"GIR",30004854,"K. Rosembert","K. Rosembert",NA,159,"Personal no TL","Foul No FT",TRUE,2,6,46,00:06:46,23,28,44945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
+104642,21,"GIR",30004854,"Khory Rosembert","K. Rosembert","Rosembert",159,"Personal no TL","Foul No FT",TRUE,2,6,46,00:06:46,23,28,44945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,5
 104642,21,"UNI",30001977,"Kendrick Perry","K. Perry","Perry",110,"Falta recibida","Foul Received",FALSE,2,6,46,00:06:46,23,28,44945,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
 104642,21,"GIR",20211466,"Nikola Maric","N. Maric","Maric",115,"Sale Pista","Substitution - Out",TRUE,2,6,46,00:06:46,23,28,44956,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
 104642,21,"GIR",30002443,"Martinas Geben","M. Geben","Geben",112,"Entra Pista","Substitution - In",TRUE,2,6,46,00:06:46,23,28,44956,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
@@ -109888,7 +109888,7 @@
 104642,21,"UNI",30003966,"Chris Duarte","C. Duarte","Duarte",161,"Personal 2TL","Foul 2FT",FALSE,2,4,47,00:04:47,26,30,45254,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,4
 104642,21,"GIR",30002443,"Martinas Geben","M. Geben","Geben",110,"Falta recibida","Foul Received",TRUE,2,4,47,00:04:47,26,30,45254,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
 104642,21,"GIR",30003939,"Otis Livingston","O. Livingston","Livingston",119,"Asistencia Falta Recibida","Assist Foul Received",TRUE,2,4,47,00:04:47,26,30,45254,"Otis Livingston","Martinas Geben","Falta recibida",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4
-104642,21,"GIR",30004854,"K. Rosembert","K. Rosembert",NA,115,"Sale Pista","Substitution - Out",TRUE,2,4,47,00:04:47,26,30,45263,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+104642,21,"GIR",30004854,"Khory Rosembert","K. Rosembert","Rosembert",115,"Sale Pista","Substitution - Out",TRUE,2,4,47,00:04:47,26,30,45263,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104642,21,"GIR",30004008,"Mark Hughes","M. Hughes","Hughes",112,"Entra Pista","Substitution - In",TRUE,2,4,47,00:04:47,26,30,45263,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 104642,21,"GIR",30002443,"Martinas Geben","M. Geben","Geben",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,4,47,00:04:47,26,30,45290,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
 104642,21,"GIR",30002443,"Martinas Geben","M. Geben","Geben",96,"Intento fallado de 1","Free Throw Missed",TRUE,2,4,47,00:04:47,26,30,45310,"0","0","0",0,0,3,0,0,0,0,0,1,0,0,-1,0,0,0,0,4
@@ -109940,7 +109940,7 @@
 104642,21,"UNI",20200191,"Jonathan Barreiro","J. Barreiro","Barreiro",160,"Personal 1TL","Foul 1FT",FALSE,2,1,38,00:01:38,30,39,45813,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,9
 104642,21,"GIR",20211466,"Nikola Maric","N. Maric","Maric",110,"Falta recibida","Foul Received",TRUE,2,1,38,00:01:38,30,39,45813,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
 104642,21,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",115,"Sale Pista","Substitution - Out",TRUE,2,1,38,00:01:38,30,39,45823,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
-104642,21,"GIR",30004854,"K. Rosembert","K. Rosembert",NA,112,"Entra Pista","Substitution - In",TRUE,2,1,38,00:01:38,30,39,45823,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+104642,21,"GIR",30004854,"Khory Rosembert","K. Rosembert","Rosembert",112,"Entra Pista","Substitution - In",TRUE,2,1,38,00:01:38,30,39,45823,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
 104642,21,"GIR",20211466,"Nikola Maric","N. Maric","Maric",92,"Canasta de 1","Free Throw Made",TRUE,2,1,38,00:01:38,31,39,45844,"0","0","0",0,1,3,0,0,0,0,1,0,0,0,1,0,0,0,0,8
 104642,21,"UNI",30000954,"James Webb III","J. Webb","Webb",94,"Canasta de 3","3-Point Shot Made",FALSE,2,1,23,00:01:23,31,42,45860,"0","0","0",0,3,2,1,0,0,0,0,0,0,0,3,0,0,0,0,11
 104642,21,"UNI",30005249,"Justin Cobbs","J. Cobbs","Cobbs",108,"Asistencia tiro de 3","Assist 3-Point Shot",FALSE,2,1,23,00:01:23,31,42,45860,"Justin Cobbs","James Webb III","Canasta de 3",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11
@@ -109962,7 +109962,7 @@
 104642,21,NA,NA,NA,NA,NA,116,"Final de Periodo","End of the Quarter",FALSE,2,0,0,00:00:00,33,47,45971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104642,21,NA,NA,NA,NA,NA,121,"Inicio Periodo","Start of the Quarter",FALSE,3,10,0,00:10:00,33,47,45971,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104642,21,"GIR",30003990,"Pepe Vildoza","P. Vildoza","Vildoza",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,33,47,46852,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
-104642,21,"GIR",30004854,"K. Rosembert","K. Rosembert",NA,115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,33,47,46852,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+104642,21,"GIR",30004854,"Khory Rosembert","K. Rosembert","Rosembert",115,"Sale Pista","Substitution - Out",TRUE,3,10,0,00:10:00,33,47,46852,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104642,21,"GIR",30002674,"Mindaugas Susinskas","M. Susinskas","Susinskas",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,33,47,46852,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104642,21,"GIR",30003946,"Derek Needham","D. Needham","Needham",112,"Entra Pista","Substitution - In",TRUE,3,10,0,00:10:00,33,47,46852,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
 104642,21,"UNI",30005249,"Justin Cobbs","J. Cobbs","Cobbs",115,"Sale Pista","Substitution - Out",FALSE,3,10,0,00:10:00,33,47,46852,"0","0","0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
